@@ -4,14 +4,14 @@
       "@@/*": [
         ".dumi/tmp/*"
       ],
-      "nocobase-plugin-dingtalk/client": [
-        "packages/plugins/nocobase-plugin-ding-talk/src/client"
+      "@yeclimeric/nocobase-plugin-dingtalk/client": [
+        "packages/plugins/nocobase-plugin-dingtalk/src/client"
       ],
-      "nocobase-plugin-dingtalk/package.json": [
-        "packages/plugins/nocobase-plugin-ding-talk/package.json"
+      "@yeclimeric/nocobase-plugin-dingtalk/package.json": [
+        "packages/plugins/nocobase-plugin-dingtalk/package.json"
       ],
-      "nocobase-plugin-dingtalk": [
-        "packages/plugins/nocobase-plugin-ding-talk/src"
+      "@yeclimeric/nocobase-plugin-dingtalk": [
+        "packages/plugins/nocobase-plugin-dingtalk/src"
       ],
       "nocobase-plugin-ext/client": [
         "packages/plugins/nocobase-plugin-ext/src/client"

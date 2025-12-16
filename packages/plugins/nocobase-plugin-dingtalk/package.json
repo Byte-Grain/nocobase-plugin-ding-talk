@@ -1,5 +1,5 @@
 {
-  "name": "nocobase-plugin-dingtalk",
+  "name": "@yeclimeric/nocobase-plugin-dingtalk",
   "version": "1.9.0",
   "displayName": "DingTalk",
   "displayName.zh-CN": "钉钉登录",

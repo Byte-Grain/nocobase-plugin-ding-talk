@@ -24,25 +24,16 @@
     "@jridgewell/gen-mapping" "^0.3.5"
     "@jridgewell/trace-mapping" "^0.3.24"
 
-"@ant-design/colors@^7.0.0", "@ant-design/colors@^7.2.0":
+"@ant-design/colors@^7.0.0", "@ant-design/colors@^7.0.2":
   version "7.2.1"
-  resolved "https://registry.npmmirror.com/@ant-design/colors/-/colors-7.2.1.tgz#3bbc1c6c18550020d1622a0067ff03492318df98"
+  resolved "https://registry.yarnpkg.com/@ant-design/colors/-/colors-7.2.1.tgz#3bbc1c6c18550020d1622a0067ff03492318df98"
   integrity sha512-lCHDcEzieu4GA3n8ELeZ5VQ8pKQAWcGGLRTQ50aQM2iqPpq2evTxER84jfdPvsPAtEcZ7m44NI45edFMo8oOYQ==
   dependencies:
     "@ant-design/fast-color" "^2.0.6"
 
-"@ant-design/cssinjs-utils@^1.1.3":
-  version "1.1.3"
-  resolved "https://registry.npmmirror.com/@ant-design/cssinjs-utils/-/cssinjs-utils-1.1.3.tgz#5dd79126057920a6992d57b38dd84e2c0b707977"
-  integrity sha512-nOoQMLW1l+xR1Co8NFVYiP8pZp3VjIIzqV6D6ShYF2ljtdwWJn5WSsH+7kvCktXL/yhEtWURKOfH5Xz/gzlwsg==
-  dependencies:
-    "@ant-design/cssinjs" "^1.21.0"
-    "@babel/runtime" "^7.23.2"
-    rc-util "^5.38.0"
-
-"@ant-design/cssinjs@^1.11.1", "@ant-design/cssinjs@^1.21.0", "@ant-design/cssinjs@^1.21.1", "@ant-design/cssinjs@^1.23.0", "@ant-design/cssinjs@^1.3.1":
+"@ant-design/cssinjs@^1.11.1", "@ant-design/cssinjs@^1.18.2", "@ant-design/cssinjs@^1.21.1", "@ant-design/cssinjs@^1.3.1":
   version "1.24.0"
-  resolved "https://registry.npmmirror.com/@ant-design/cssinjs/-/cssinjs-1.24.0.tgz#7db091f03f189abc77a13cbd27a2293802cd7285"
+  resolved "https://registry.yarnpkg.com/@ant-design/cssinjs/-/cssinjs-1.24.0.tgz#7db091f03f189abc77a13cbd27a2293802cd7285"
   integrity sha512-K4cYrJBsgvL+IoozUXYjbT6LHHNt+19a9zkvpBPxLjFHas1UpPM2A5MlhROb0BT8N8WoavM5VsP9MeSeNK/3mg==
   dependencies:
     "@babel/runtime" "^7.11.1"
@@ -65,9 +56,9 @@
   resolved "https://registry.npmmirror.com/@ant-design/icons-svg/-/icons-svg-4.4.2.tgz#ed2be7fb4d82ac7e1d45a54a5b06d6cecf8be6f6"
   integrity sha512-vHbT+zJEVzllwP+CM+ul7reTEfBR0vgxFe7+lREAsAA7YGsYpboiq2sQNeQeRvh09GfQgs/GyFEvZpJ9cLXpXA==
 
-"@ant-design/icons@^5.0.0", "@ant-design/icons@^5.6.1":
+"@ant-design/icons@^5.0.0", "@ant-design/icons@^5.2.6", "@ant-design/icons@^5.6.1":
   version "5.6.1"
-  resolved "https://registry.npmmirror.com/@ant-design/icons/-/icons-5.6.1.tgz#7290fcdc3d96ff3fca793ed399053cd29ad5dbd3"
+  resolved "https://registry.yarnpkg.com/@ant-design/icons/-/icons-5.6.1.tgz#7290fcdc3d96ff3fca793ed399053cd29ad5dbd3"
   integrity sha512-0/xS39c91WjPAZOWsvi1//zjx6kAp4kxWwctR6kuU6p133w8RU0D2dSCvZC19uQyharg/sAvYxGYWl01BbZZfg==
   dependencies:
     "@ant-design/colors" "^7.0.0"
@@ -125,10 +116,10 @@
     safe-stable-stringify "^2.4.3"
     swr "^2.0.0"
 
-"@ant-design/react-slick@~1.1.2":
-  version "1.1.2"
-  resolved "https://registry.npmmirror.com/@ant-design/react-slick/-/react-slick-1.1.2.tgz#f84ce3e4d0dc941f02b16f1d1d6d7a371ffbb4f1"
-  integrity sha512-EzlvzE6xQUBrZuuhSAFTdsr4P2bBBHGZwKFemEfq8gIGyIQCxalYfZW/T2ORbtQx5rU69o+WycP3exY/7T1hGA==
+"@ant-design/react-slick@~1.0.2":
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/@ant-design/react-slick/-/react-slick-1.0.2.tgz#241bb412aeacf7ff5d50c61fa5db66773fde6b56"
+  integrity sha512-Wj8onxL/T8KQLFFiCA4t8eIRGpRR+UPgOdac2sYzonv+i0n3kXHmvHLLiOYL655DQx2Umii9Y9nNgL7ssu5haQ==
   dependencies:
     "@babel/runtime" "^7.10.4"
     classnames "^2.2.5"
@@ -1431,7 +1422,7 @@
   dependencies:
     regenerator-runtime "^0.14.0"
 
-"@babel/runtime@^7.10.1", "@babel/runtime@^7.10.4", "@babel/runtime@^7.11.1", "@babel/runtime@^7.11.2", "@babel/runtime@^7.12.5", "@babel/runtime@^7.14.5", "@babel/runtime@^7.15.4", "@babel/runtime@^7.16.7", "@babel/runtime@^7.18.0", "@babel/runtime@^7.18.3", "@babel/runtime@^7.18.6", "@babel/runtime@^7.20.0", "@babel/runtime@^7.20.6", "@babel/runtime@^7.20.7", "@babel/runtime@^7.21.0", "@babel/runtime@^7.22.5", "@babel/runtime@^7.23.2", "@babel/runtime@^7.23.6", "@babel/runtime@^7.23.9", "@babel/runtime@^7.24.1", "@babel/runtime@^7.24.4", "@babel/runtime@^7.24.7", "@babel/runtime@^7.24.8", "@babel/runtime@^7.25.7", "@babel/runtime@^7.26.0", "@babel/runtime@^7.7.2", "@babel/runtime@^7.7.6", "@babel/runtime@^7.7.7", "@babel/runtime@^7.9.2":
+"@babel/runtime@^7.10.1", "@babel/runtime@^7.10.4", "@babel/runtime@^7.11.1", "@babel/runtime@^7.11.2", "@babel/runtime@^7.12.5", "@babel/runtime@^7.14.5", "@babel/runtime@^7.15.4", "@babel/runtime@^7.16.7", "@babel/runtime@^7.18.0", "@babel/runtime@^7.18.3", "@babel/runtime@^7.18.6", "@babel/runtime@^7.20.0", "@babel/runtime@^7.20.6", "@babel/runtime@^7.20.7", "@babel/runtime@^7.21.0", "@babel/runtime@^7.22.5", "@babel/runtime@^7.23.2", "@babel/runtime@^7.23.6", "@babel/runtime@^7.24.1", "@babel/runtime@^7.24.7", "@babel/runtime@^7.24.8", "@babel/runtime@^7.7.2", "@babel/runtime@^7.7.6", "@babel/runtime@^7.7.7", "@babel/runtime@^7.9.2":
   version "7.28.4"
   resolved "https://registry.npmmirror.com/@babel/runtime/-/runtime-7.28.4.tgz#a70226016fabe25c5783b2f22d3e1c9bc5ca3326"
   integrity sha512-Q/N6JNWvIvPnLDvjlE1OUBLPQHH6l3CltCEsHIujp45zQUSSh8K+gHnaEX45yAT1nyngnINhvWtzN+Nb9D8RAQ==
@@ -1924,9 +1915,9 @@
   resolved "https://registry.npmmirror.com/@csstools/utilities/-/utilities-1.0.0.tgz#42f3c213f2fb929324d465684ab9f46a0febd4bb"
   integrity sha512-tAgvZQe/t2mlvpNosA4+CkMiZ2azISW5WPAcdSalZlEjQvUfghHxfQcrCiK/7/CrfAWVxyM88kGFYO82heIGDg==
 
-"@ctrl/tinycolor@^3.4.0", "@ctrl/tinycolor@^3.6.0":
+"@ctrl/tinycolor@^3.4.0", "@ctrl/tinycolor@^3.6.0", "@ctrl/tinycolor@^3.6.1":
   version "3.6.1"
-  resolved "https://registry.npmmirror.com/@ctrl/tinycolor/-/tinycolor-3.6.1.tgz#b6c75a56a1947cc916ea058772d666a2c8932f31"
+  resolved "https://registry.yarnpkg.com/@ctrl/tinycolor/-/tinycolor-3.6.1.tgz#b6c75a56a1947cc916ea058772d666a2c8932f31"
   integrity sha512-SITSV6aIXsuVNV3f3O0f2n/cgyEDWoSqtZMYiAmcsYHydcKrOz3gUxB/iXd/Qf08+IZX4KpgNbvUdMBmWz+kcA==
 
 "@dabh/diagnostics@^2.0.8":
@@ -2739,12 +2730,27 @@
   resolved "https://registry.npmmirror.com/@floating-ui/core/-/core-0.6.2.tgz#f2813f0e5f3d5ed7af5029e1a082203dadf02b7d"
   integrity sha512-jktYRmZwmau63adUG3GKOAVCofBXkk55S/zQ94XOorAHhwqFIOFAy1rSp2N0Wp6/tGbe9V3u/ExlGZypyY17rg==
 
+"@floating-ui/core@^1.7.3":
+  version "1.7.3"
+  resolved "https://registry.yarnpkg.com/@floating-ui/core/-/core-1.7.3.tgz#462d722f001e23e46d86fd2bd0d21b7693ccb8b7"
+  integrity sha512-sGnvb5dmrJaKEZ+LDIpguvdX3bDlEllmv4/ClQ9awcmCZrlx5jQyyMWFM5kBI+EyNOCDDiKk8il0zeuX3Zlg/w==
+  dependencies:
+    "@floating-ui/utils" "^0.2.10"
+
 "@floating-ui/dom@^0.4.5":
   version "0.4.5"
   resolved "https://registry.npmmirror.com/@floating-ui/dom/-/dom-0.4.5.tgz#2e88d16646119cc67d44683f75ee99840475bbfa"
   integrity sha512-b+prvQgJt8pieaKYMSJBXHxX/DYwdLsAWxKYqnO5dO2V4oo/TYBZJAUQCVNjTWWsrs6o4VDrNcP9+E70HAhJdw==
   dependencies:
     "@floating-ui/core" "^0.6.2"
+
+"@floating-ui/dom@^1.4.2":
+  version "1.7.4"
+  resolved "https://registry.yarnpkg.com/@floating-ui/dom/-/dom-1.7.4.tgz#ee667549998745c9c3e3e84683b909c31d6c9a77"
+  integrity sha512-OOchDgh4F2CchOX94cRVqhvy7b3AFb+/rQXyswmzmGakRfkMgoWVjfnLWkRirfLEfuD4ysVW16eXzwt3jHIzKA==
+  dependencies:
+    "@floating-ui/core" "^1.7.3"
+    "@floating-ui/utils" "^0.2.10"
 
 "@floating-ui/react-dom-interactions@^0.3.1":
   version "0.3.1"
@@ -2763,6 +2769,11 @@
   dependencies:
     "@floating-ui/dom" "^0.4.5"
     use-isomorphic-layout-effect "^1.1.1"
+
+"@floating-ui/utils@^0.2.10":
+  version "0.2.10"
+  resolved "https://registry.yarnpkg.com/@floating-ui/utils/-/utils-0.2.10.tgz#a2a1e3812d14525f725d011a73eceb41fef5bc1c"
+  integrity sha512-aGTxbpbg8/b5JfU1HXSrbH3wXZuLPJcNEcZQFMxLs3oSzgtVu6nFPkbbGGUvBcUjKV2YyB9Wxxabo+HEH9tcRQ==
 
 "@formily/antd-v5@1.2.3":
   version "1.2.3"
@@ -4023,7 +4034,16 @@
   resolved "https://registry.npmmirror.com/@noble/hashes/-/hashes-1.8.0.tgz#cee43d801fcef9644b11b8194857695acd5f815a"
   integrity sha512-jCs9ldd7NwzpgXDIf6P3+NrHh9/sD6CQdxHyjQI+h/6rDNo88ypBxxz45UDuZHz9r3tNz7N/VInSVoVdtXEI4A==
 
-"@nocobase/acl@1.9.0", "@nocobase/acl@^1.9.0":
+"@nocobase/acl@1.9.26":
+  version "1.9.26"
+  resolved "https://registry.yarnpkg.com/@nocobase/acl/-/acl-1.9.26.tgz#4bc51507cb6cb596af1f1f037216809a9f5b72fe"
+  integrity sha512-n95QWDJ5Y56N0Zc8+wyPb4FOgkLq33ko+jellclsmcIguNxje7vWhQ+F+77lYHBuBX/g9iGl68ZSw6+3Q21FsA==
+  dependencies:
+    "@nocobase/resourcer" "1.9.26"
+    "@nocobase/utils" "1.9.26"
+    minimatch "^5.1.1"
+
+"@nocobase/acl@^1.9.0":
   version "1.9.0"
   resolved "https://registry.npmmirror.com/@nocobase/acl/-/acl-1.9.0.tgz#419c78cbd0fcb0942ca75a4edb5cc81367b96fec"
   integrity sha512-M5L8IrWrQ1q4KcLYUu/UWKglIkrPZg7GTlaZFzRLF37C22VUSMtIiin8d9uYhlT0xMY4csXx+gnXef7Ze5nnSw==
@@ -4032,41 +4052,41 @@
     "@nocobase/utils" "1.9.0"
     minimatch "^5.1.1"
 
-"@nocobase/actions@1.9.0":
-  version "1.9.0"
-  resolved "https://registry.npmmirror.com/@nocobase/actions/-/actions-1.9.0.tgz#a5187be9ec453ad5672d318bb541788257c8c0ce"
-  integrity sha512-mKt2qnfKU8tNmoymeNYftnhICey5nWcOscmRg75EpuH7lilR/it/V+6BS8Zv5bFcA4EQWR3pjybIM1EJh6cHew==
+"@nocobase/actions@1.9.26":
+  version "1.9.26"
+  resolved "https://registry.yarnpkg.com/@nocobase/actions/-/actions-1.9.26.tgz#6b16cb39fb0b9a886bd69c1f953cdea67fb0f50a"
+  integrity sha512-/IHrQckjqL50xzfRi2uHbve79InlBRNMBbYYzQbI0igHCyll9t+7k7EBFMOoeClNBeI/bHUb2p7CLZK1XNzhGA==
   dependencies:
-    "@nocobase/cache" "1.9.0"
-    "@nocobase/database" "1.9.0"
-    "@nocobase/resourcer" "1.9.0"
+    "@nocobase/cache" "1.9.26"
+    "@nocobase/database" "1.9.26"
+    "@nocobase/resourcer" "1.9.26"
 
-"@nocobase/app@1.9.0":
-  version "1.9.0"
-  resolved "https://registry.npmmirror.com/@nocobase/app/-/app-1.9.0.tgz#3c30788352d59d67f1c1d6c2974e3240ee2b2244"
-  integrity sha512-qTHMGiNOiivvkWXgQRIzXL053OxtlpXWxXuGlG8lFzxYtzfgSJ38a7UAgKmh4tOT67i/UIGgiCiMf3c35Kvcsg==
+"@nocobase/app@1.9.26":
+  version "1.9.26"
+  resolved "https://registry.yarnpkg.com/@nocobase/app/-/app-1.9.26.tgz#3ebc5122088104c47439290b6484976703da2f76"
+  integrity sha512-PXIegGE58MgU2oljjHYXQ7IIW+xQ2P4SBjR7hqIVzAcIusD+eWxC6YOZoXko9FAklVotvYV7atfnJcoyFKFchQ==
   dependencies:
-    "@nocobase/database" "1.9.0"
-    "@nocobase/preset-nocobase" "1.9.0"
-    "@nocobase/server" "1.9.0"
+    "@nocobase/database" "1.9.26"
+    "@nocobase/preset-nocobase" "1.9.26"
+    "@nocobase/server" "1.9.26"
 
-"@nocobase/auth@1.9.0":
-  version "1.9.0"
-  resolved "https://registry.npmmirror.com/@nocobase/auth/-/auth-1.9.0.tgz#9419beb4747bffb04ddd673cc2cb3604a290abe6"
-  integrity sha512-3hQF2dJT6ulqB4cI59VfUdO+lnk5pz66jrt0+o6MpiSEfbT28OGl01K8+W2O5soiIwxUJyTziWmBqr8zvm0cbg==
+"@nocobase/auth@1.9.26":
+  version "1.9.26"
+  resolved "https://registry.yarnpkg.com/@nocobase/auth/-/auth-1.9.26.tgz#c6eb2e641bb59023062c51abc133ebe3fa610d8d"
+  integrity sha512-Z/6tXyhXEZW2nl4JiBHSESYPv64VM54KK9R/vYaTJz5yohqCdBQyxlr9ln/BUVUZNd2/khCiHBlniyX0eT7liQ==
   dependencies:
-    "@nocobase/actions" "1.9.0"
-    "@nocobase/cache" "1.9.0"
-    "@nocobase/database" "1.9.0"
-    "@nocobase/resourcer" "1.9.0"
-    "@nocobase/utils" "1.9.0"
+    "@nocobase/actions" "1.9.26"
+    "@nocobase/cache" "1.9.26"
+    "@nocobase/database" "1.9.26"
+    "@nocobase/resourcer" "1.9.26"
+    "@nocobase/utils" "1.9.26"
     "@types/jsonwebtoken" "^9.0.9"
     jsonwebtoken "^9.0.2"
 
-"@nocobase/build@1.9.0":
-  version "1.9.0"
-  resolved "https://registry.npmmirror.com/@nocobase/build/-/build-1.9.0.tgz#ef21b061e28aaac290ee157d3b1df2d6d8844d1d"
-  integrity sha512-Ftt7NUY1a+oswFDob2WBYFDUU44TT4TYigMXJV3AHhtFNLEmbvGm9NgbtiyLyPxwffZ3oj7XMxBnNbykI7VBbg==
+"@nocobase/build@1.9.26":
+  version "1.9.26"
+  resolved "https://registry.yarnpkg.com/@nocobase/build/-/build-1.9.26.tgz#963cbc3a82133be103c61a5d6284a31ec35c49f5"
+  integrity sha512-tyUdojtbNRFtmmqCxBn17MBYgJHyB0tiIH3cU2GCLUNpD/8NmVUg+pBXciTtbOxVIAGagNpwZfo5hxQwm0GUvQ==
   dependencies:
     "@babel/core" "^7.26.0"
     "@babel/plugin-syntax-dynamic-import" "^7.8.3"
@@ -4108,23 +4128,23 @@
     vite-plugin-lib-inject-css "1.2.0"
     yargs-parser "13.1.2"
 
-"@nocobase/cache@1.9.0":
-  version "1.9.0"
-  resolved "https://registry.npmmirror.com/@nocobase/cache/-/cache-1.9.0.tgz#d30d2ce2bcc8337e0c89fb2564697c1d01990a08"
-  integrity sha512-xU+BZWMeL15TA7st1pDWjZ+NhZvSwD1kkPYr4KTXOGqcFO6mJFOKk/bkNUH8azHb9ZvpHO0ncLl5cGMH3B+hMA==
+"@nocobase/cache@1.9.26":
+  version "1.9.26"
+  resolved "https://registry.yarnpkg.com/@nocobase/cache/-/cache-1.9.26.tgz#f441ec730383d2dad46670c806c6343586e6f3fc"
+  integrity sha512-TeDYr3pDTKa3i3qZTmDmlwOBfgYBTPTQBQJMCIK8DXaHULLmYpauJpmz2/3TbfsIqus+kcXnYv6jo1zhthzhFQ==
   dependencies:
-    "@nocobase/lock-manager" "1.9.0"
+    "@nocobase/lock-manager" "1.9.26"
     bloom-filters "^3.0.1"
     cache-manager "^5.2.4"
     cache-manager-redis-yet "^4.1.2"
 
-"@nocobase/cli@^1.9.0":
-  version "1.9.0"
-  resolved "https://registry.npmmirror.com/@nocobase/cli/-/cli-1.9.0.tgz#e697850eb1908492167afb4a18f4c4e90f345dd9"
-  integrity sha512-xt02OHatO41Vh6fL6iSKTYw7oBdayXPU6sfrsmGRArO1VX7IcnUW8W8KNrss5KAsr0okOclWxAto+52w7z8m1Q==
+"@nocobase/cli@1.9.26":
+  version "1.9.26"
+  resolved "https://registry.yarnpkg.com/@nocobase/cli/-/cli-1.9.26.tgz#0902f6f11b49fa4aeb715afaf71890d783963bdb"
+  integrity sha512-riYw1780CA1+7A846ON0eZxzQ3+CzbBp36kxhkdgOato7nmlrx95DEOE5vY1hAA6XL/rarXvV/LHMqPnyov7mA==
   dependencies:
-    "@nocobase/app" "1.9.0"
-    "@nocobase/license-kit" "^0.2.17"
+    "@nocobase/app" "1.9.26"
+    "@nocobase/license-kit" "^0.3.2"
     "@types/fs-extra" "^11.0.1"
     "@umijs/utils" "3.5.20"
     chalk "^4.1.1"
@@ -4141,10 +4161,10 @@
     tree-kill "^1.2.2"
     tsx "^4.19.0"
 
-"@nocobase/client@1.9.0":
-  version "1.9.0"
-  resolved "https://registry.npmmirror.com/@nocobase/client/-/client-1.9.0.tgz#0089eb9bb3462d7161fe5a7c45363d142c4dc86b"
-  integrity sha512-yjAk0wLj9kgGOI1hgB1AK0QDYQ/HQ/ne82pfoDeAoAXLuvT3TkxH/iKUupwxT049YO75hzVyOgOJvhGOKue1Kw==
+"@nocobase/client@1.9.26":
+  version "1.9.26"
+  resolved "https://registry.yarnpkg.com/@nocobase/client/-/client-1.9.26.tgz#09d04e483872abaed7070abb3c6542c58811f467"
+  integrity sha512-m0Zs0Taa9/W4pHwNcOfFbq3a/SghgJZVBY0qvgxUYOu/u+M7V1BOEkxl4nyrnjQ1+E3n8B6h6cmme1X560bAqA==
   dependencies:
     "@ahooksjs/use-url-state" "3.5.1"
     "@ant-design/cssinjs" "^1.11.1"
@@ -4166,11 +4186,13 @@
     "@formily/reactive-react" "^2.2.27"
     "@formily/shared" "^2.2.27"
     "@formily/validator" "^2.2.27"
-    "@nocobase/evaluators" "1.9.0"
-    "@nocobase/sdk" "1.9.0"
-    "@nocobase/utils" "1.9.0"
+    "@nocobase/evaluators" "1.9.26"
+    "@nocobase/sdk" "1.9.26"
+    "@nocobase/utils" "1.9.26"
     ahooks "^3.7.2"
     antd "5.24.2"
+    antd-mobile "^5.41.1"
+    antd-mobile-icons "^0.3.0"
     antd-style "3.7.1"
     axios "^1.7.0"
     bignumber.js "^9.1.2"
@@ -4209,26 +4231,26 @@
     sanitize-html "2.13.0"
     use-deep-compare-effect "^1.8.1"
 
-"@nocobase/data-source-manager@1.9.0":
-  version "1.9.0"
-  resolved "https://registry.npmmirror.com/@nocobase/data-source-manager/-/data-source-manager-1.9.0.tgz#a736461f1c75200d2e4f577d7dd8d61bc56f1439"
-  integrity sha512-QVocDcK8cByU4+yeTHkm+YVGBh1PYz2tyZL0x1ea8OsImyHRjnsTGI3WfqJAidEbPU841taymQraeR7VG7cGFg==
+"@nocobase/data-source-manager@1.9.26":
+  version "1.9.26"
+  resolved "https://registry.yarnpkg.com/@nocobase/data-source-manager/-/data-source-manager-1.9.26.tgz#6db2f083f68477b880913cac7f635d9ef8334dc3"
+  integrity sha512-nll7gWWlFl0HlwsnaG5dqTfJWYIlkhST19oxOHfIokhrnnhEqybv+6qGpLizJ2w/pZEoY1Dg8KPv/Xv8e3OQ0w==
   dependencies:
-    "@nocobase/actions" "1.9.0"
-    "@nocobase/cache" "1.9.0"
-    "@nocobase/database" "1.9.0"
-    "@nocobase/resourcer" "1.9.0"
-    "@nocobase/utils" "1.9.0"
+    "@nocobase/actions" "1.9.26"
+    "@nocobase/cache" "1.9.26"
+    "@nocobase/database" "1.9.26"
+    "@nocobase/resourcer" "1.9.26"
+    "@nocobase/utils" "1.9.26"
     "@types/jsonwebtoken" "^8.5.8"
     jsonwebtoken "^9.0.2"
 
-"@nocobase/database@1.9.0":
-  version "1.9.0"
-  resolved "https://registry.npmmirror.com/@nocobase/database/-/database-1.9.0.tgz#cecf2f10dd75ffd0dad2d48641edd77fcfa70d26"
-  integrity sha512-PrImePtS/hA5+H0SCvMz6hp10YrrnIWoJOfCZv9PL1SMzgDz4U9qlqvTOVlZvDpcArCs2o2gT/Lw1WUk8xXoVw==
+"@nocobase/database@1.9.26":
+  version "1.9.26"
+  resolved "https://registry.yarnpkg.com/@nocobase/database/-/database-1.9.26.tgz#a794e592d27a678431430446c460a6d6eb38dbbb"
+  integrity sha512-H2BcyqTNabRn7E+dV0WZpeYELDvvOZCXPZ4i6m2WXfAx+MrN6A+GVMz+69jJtQ4r3j/na45paffzW4G3SF/qVQ==
   dependencies:
-    "@nocobase/logger" "1.9.0"
-    "@nocobase/utils" "1.9.0"
+    "@nocobase/logger" "1.9.26"
+    "@nocobase/utils" "1.9.26"
     async-mutex "^0.3.2"
     chalk "^4.1.1"
     cron-parser "4.4.0"
@@ -4252,14 +4274,14 @@
     umzug "^3.1.1"
     uuid "^9.0.1"
 
-"@nocobase/devtools@^1.9.0":
-  version "1.9.0"
-  resolved "https://registry.npmmirror.com/@nocobase/devtools/-/devtools-1.9.0.tgz#600dc714548518769c5ac666a90881c59f65f930"
-  integrity sha512-6JCwSuAGDJ7tJsjdccO7XavkN14vz2+l0Rq55+AbXR25MsSQWyKxFBfloIgIrEFMpqLwIgR1zEeJWGCIlh6EmQ==
+"@nocobase/devtools@1.9.26":
+  version "1.9.26"
+  resolved "https://registry.yarnpkg.com/@nocobase/devtools/-/devtools-1.9.26.tgz#34a75fce8d111745667b94392ffefb08bc13fd53"
+  integrity sha512-wpO3cbKcFMGGAcBF9iB2BARjzBP9jc14L7uKlJSKjgi/4aI7ZQi4Lo2dSlkreiQKkqQX8B1fqx2jGMqSAqLWkw==
   dependencies:
-    "@nocobase/build" "1.9.0"
-    "@nocobase/client" "1.9.0"
-    "@nocobase/test" "1.9.0"
+    "@nocobase/build" "1.9.26"
+    "@nocobase/client" "1.9.26"
+    "@nocobase/test" "1.9.26"
     "@types/koa" "^2.15.0"
     "@types/koa-bodyparser" "^4.3.4"
     "@types/lodash" "^4.14.177"
@@ -4297,126 +4319,126 @@
     typescript "5.1.3"
     umi "^4.0.69"
 
-"@nocobase/evaluators@1.9.0":
-  version "1.9.0"
-  resolved "https://registry.npmmirror.com/@nocobase/evaluators/-/evaluators-1.9.0.tgz#40f011b9224541700cb6351fc87d78e7be78801a"
-  integrity sha512-Q+BPEQyUNQVv77VSDqI8WLx+0sYadauQSaVWrf5cJ/X0vqfzGIBQ+k8HRnabTC91Ow4CmnXxyxm7/bRMbbXtPA==
+"@nocobase/evaluators@1.9.26":
+  version "1.9.26"
+  resolved "https://registry.yarnpkg.com/@nocobase/evaluators/-/evaluators-1.9.26.tgz#929249a808c61d38e0df35974b553bf5ba7c88bf"
+  integrity sha512-ZPuofeRglyI8Ktqpv/7jx/zKo127/5p6Ci3sywgQjjx0KlBNtgv595Tt9RPAuuBmMv+NPeWdGdAWOUITrF4Jqg==
   dependencies:
     "@formulajs/formulajs" "4.4.9"
-    "@nocobase/utils" "1.9.0"
+    "@nocobase/utils" "1.9.26"
     mathjs "^10.6.0"
 
-"@nocobase/license-kit-android-arm-eabi@0.2.17":
-  version "0.2.17"
-  resolved "https://registry.npmmirror.com/@nocobase/license-kit-android-arm-eabi/-/license-kit-android-arm-eabi-0.2.17.tgz#78f33933665d098f0185ac520a0bad7deaa761f8"
-  integrity sha512-Bih3BXBfqc+tRYW8j44m6OyxnlQPjWH29YYQv6tufgGQNSvnvW6PgLUNXYuKR3H0Zvrxy7rtT00P91VYVUfRkg==
+"@nocobase/license-kit-android-arm-eabi@0.3.2":
+  version "0.3.2"
+  resolved "https://registry.yarnpkg.com/@nocobase/license-kit-android-arm-eabi/-/license-kit-android-arm-eabi-0.3.2.tgz#c4245699155af414ddb5bf14047eafbf5524c248"
+  integrity sha512-zL6yLDEHwgavo2/M1ltYTbSZMyJaLsi+DTWsRZ3oPzTXoM75CQ//z11WyfqyMEha6oLUq+/bgLK9SaR01BkY4Q==
 
-"@nocobase/license-kit-android-arm64@0.2.17":
-  version "0.2.17"
-  resolved "https://registry.npmmirror.com/@nocobase/license-kit-android-arm64/-/license-kit-android-arm64-0.2.17.tgz#af90ce248668ae022669519e7067cefdd4d418d9"
-  integrity sha512-GTW5CTCYtN47MAaxAOZ3J9B8eUOt/gxAOr2s/QQU9Z9tfLkEm/ojmRm4o5U76TRhwfBu5r/JsGKzpZbOa5jNkA==
+"@nocobase/license-kit-android-arm64@0.3.2":
+  version "0.3.2"
+  resolved "https://registry.yarnpkg.com/@nocobase/license-kit-android-arm64/-/license-kit-android-arm64-0.3.2.tgz#9852262354990b8411ed35256d6574ed6149f112"
+  integrity sha512-LyXp7M0f9G1dttVTa1SoyDt0Zflu7THmx97UZE3f5YyCwPtmeD2p9fJlOUNc1GckXNlXfLjDUYsv8eXNpAqLUQ==
 
-"@nocobase/license-kit-darwin-arm64@0.2.17":
-  version "0.2.17"
-  resolved "https://registry.npmmirror.com/@nocobase/license-kit-darwin-arm64/-/license-kit-darwin-arm64-0.2.17.tgz#558745501a2da418932804299831c5e734a4d962"
-  integrity sha512-2+cZvLEFTEEIWqG70D2fds1f0KRL/w00UCO/l+iqU3NPVowBwu6pOpk/c7ET4BDj/VWP2BaxpK0x768qCcC9oQ==
+"@nocobase/license-kit-darwin-arm64@0.3.2":
+  version "0.3.2"
+  resolved "https://registry.yarnpkg.com/@nocobase/license-kit-darwin-arm64/-/license-kit-darwin-arm64-0.3.2.tgz#21ac2f978542ae5f1cb5e1b56088e4fb060779d7"
+  integrity sha512-bxcab61+UCq31g0JXNv9qC+pMYBSSCigdt4//4DY//Lt48m+4reGbHmF8SqrQMEaoQSgbUlpCTau4rOMF6d/8w==
 
-"@nocobase/license-kit-darwin-universal@0.2.17":
-  version "0.2.17"
-  resolved "https://registry.npmmirror.com/@nocobase/license-kit-darwin-universal/-/license-kit-darwin-universal-0.2.17.tgz#08c92293f926feb7e41a38e1b087cbd3c0dec93a"
-  integrity sha512-CEwmNXHe3pdvA39jMYbwSEcuJzJaV+I7vbgE4otY5LrKSpvz/yvP4jNzKG6V9Q9ZW2DyGRGwlBm5X2Npz6J9Ag==
+"@nocobase/license-kit-darwin-universal@0.3.2":
+  version "0.3.2"
+  resolved "https://registry.yarnpkg.com/@nocobase/license-kit-darwin-universal/-/license-kit-darwin-universal-0.3.2.tgz#032af09bb395b59cc0de9b721d5aa63dc2c36b33"
+  integrity sha512-2rEuJDhL1uTDJ/tUFFaZOpNjWKJNDWE8Hz6Vf+kNKRjUeqb12zc86DcDxBtembOoRLolWjfiTDLyH7G1GlDCUg==
 
-"@nocobase/license-kit-darwin-x64@0.2.17":
-  version "0.2.17"
-  resolved "https://registry.npmmirror.com/@nocobase/license-kit-darwin-x64/-/license-kit-darwin-x64-0.2.17.tgz#3a260770af0cca07a5097c201b42ffee8bf4ca83"
-  integrity sha512-rAebM7kdrGMVt6b2SklxjhpxyUSOLLYzYA6myNMBUzAXr76KRKfAxiwudcysbvKhGrKcUOvwKthN01aptVXNwg==
+"@nocobase/license-kit-darwin-x64@0.3.2":
+  version "0.3.2"
+  resolved "https://registry.yarnpkg.com/@nocobase/license-kit-darwin-x64/-/license-kit-darwin-x64-0.3.2.tgz#968c325a572c2e578d765424caccd8d0dbeee82f"
+  integrity sha512-oiGm0p8jFV0K2pVkn1HciT9BrDzhcpHf2Mw/Fylyp+jkAlUt9RbKwE0I5A8Y+qN9jUiJptS0GAQETecnpiHdjA==
 
-"@nocobase/license-kit-freebsd-x64@0.2.17":
-  version "0.2.17"
-  resolved "https://registry.npmmirror.com/@nocobase/license-kit-freebsd-x64/-/license-kit-freebsd-x64-0.2.17.tgz#8a5ebf61b4275e9ac17527f1e3e567ccf6aef134"
-  integrity sha512-4DKMIXWIKxjrcm+mCmiiuPZr5W93u9xRduHbT4/EqfJK46w/uay28xRUz1u0Znj02KqmGUqIdsh667g49v9Qbw==
+"@nocobase/license-kit-freebsd-x64@0.3.2":
+  version "0.3.2"
+  resolved "https://registry.yarnpkg.com/@nocobase/license-kit-freebsd-x64/-/license-kit-freebsd-x64-0.3.2.tgz#9f617412a45a7be2b43a7335b84e3c0e17e33bb6"
+  integrity sha512-ZTd4q0+Q29SXOJKTogA9yi3uI0SPnsvvkU0bRKBNVxTI5caPEohJ+mUT78D/Bd0BYVgTzlb95FFRjkURIe4f9A==
 
-"@nocobase/license-kit-linux-arm-gnueabihf@0.2.17":
-  version "0.2.17"
-  resolved "https://registry.npmmirror.com/@nocobase/license-kit-linux-arm-gnueabihf/-/license-kit-linux-arm-gnueabihf-0.2.17.tgz#d59488c21911117047b7e9ef11b471f82ff4fd97"
-  integrity sha512-LZpNdvqg8u1TltAlv4d+PwDtoVwvZqQYu2XjITrP4OdVMm00TRJ9mR1SOUqm+zaWQl0yUF2/Lj91XE+hGEybwQ==
+"@nocobase/license-kit-linux-arm-gnueabihf@0.3.2":
+  version "0.3.2"
+  resolved "https://registry.yarnpkg.com/@nocobase/license-kit-linux-arm-gnueabihf/-/license-kit-linux-arm-gnueabihf-0.3.2.tgz#26ba49298ff47c2c3405b728856bed239e0b69ff"
+  integrity sha512-XuGpBPBb9uCkvgFiSynucfna24aX8UmYfzOTKkrrWl/qDgRXLqmuG5vhn0V6DzCavONMBH44jSMuJwd0ZqejEw==
 
-"@nocobase/license-kit-linux-arm-musleabihf@0.2.17":
-  version "0.2.17"
-  resolved "https://registry.npmmirror.com/@nocobase/license-kit-linux-arm-musleabihf/-/license-kit-linux-arm-musleabihf-0.2.17.tgz#0e6ecd403151f8806935a1394c82e6ad94dcc505"
-  integrity sha512-PGy1i24S42Mhaq38He2m9F3FOYGP90fHWPThrKDWph6PmLLFn+lJNF5s/nisa4Tqe3fE9wxhHWQJdmzkc73k/w==
+"@nocobase/license-kit-linux-arm-musleabihf@0.3.2":
+  version "0.3.2"
+  resolved "https://registry.yarnpkg.com/@nocobase/license-kit-linux-arm-musleabihf/-/license-kit-linux-arm-musleabihf-0.3.2.tgz#b64212a820de859fdafe6303079949e89092cb2e"
+  integrity sha512-iEbzSCcWqVnakxwS30V5lxYgm3gMaMotW2nIPvvjtVMTBluKPoNbqzlZ2Jf+sS96k6YvEkV2WV7rWgsc40/H7w==
 
-"@nocobase/license-kit-linux-arm64-gnu@0.2.17":
-  version "0.2.17"
-  resolved "https://registry.npmmirror.com/@nocobase/license-kit-linux-arm64-gnu/-/license-kit-linux-arm64-gnu-0.2.17.tgz#21c78b07f2d08bfb8b98adc03f2b1a3ae3a8aa83"
-  integrity sha512-vNltMG9Zp4PbrUb40xTpCxVDvDJFTV5hHiJWYmxPKJoSsVY5GcQum2FLWbnDzPrtRrNYoJaBUgLCyH9n9AC4gQ==
+"@nocobase/license-kit-linux-arm64-gnu@0.3.2":
+  version "0.3.2"
+  resolved "https://registry.yarnpkg.com/@nocobase/license-kit-linux-arm64-gnu/-/license-kit-linux-arm64-gnu-0.3.2.tgz#60b67ab69d854d7bda6aedf63a901aaf4aea9d58"
+  integrity sha512-6SUnOfqOa8lv7flqjnZhdByXQvjdLa4I63jXdIwLuPxeHoA8vO3svPz/pPd6GrvbEPWv0NCApa4MpJ1Kl2agKQ==
 
-"@nocobase/license-kit-linux-arm64-musl@0.2.17":
-  version "0.2.17"
-  resolved "https://registry.npmmirror.com/@nocobase/license-kit-linux-arm64-musl/-/license-kit-linux-arm64-musl-0.2.17.tgz#f293bfb42d0afbd168fcf1ff6631b5e7eaac35cf"
-  integrity sha512-bnQ+B2w5CIBi4FfaS20kRNh+V1lrxmpOHAJ3uDCG29Z32/+CuRcJ3ETXb8wMbybmL0/qSlJWBeXBVzZdoHAE6g==
+"@nocobase/license-kit-linux-arm64-musl@0.3.2":
+  version "0.3.2"
+  resolved "https://registry.yarnpkg.com/@nocobase/license-kit-linux-arm64-musl/-/license-kit-linux-arm64-musl-0.3.2.tgz#ce8e06f4f516ca6773cb4eb916eaa6a11cef6e0f"
+  integrity sha512-1g7WJ8UCoOHTZ0a28sr4Vcq81LicPmi0cNHiAjALpfidokO/WG2DDEwe6uahoLcdFz6Fxx4la235dsoa41NLvg==
 
-"@nocobase/license-kit-linux-riscv64-gnu@0.2.17":
-  version "0.2.17"
-  resolved "https://registry.npmmirror.com/@nocobase/license-kit-linux-riscv64-gnu/-/license-kit-linux-riscv64-gnu-0.2.17.tgz#c19b9c9bbcc5a9cc6de0b0f1aaa73eee4b6fe987"
-  integrity sha512-q5lS2bW3wd1wdINluuJNdFYsteB8lb50n8UjDpSwBmn88ywl2MPdAZqYk4jT5HQ08yfRHOVBDfEEV1L9VJg4UQ==
+"@nocobase/license-kit-linux-riscv64-gnu@0.3.2":
+  version "0.3.2"
+  resolved "https://registry.yarnpkg.com/@nocobase/license-kit-linux-riscv64-gnu/-/license-kit-linux-riscv64-gnu-0.3.2.tgz#c071d0bd262045a43e99201a5fce1bd9a6a51ed8"
+  integrity sha512-vPfN9W+9f+t+Gwtv2QPoHP5LUtyswcY5IinARhoR0w953fCbWcnzhMDLYIS7SLh5SINeQgGkXWRcfYOysMY5pQ==
 
-"@nocobase/license-kit-linux-x64-gnu@0.2.17":
-  version "0.2.17"
-  resolved "https://registry.npmmirror.com/@nocobase/license-kit-linux-x64-gnu/-/license-kit-linux-x64-gnu-0.2.17.tgz#1f66075dddc5a1ed230f354799eda77e950dbefe"
-  integrity sha512-iATmtVSzS3aNFpUmjC0qis5naoDplCpsLVqBRV41Ma4td70AKt2k4kbw9EetgvDR08HJJCxBy6GDK+BqkdSJOA==
+"@nocobase/license-kit-linux-x64-gnu@0.3.2":
+  version "0.3.2"
+  resolved "https://registry.yarnpkg.com/@nocobase/license-kit-linux-x64-gnu/-/license-kit-linux-x64-gnu-0.3.2.tgz#0ee4b4019e2fee0c9c0b275ea685580867fb9a49"
+  integrity sha512-9CeOjUxizBycWogmLFBk2MYJn0xYq7RCAEH1zPdg5B5DBn0Uaj9xnCGpLSuQ9pbPCmz18yLfVRtH835Dr7WMLw==
 
-"@nocobase/license-kit-linux-x64-musl@0.2.17":
-  version "0.2.17"
-  resolved "https://registry.npmmirror.com/@nocobase/license-kit-linux-x64-musl/-/license-kit-linux-x64-musl-0.2.17.tgz#ddc5b10960ca30650c1471bf4207eaf175944896"
-  integrity sha512-l18wyBmCUEMj/gs/zFsECkDWLSm0W0wtwN3h/sAlYM/7BOOezle5RLO3mzkEODnDoAR6+qPI7oDYWieWCTtzsw==
+"@nocobase/license-kit-linux-x64-musl@0.3.2":
+  version "0.3.2"
+  resolved "https://registry.yarnpkg.com/@nocobase/license-kit-linux-x64-musl/-/license-kit-linux-x64-musl-0.3.2.tgz#6dbd3bd127d8cc0a502dec36102ee0038b3c2df5"
+  integrity sha512-6c7fXMUmG84Ev2wDt1Tq4w9I2SgPOWvQD4D6aLCAHDIZudxbDsIK0sbk88a9VqEJ4LLhczv3DM6ccfUimqvqWQ==
 
-"@nocobase/license-kit-win32-arm64-msvc@0.2.17":
-  version "0.2.17"
-  resolved "https://registry.npmmirror.com/@nocobase/license-kit-win32-arm64-msvc/-/license-kit-win32-arm64-msvc-0.2.17.tgz#a80c240d274a2c8a6c332c8a40e45b491965125b"
-  integrity sha512-is0JKTwLI5lFZ7JS7Ar92L7Ng+f1J5XULhkD5r/78Qgmyw+0BR3RxVfw3c9KJwYIaCUA3SF/opvCcx8DrYaelw==
+"@nocobase/license-kit-win32-arm64-msvc@0.3.2":
+  version "0.3.2"
+  resolved "https://registry.yarnpkg.com/@nocobase/license-kit-win32-arm64-msvc/-/license-kit-win32-arm64-msvc-0.3.2.tgz#0f94ba2fd24b906bc5da8c8a1effba19f36dd625"
+  integrity sha512-rd/KEJSZnCsw40pHdh0AawsGWLDix6xI2DfGixetVT8FFUjjugDmL7R8JRpWzbuCkaMhZJ7ciWlYH/+XLEbdpQ==
 
-"@nocobase/license-kit-win32-ia32-msvc@0.2.17":
-  version "0.2.17"
-  resolved "https://registry.npmmirror.com/@nocobase/license-kit-win32-ia32-msvc/-/license-kit-win32-ia32-msvc-0.2.17.tgz#e199385f9cdb142713cf7d171003afdbb34049bb"
-  integrity sha512-VsZQiP128lQSliD3YDsvTecgxv4u1CxEkc73bV7wbd9od4zA0ZU6JR3LCPXxM2cH/+Pq8c9HW/zv2vpuDRi2ig==
+"@nocobase/license-kit-win32-ia32-msvc@0.3.2":
+  version "0.3.2"
+  resolved "https://registry.yarnpkg.com/@nocobase/license-kit-win32-ia32-msvc/-/license-kit-win32-ia32-msvc-0.3.2.tgz#7d4a6035dad452591656a7a8a7e8afd258515c2e"
+  integrity sha512-tMbym2XsQoQn2695CFJm5KCVYgywMnfSm7/TvqNPf4ZCLRDfzG5wPowQ9Zd+8DpblFHsLkc0VcTtpbU4x6gwLA==
 
-"@nocobase/license-kit-win32-x64-msvc@0.2.17":
-  version "0.2.17"
-  resolved "https://registry.npmmirror.com/@nocobase/license-kit-win32-x64-msvc/-/license-kit-win32-x64-msvc-0.2.17.tgz#42c3db778b6e7eb23f0991119b95fc7e8eb528e3"
-  integrity sha512-P63I3zLb0qXbg1ntywijRWou/NY1qkrZ2znqyUni6EpGfyIVbIwCMxj/X0bGWzhydsYPqSmlbpOY0L4dhHgpJw==
+"@nocobase/license-kit-win32-x64-msvc@0.3.2":
+  version "0.3.2"
+  resolved "https://registry.yarnpkg.com/@nocobase/license-kit-win32-x64-msvc/-/license-kit-win32-x64-msvc-0.3.2.tgz#a24ae002c09dac1095f822d5d2a3357998b96efb"
+  integrity sha512-K3MpuvFbWsKgvN2Iu/BB15taF+mZjjO5B1aJUijH6gf3foNweUVI++t1uz6GKZIZpZnXpNEyXUjlmwkkW2BqAw==
 
-"@nocobase/license-kit@^0.2.17":
-  version "0.2.17"
-  resolved "https://registry.npmmirror.com/@nocobase/license-kit/-/license-kit-0.2.17.tgz#32eec43ca36144d5843b49d126838d26d3f10530"
-  integrity sha512-ao7xY/51UWe/dgycQ13XK2mx993eH9rOwHMO0kZfdGWcZE438fDokAqCP31xqH8gVXY4LW2+xIjxd6cNPAbrMg==
+"@nocobase/license-kit@^0.3.2":
+  version "0.3.2"
+  resolved "https://registry.yarnpkg.com/@nocobase/license-kit/-/license-kit-0.3.2.tgz#7682e7a603831f244094e14ded327ca7797da3be"
+  integrity sha512-tHpxkIQMSfcpS7fkFoufl7EF49EiWRuEErRUDQ/LR/r1GmTi0rj1/DZVbbSiO37C0Rhkci/YFJMff9+AnppTdg==
   optionalDependencies:
-    "@nocobase/license-kit-android-arm-eabi" "0.2.17"
-    "@nocobase/license-kit-android-arm64" "0.2.17"
-    "@nocobase/license-kit-darwin-arm64" "0.2.17"
-    "@nocobase/license-kit-darwin-universal" "0.2.17"
-    "@nocobase/license-kit-darwin-x64" "0.2.17"
-    "@nocobase/license-kit-freebsd-x64" "0.2.17"
-    "@nocobase/license-kit-linux-arm-gnueabihf" "0.2.17"
-    "@nocobase/license-kit-linux-arm-musleabihf" "0.2.17"
-    "@nocobase/license-kit-linux-arm64-gnu" "0.2.17"
-    "@nocobase/license-kit-linux-arm64-musl" "0.2.17"
-    "@nocobase/license-kit-linux-riscv64-gnu" "0.2.17"
-    "@nocobase/license-kit-linux-x64-gnu" "0.2.17"
-    "@nocobase/license-kit-linux-x64-musl" "0.2.17"
-    "@nocobase/license-kit-win32-arm64-msvc" "0.2.17"
-    "@nocobase/license-kit-win32-ia32-msvc" "0.2.17"
-    "@nocobase/license-kit-win32-x64-msvc" "0.2.17"
+    "@nocobase/license-kit-android-arm-eabi" "0.3.2"
+    "@nocobase/license-kit-android-arm64" "0.3.2"
+    "@nocobase/license-kit-darwin-arm64" "0.3.2"
+    "@nocobase/license-kit-darwin-universal" "0.3.2"
+    "@nocobase/license-kit-darwin-x64" "0.3.2"
+    "@nocobase/license-kit-freebsd-x64" "0.3.2"
+    "@nocobase/license-kit-linux-arm-gnueabihf" "0.3.2"
+    "@nocobase/license-kit-linux-arm-musleabihf" "0.3.2"
+    "@nocobase/license-kit-linux-arm64-gnu" "0.3.2"
+    "@nocobase/license-kit-linux-arm64-musl" "0.3.2"
+    "@nocobase/license-kit-linux-riscv64-gnu" "0.3.2"
+    "@nocobase/license-kit-linux-x64-gnu" "0.3.2"
+    "@nocobase/license-kit-linux-x64-musl" "0.3.2"
+    "@nocobase/license-kit-win32-arm64-msvc" "0.3.2"
+    "@nocobase/license-kit-win32-ia32-msvc" "0.3.2"
+    "@nocobase/license-kit-win32-x64-msvc" "0.3.2"
 
-"@nocobase/lock-manager@1.9.0":
-  version "1.9.0"
-  resolved "https://registry.npmmirror.com/@nocobase/lock-manager/-/lock-manager-1.9.0.tgz#8a753648ae7b86f08e8af51b400226587806f3d7"
-  integrity sha512-5h9f+Iw011tubpRXP++/EOFnVdQHvNoAaSo+x+IQuZx+Yky5G/vozV7goIJVVRKtsLs4uakjggPRwfYiJDaxiQ==
+"@nocobase/lock-manager@1.9.26":
+  version "1.9.26"
+  resolved "https://registry.yarnpkg.com/@nocobase/lock-manager/-/lock-manager-1.9.26.tgz#5c5d587b91751a2e06262ec143f0f264d7531e11"
+  integrity sha512-EK8YhENtdOyFlSTav2ANTk9ihy9qU6fTSyaJpuHloFjJ+cwW93Wx7QAydJ9rp4+MEnSFU1UmBudJ5CEGXEyM2A==
 
-"@nocobase/logger@1.9.0":
-  version "1.9.0"
-  resolved "https://registry.npmmirror.com/@nocobase/logger/-/logger-1.9.0.tgz#3ab46a663cee3dc59e771073f149e909bb513506"
-  integrity sha512-O8RSPRDNi5QeF1kMKbOQIrcTcLpWieuDcuXNmZnG/+lL71fi+KwCQlF2Bqbc6WWkKDvn9rjeAWZ3fQ4Jwjn8xg==
+"@nocobase/logger@1.9.26":
+  version "1.9.26"
+  resolved "https://registry.yarnpkg.com/@nocobase/logger/-/logger-1.9.26.tgz#1c51eef51f34728a590f3d212541905f77bceb85"
+  integrity sha512-R+rJAB6Ea2LL3JjWdm9KO67iwZdManEMB44eeZg4rBKYcrcqMLSrp7C4rvn6HjMLo6+4+jT7FDHbjaIqpQQnVg==
   dependencies:
     chalk "^4"
     lodash "^4.17.21"
@@ -4425,487 +4447,499 @@
     winston-daily-rotate-file "^5.0.0"
     winston-transport "^4.7.0"
 
-"@nocobase/plugin-acl@1.9.0":
-  version "1.9.0"
-  resolved "https://registry.npmmirror.com/@nocobase/plugin-acl/-/plugin-acl-1.9.0.tgz#53eb8a0a98605856f7fda8bae3a2c8b881de9e0a"
-  integrity sha512-lMHVa4dEVuinIvKFfygUAuG1HuGNjPbGYRXQ1qO/mW72NpQxicPwfk58VMjIPQ7aITk7XI66wig25PiEmEr4dw==
+"@nocobase/plugin-acl@1.9.26":
+  version "1.9.26"
+  resolved "https://registry.yarnpkg.com/@nocobase/plugin-acl/-/plugin-acl-1.9.26.tgz#8e760521c3795c5aa13a959dc3bc431dcb922f93"
+  integrity sha512-c4ldGMNT4BUdRJtqhpGTWXjLlqRZk9o8fRDZ3uPqBaG41YJXT4/cTeAnrKENyGm5Kei1P8SxsNA91YYEPZQkow==
 
-"@nocobase/plugin-action-bulk-edit@1.9.0":
-  version "1.9.0"
-  resolved "https://registry.npmmirror.com/@nocobase/plugin-action-bulk-edit/-/plugin-action-bulk-edit-1.9.0.tgz#fab6507291d56139326b40b61e7627463f778baa"
-  integrity sha512-eT6gPAgIBjjg+blwwSl83sH9OVA1at9jgWD2AV+ic6jNmfg3rFAPYONe+nZ4EhbglPk/wC6GPZr9BwocDhiQlg==
+"@nocobase/plugin-action-bulk-edit@1.9.26":
+  version "1.9.26"
+  resolved "https://registry.yarnpkg.com/@nocobase/plugin-action-bulk-edit/-/plugin-action-bulk-edit-1.9.26.tgz#0ee0e83f872e18c913707dd99243293fcfafdc37"
+  integrity sha512-Ui3vK51UaIei+ZEVG/Y9B4hR7/UAAoKvOL+zbeqHuCzNsEw3S45lk6gelGDoaxqt5c/kVRp+TahS54oSenDaKA==
 
-"@nocobase/plugin-action-bulk-update@1.9.0":
-  version "1.9.0"
-  resolved "https://registry.npmmirror.com/@nocobase/plugin-action-bulk-update/-/plugin-action-bulk-update-1.9.0.tgz#12cdc1751299026bd70b4f9aa2b5c4d5e7d391a1"
-  integrity sha512-YczpS3XN0MlCaY7NnOzsg5svmzZu+1qU52zXTN29IzENx711PLpJ93VG/hXmCeJSB/+u0YquYb/Rx8rgYPivrw==
+"@nocobase/plugin-action-bulk-update@1.9.26":
+  version "1.9.26"
+  resolved "https://registry.yarnpkg.com/@nocobase/plugin-action-bulk-update/-/plugin-action-bulk-update-1.9.26.tgz#ed217beacc5f2a573074f37e312fb505d682ddad"
+  integrity sha512-KmEcwZP6F+xVenn0Zr2gw6EAsqoIpQ6aH9tyvfRwVlZkP4dricYvxzik4hVh/f2lE7ZaLAB1iHU3ws6gXvDt4Q==
 
-"@nocobase/plugin-action-custom-request@1.9.0":
-  version "1.9.0"
-  resolved "https://registry.npmmirror.com/@nocobase/plugin-action-custom-request/-/plugin-action-custom-request-1.9.0.tgz#30466f3e0e758a5b548edad2da0e5a854a0d3ce6"
-  integrity sha512-tNH5k4el80ZPa5ZiRfIrhjnC/dsY6Ab7DJJ93TyIHvvUQp5QZ1MbUKVCVpYlNtgDouuCyn7E51EFevkQHIwYaQ==
+"@nocobase/plugin-action-custom-request@1.9.26":
+  version "1.9.26"
+  resolved "https://registry.yarnpkg.com/@nocobase/plugin-action-custom-request/-/plugin-action-custom-request-1.9.26.tgz#3d343460a9c33137dda9219a32297e895dacec2c"
+  integrity sha512-M1GZNaPp4G6MZ55xH+zMqBep72uHdULsemp4HqlU3Yx4Y9LMbc8TiC6i30RnfAHHssXf4dhnsNzGgjff02lqpg==
 
-"@nocobase/plugin-action-duplicate@1.9.0":
-  version "1.9.0"
-  resolved "https://registry.npmmirror.com/@nocobase/plugin-action-duplicate/-/plugin-action-duplicate-1.9.0.tgz#e1084c4c406543e49f29d8047a4df330d288159c"
-  integrity sha512-mJJYU1qxSuIhxXxNHweJmiNff0+jNl49aF3yphLmPs3rpju4KIrDglaemI+KaJHL5kTlBMhX0pJ5Zseyq/j9CQ==
+"@nocobase/plugin-action-duplicate@1.9.26":
+  version "1.9.26"
+  resolved "https://registry.yarnpkg.com/@nocobase/plugin-action-duplicate/-/plugin-action-duplicate-1.9.26.tgz#6fe8ceef3fe581c004c5f47436481f076d8fc132"
+  integrity sha512-Ao9l+nqDKaTExgJYGwMt+WGYbpokRVJmAz3+p8gfgHVvm29GTm6eC8PGpCpYCQKY7yky4mlpr/9qGKVC6tgO9w==
 
-"@nocobase/plugin-action-export@1.9.0":
-  version "1.9.0"
-  resolved "https://registry.npmmirror.com/@nocobase/plugin-action-export/-/plugin-action-export-1.9.0.tgz#3122801d06b8d289d1445895286e31ac386683cd"
-  integrity sha512-Y8OIKsC4ha3V/4V7b++VTMkfCOl90Y6jacI1o27oRGbZRrL1mryxvMakrwJk3he8DactcgtrXWylmFr3Md32lg==
+"@nocobase/plugin-action-export@1.9.26":
+  version "1.9.26"
+  resolved "https://registry.yarnpkg.com/@nocobase/plugin-action-export/-/plugin-action-export-1.9.26.tgz#38e5c30d8a38fc6c4e73a25e5572067fb25f5a9a"
+  integrity sha512-GD0kUzeqeY5w4EGv/bJ6FlWAH+hTOM3A0WXIuJGyXitiSUSBnr4Hyj0/J0IxrxzCMqguZvfAcyyg8ZK2S9jveA==
 
-"@nocobase/plugin-action-import@1.9.0":
-  version "1.9.0"
-  resolved "https://registry.npmmirror.com/@nocobase/plugin-action-import/-/plugin-action-import-1.9.0.tgz#cd76bb6fd585ac39aab74e37793563417c7acbb8"
-  integrity sha512-mhb33twt2zXogZ9yKxmFaDhF/4JGDBr7pIW4NN78MTPoTH01l2ZIpFUA+Igpw8z/FafYunOTf904h33ZqRwRog==
+"@nocobase/plugin-action-import@1.9.26":
+  version "1.9.26"
+  resolved "https://registry.yarnpkg.com/@nocobase/plugin-action-import/-/plugin-action-import-1.9.26.tgz#cecbf53c5f9b0a3fb5558eb1bdae59fa41476e83"
+  integrity sha512-ETtJKanHlQRTg/F0w6/zDZ/mCLe63zZeeHGaBFcn3unjAUfccnWpBED3y1ltqRU2TYFCb40/xGLvMBl1DfrKIQ==
 
-"@nocobase/plugin-action-print@1.9.0":
-  version "1.9.0"
-  resolved "https://registry.npmmirror.com/@nocobase/plugin-action-print/-/plugin-action-print-1.9.0.tgz#a156fc291435390a7805b7580878934405c82fd2"
-  integrity sha512-VfwJjPkJTU8PdvRSK+tA4zopuu1sREXVliuTU4z8nITsiO0h8+Vr+sIgXqGpu0AisQaFU5wdlilMLlL8dcbK6w==
+"@nocobase/plugin-action-print@1.9.26":
+  version "1.9.26"
+  resolved "https://registry.yarnpkg.com/@nocobase/plugin-action-print/-/plugin-action-print-1.9.26.tgz#76758d6f660fdecb9162e157b91db747b0e270b7"
+  integrity sha512-3lo8LG5qjAylvq82KNlRhfZ8DG5A6RB30/77H1ggE0HyaDJQ1dF+dhdfC15UaRUw3kfSC6sL5UdSV5iXKGJTfw==
 
-"@nocobase/plugin-ai@1.9.0":
-  version "1.9.0"
-  resolved "https://registry.npmmirror.com/@nocobase/plugin-ai/-/plugin-ai-1.9.0.tgz#b0967296ca7afb38c1329d974cb2a839ba2694de"
-  integrity sha512-aMlyUQ3tOPsA+u/SrBK45CUJokkVSb7/5Uk6XQBYTXrdJQai0ZNqxkmJ20pzeGjZM3pY2555kdVztf4q0tgHjQ==
+"@nocobase/plugin-ai@1.9.26":
+  version "1.9.26"
+  resolved "https://registry.yarnpkg.com/@nocobase/plugin-ai/-/plugin-ai-1.9.26.tgz#7b2209f2da4b3dd978bde50665bf13d9273b783f"
+  integrity sha512-Y8sxKXfHmZJS13AAnfExSyBe1QLQCuX3rb0oBRuCRh05INZEgzO9Ak8gWy993APcBAWAh6Ukr2df22UlSIn4Hw==
 
-"@nocobase/plugin-api-doc@1.9.0":
-  version "1.9.0"
-  resolved "https://registry.npmmirror.com/@nocobase/plugin-api-doc/-/plugin-api-doc-1.9.0.tgz#745028d260908b794e7ce0589899b2584e8dbfc7"
-  integrity sha512-KdBqEzOE1XIOY53tuWGMwd93uB72r0lbY9NbEaPjj25udGcqE5FRRo5ImIgmuagQAo6xEPWI1GeAQkceMKO+0Q==
+"@nocobase/plugin-api-doc@1.9.26":
+  version "1.9.26"
+  resolved "https://registry.yarnpkg.com/@nocobase/plugin-api-doc/-/plugin-api-doc-1.9.26.tgz#f21d8d3030cdfe1dd58ac7386016f38b6c3163b3"
+  integrity sha512-khCyHoHNrsqfs+Ez1FmCMoR3vu+HP+1RkMf11raT5KhREn5DHMFDfsDkwUkdxbEsYHfOsHmLwqJMMbRiF8/MZw==
 
-"@nocobase/plugin-api-keys@1.9.0":
-  version "1.9.0"
-  resolved "https://registry.npmmirror.com/@nocobase/plugin-api-keys/-/plugin-api-keys-1.9.0.tgz#8b6aba8578ce42f64d18c9ab1027351af0ffbd02"
-  integrity sha512-XkfehE8bMaYBSEFeFIJjjs8Kp/eCrtFVx9qD1YaRjWXSCApHm+ysMOna0oGCTPtwkSGUw9LP0xiFcDkqWCa4Pg==
+"@nocobase/plugin-api-keys@1.9.26":
+  version "1.9.26"
+  resolved "https://registry.yarnpkg.com/@nocobase/plugin-api-keys/-/plugin-api-keys-1.9.26.tgz#b2edb0764dc832443656bf1cbf3b277bf9312d31"
+  integrity sha512-u0SCoMdDqsPPbbOfDDKUuD88Kr6qFoeD9nG9C53/0H0lvHF1SEVqmRPcT6HqrUhu/MmBQlFVTtijv/+ZRJoJFw==
 
-"@nocobase/plugin-async-task-manager@1.9.0":
-  version "1.9.0"
-  resolved "https://registry.npmmirror.com/@nocobase/plugin-async-task-manager/-/plugin-async-task-manager-1.9.0.tgz#08243c6be94e03aa3841d40e6437f8cf346e3ff6"
-  integrity sha512-i5i8QQFZvQlnBh0dbXPtoPsnLjQs+vq9dxc+WKHi6QBM7D6ook5fsBy0uyvaPR1iW4v3btYoTpOat1hLX/omJA==
+"@nocobase/plugin-async-task-manager@1.9.26":
+  version "1.9.26"
+  resolved "https://registry.yarnpkg.com/@nocobase/plugin-async-task-manager/-/plugin-async-task-manager-1.9.26.tgz#c34093779a1287a9f98bc1a44bd2d08e2bf5ae47"
+  integrity sha512-x4Wn6jwi3OYBzv0/p9pVGGZAOwy/5jVLw50069bRZKVOzEb80vc35rFt8NQ3kFGVmrS+FhnBzp3NGmngQztRJA==
   dependencies:
     p-queue "^6.6.2"
 
-"@nocobase/plugin-audit-logs@1.9.0":
-  version "1.9.0"
-  resolved "https://registry.npmmirror.com/@nocobase/plugin-audit-logs/-/plugin-audit-logs-1.9.0.tgz#08f1caa94d46430f82d4a309c5887e1d318936b9"
-  integrity sha512-ivQuce2NeUkSUXzmf52jPihPvYXaCukfbE/5tIaMRovFJ1EgeYgbgZYWIHxi/DbsZ7no/p83f/epC/evZxpS4g==
+"@nocobase/plugin-audit-logs@1.9.26":
+  version "1.9.26"
+  resolved "https://registry.yarnpkg.com/@nocobase/plugin-audit-logs/-/plugin-audit-logs-1.9.26.tgz#acddba5aa42dadc932f3fcf2de148f49c19e38d3"
+  integrity sha512-0WoXXDtKuw5Ne/Yfugo2rll505KFXXDrGdrfQwtUPsbu8s9+mr3VEx3lRww5Awqw+NiuB/TLDVAEEj/9Adzinw==
 
-"@nocobase/plugin-auth-sms@1.9.0":
-  version "1.9.0"
-  resolved "https://registry.npmmirror.com/@nocobase/plugin-auth-sms/-/plugin-auth-sms-1.9.0.tgz#597f4db5271167db0d6b29c6f79edd0c5a9889f0"
-  integrity sha512-D1vO2hI4hUwy4cP//f6erVxyVrSTpXs14YtOotnutYRChewSksPKQsnN9Ngo83rAvhv9XTjJW0ND06sm+qmJeg==
+"@nocobase/plugin-auth-sms@1.9.26":
+  version "1.9.26"
+  resolved "https://registry.yarnpkg.com/@nocobase/plugin-auth-sms/-/plugin-auth-sms-1.9.26.tgz#6f1b98e03b81d61f3a2e376066a14e293de73eb6"
+  integrity sha512-EWp8RBpoEWTGPM+I9sldaqnYSXF7NpACFtvrrsQ/LYHoI886gQGxUZK9lU5hNX65GIgwC37lfyp6EWpeE8m2+A==
 
-"@nocobase/plugin-auth@1.9.0":
-  version "1.9.0"
-  resolved "https://registry.npmmirror.com/@nocobase/plugin-auth/-/plugin-auth-1.9.0.tgz#92909724ce882ea247f16517c751c5841b9ba250"
-  integrity sha512-gkayrk+ix8hJavzMAfbJcf4MfMZpcdVXgbD7ujtSslgZoznaDFCH5f+x4+16ZVjhwCZ/FHfHxI8p2nC1NmMxxg==
+"@nocobase/plugin-auth@1.9.26":
+  version "1.9.26"
+  resolved "https://registry.yarnpkg.com/@nocobase/plugin-auth/-/plugin-auth-1.9.26.tgz#f6efacb9081d8c7192a8d7667590606ac95cbef7"
+  integrity sha512-LpvZp7QjJgDEq7eMgS7dk8SX95k4PKm/F+JX7nQy7ViS3skfyvp4bhUAj2XK9xr3iTtoUJVZJG543D+SwzqClQ==
 
-"@nocobase/plugin-backup-restore@1.9.0":
-  version "1.9.0"
-  resolved "https://registry.npmmirror.com/@nocobase/plugin-backup-restore/-/plugin-backup-restore-1.9.0.tgz#46e19c234f115b89b27cae6fdc3ecfb2b32b571e"
-  integrity sha512-2ATWW/pBrv0A+EI9popaiAxdWpcY2hLkSwQxPi6Mi76Ux2PoZqmHvkPPG3rN3VSWQpaPWhjXq0xpaRovkqKzKQ==
+"@nocobase/plugin-backup-restore@1.9.26":
+  version "1.9.26"
+  resolved "https://registry.yarnpkg.com/@nocobase/plugin-backup-restore/-/plugin-backup-restore-1.9.26.tgz#322ef82d78ea5c42b7a013994008914636d25cce"
+  integrity sha512-rZhVy4E/NWLBfGuJEQPqcG7LLzQ2MvABovU8BBaa7RYmwgRic6ADsWVi0RrFqTf6ysx8xOvV4x8Nbs5j6xBaqg==
 
-"@nocobase/plugin-block-iframe@1.9.0":
-  version "1.9.0"
-  resolved "https://registry.npmmirror.com/@nocobase/plugin-block-iframe/-/plugin-block-iframe-1.9.0.tgz#a20ed8e14e9bcc856a322ea1adec435e8831379f"
-  integrity sha512-TsIcSCMM6QNTyvk0zQsPtu5/Dheixs7d7rHU+lNeDBBOJTYgMzyaOrKEINractRq6PCvNbc9dvVRBuVMK/1BDQ==
+"@nocobase/plugin-block-iframe@1.9.26":
+  version "1.9.26"
+  resolved "https://registry.yarnpkg.com/@nocobase/plugin-block-iframe/-/plugin-block-iframe-1.9.26.tgz#3309baea6e648e4d074381d46778cfed359688cc"
+  integrity sha512-U0fadwBPGXbqkWWnYVWd3Hn3JXlANzEqi8Y/fTbln94n0wNcD7a1Kfed2p0j63em9JEZWv7V1n0ErdrZswYBqw==
 
-"@nocobase/plugin-block-template@1.9.0":
-  version "1.9.0"
-  resolved "https://registry.npmmirror.com/@nocobase/plugin-block-template/-/plugin-block-template-1.9.0.tgz#12e6c24818b029a277b14afa84880311bef21b8a"
-  integrity sha512-MrtcfaHXeI9svv/leyzBi3He44szS2Q1SSQgMBPPnaxw70FpgEap3ztZ5OLecL9QALSK4/yiUA1ItEgQMjGJEw==
+"@nocobase/plugin-block-template@1.9.26":
+  version "1.9.26"
+  resolved "https://registry.yarnpkg.com/@nocobase/plugin-block-template/-/plugin-block-template-1.9.26.tgz#dfe618a58db48a6b3b4988971935b01e153872f3"
+  integrity sha512-xIhLTBSZZ4X89/N+LFeDQdpVZdbMBqAFBi2pRLFJP6sLDuZBwT882W/rnRQbTKKzhTzS7JYyR0vMZh/WDpt9Iw==
 
-"@nocobase/plugin-block-workbench@1.9.0":
-  version "1.9.0"
-  resolved "https://registry.npmmirror.com/@nocobase/plugin-block-workbench/-/plugin-block-workbench-1.9.0.tgz#8d0d265cc47ecc6ef1641bcef84fd3d555478baa"
-  integrity sha512-RTF36lYWdERQ5CFUKY12xb7zwscC1wf9awk3CgFSISdNJ9r+0zCc5U2CfO7TEgDWy6iaMlTC48F/WD0ELtLDbw==
+"@nocobase/plugin-block-workbench@1.9.26":
+  version "1.9.26"
+  resolved "https://registry.yarnpkg.com/@nocobase/plugin-block-workbench/-/plugin-block-workbench-1.9.26.tgz#5e72ec65a1a3e41ca2e29e4cc48190bb00da6d8d"
+  integrity sha512-9mc++bBvidus0u4fOA0MupTudrH/wQcamXZ0cIGWqHczIQ1mFz3pd+gh1hxil6VYL1S4MTIHdmJDTW2zTcRoNw==
 
-"@nocobase/plugin-calendar@1.9.0":
-  version "1.9.0"
-  resolved "https://registry.npmmirror.com/@nocobase/plugin-calendar/-/plugin-calendar-1.9.0.tgz#c581c2d0c574ec85cbb965863d7588368926afd3"
-  integrity sha512-JmD9MH7Y2SBhviLTz8oY0oG3W84PnmewRIJFnu8dHmxXmUxRejrnzkNoHTrlmPVFkmeLRqfumJGu/ZPjzr1aJg==
+"@nocobase/plugin-calendar@1.9.26":
+  version "1.9.26"
+  resolved "https://registry.yarnpkg.com/@nocobase/plugin-calendar/-/plugin-calendar-1.9.26.tgz#c325b7828974e1b8c739bd60adca8068f517a60f"
+  integrity sha512-y+Yerc4kdxz67yjCghM5+fVPdIL9RI5jyyI3T8w5Y5vsPu/aXWASJzV4+hIQ8vNbYDvcQoPz5q2rqdbnoa034g==
 
-"@nocobase/plugin-charts@1.9.0":
-  version "1.9.0"
-  resolved "https://registry.npmmirror.com/@nocobase/plugin-charts/-/plugin-charts-1.9.0.tgz#fbc04c6d5cc2b7fbbc0916d9731a348ebedb1586"
-  integrity sha512-FAUUIhByTtNu/HKc6EYeB7r1rAeAFUbZkNtq53QC++cdYdLaeM6m0nDshdRbKPA3w1t8dlurOdWNLy8GzrL7lA==
+"@nocobase/plugin-charts@1.9.26":
+  version "1.9.26"
+  resolved "https://registry.yarnpkg.com/@nocobase/plugin-charts/-/plugin-charts-1.9.26.tgz#b38fb8b01389171a872ee1c4f3148c99997129da"
+  integrity sha512-yfMoHTfESC3tWQZfRtOYOQ9KkEvpdu0lY/8un3jJe4rCXJknHR9eLtUwdDWTomuQ2nT4loFlBlyFwHTgS5qylg==
 
-"@nocobase/plugin-client@1.9.0":
-  version "1.9.0"
-  resolved "https://registry.npmmirror.com/@nocobase/plugin-client/-/plugin-client-1.9.0.tgz#106b4c0c033899988074a3725aac32974c43a66f"
-  integrity sha512-304jKtU07Zy110oooslr9Yf6CLQNnCMoc4bSxzkxRYRWzbHcyqBlNBnjeJ8I+ryGAXJDUCsfzGTJnfH8/psopA==
+"@nocobase/plugin-client@1.9.26":
+  version "1.9.26"
+  resolved "https://registry.yarnpkg.com/@nocobase/plugin-client/-/plugin-client-1.9.26.tgz#79b29d32981117af90ce40314e441131208b84b8"
+  integrity sha512-J5TifbeOnx/ygisfWngBZ5eF/xR6YDsiVhWHvjPzvYbr9b2tCEATkNUajn1IyW4hqR1HXQvbjl5zEkt3KH6zaA==
 
-"@nocobase/plugin-collection-sql@1.9.0":
-  version "1.9.0"
-  resolved "https://registry.npmmirror.com/@nocobase/plugin-collection-sql/-/plugin-collection-sql-1.9.0.tgz#a81fcfdc47654a091fb3b5919ae6aeb821d8762d"
-  integrity sha512-5faiNLe00FUawjxC5JuaKRJkrfsfhskfeu4/tm47IN0S4ROwuFmidmxWpDEZMRQ1/1DLyIxPVnRZN7ZQmdZY6g==
+"@nocobase/plugin-collection-sql@1.9.26":
+  version "1.9.26"
+  resolved "https://registry.yarnpkg.com/@nocobase/plugin-collection-sql/-/plugin-collection-sql-1.9.26.tgz#fb8d7ff2cec9cb30347462938b553e210790a75f"
+  integrity sha512-V9TqtTChP5Z60ZfkIpubAruLgYf5wtD2lCWDf5gQWsCI+YmZ5MfVMPcqMxwP9vTjoUogmKfs9EJLvq/4z23L5w==
 
-"@nocobase/plugin-collection-tree@1.9.0":
-  version "1.9.0"
-  resolved "https://registry.npmmirror.com/@nocobase/plugin-collection-tree/-/plugin-collection-tree-1.9.0.tgz#42881cc84d7c10994e2e8676af4793e82bb085d9"
-  integrity sha512-1JJ9nij9HCeW6LwdhpMtHAAFPWqwiQKaGOua+BE9K0jv16BmR9vkqhmfgA/tZWpvdUq5041N9Q3q4kLazFizug==
+"@nocobase/plugin-collection-tree@1.9.26":
+  version "1.9.26"
+  resolved "https://registry.yarnpkg.com/@nocobase/plugin-collection-tree/-/plugin-collection-tree-1.9.26.tgz#8262708a6b660611136ee3318cdb1ec83d1045f3"
+  integrity sha512-i1Fk4M/5Vk3e8LC4MSYmNeqqUDIuiKu+a2+Y38ACOFb08k9GJ8MKD7Amyf2qvdI8H1eZxKsIivRDnolYSqzCAQ==
 
-"@nocobase/plugin-data-source-main@1.9.0":
-  version "1.9.0"
-  resolved "https://registry.npmmirror.com/@nocobase/plugin-data-source-main/-/plugin-data-source-main-1.9.0.tgz#67acbeaa458ea31aa71a092125d7d94cfcbfc9c1"
-  integrity sha512-uagI/SzVdEKCPl8A8QtesZHDtSiyoUx5cJ9u2tIpCQPP+8KsQq7yWYF9vPZ7OdzpsZldnw0nEc92NSQfePATMg==
+"@nocobase/plugin-data-source-main@1.9.26":
+  version "1.9.26"
+  resolved "https://registry.yarnpkg.com/@nocobase/plugin-data-source-main/-/plugin-data-source-main-1.9.26.tgz#e686ba8bccb5282e44e43dbecc1756b215746d7a"
+  integrity sha512-E0l8MkGBLALCqwvK2SaQKYVngQfk1hnaK1kD1pUCHqmsV0OBgEiKSthL919gj9aAnWPef9DOaRApqicnhabGgg==
 
-"@nocobase/plugin-data-source-manager@1.9.0":
-  version "1.9.0"
-  resolved "https://registry.npmmirror.com/@nocobase/plugin-data-source-manager/-/plugin-data-source-manager-1.9.0.tgz#eb66a224b6132f31c7257868651826d2bb4aa90e"
-  integrity sha512-jWlMbcCRenqcP60lRBrU8HwJposWKEO2xjbIfgWDL04ewI1CvGDNPBKtFJc5kisdFJoy0NP4s9t/dcMmwDrUuQ==
+"@nocobase/plugin-data-source-manager@1.9.26":
+  version "1.9.26"
+  resolved "https://registry.yarnpkg.com/@nocobase/plugin-data-source-manager/-/plugin-data-source-manager-1.9.26.tgz#c1fc4ea85451a8d0b10ae8bb1a83f825391166e9"
+  integrity sha512-l8dSVqwjdhyr/m+hl20Y37yAk6ksh7O8WD3u8t9CGPmsObnuoJxBh16k8zlEu0k5QECVB4d0rofWEH5yYnOLwQ==
 
-"@nocobase/plugin-data-visualization@1.9.0":
-  version "1.9.0"
-  resolved "https://registry.npmmirror.com/@nocobase/plugin-data-visualization/-/plugin-data-visualization-1.9.0.tgz#38d36feabd909e59da5fa8d53472fd1e887893e5"
-  integrity sha512-y23vWCOkfpQjfURqbZJ3TXSJ/dsaY7YC+sI+R19qpQyBocbsqTRT0wDJBmrPZjQhgy+wx+/u3ooNpfAnOMUyaw==
+"@nocobase/plugin-data-visualization@1.9.26":
+  version "1.9.26"
+  resolved "https://registry.yarnpkg.com/@nocobase/plugin-data-visualization/-/plugin-data-visualization-1.9.26.tgz#7ca030ccf7b25efb6d3976981db62698199280c4"
+  integrity sha512-/4l4nx/UK1dh2meuQLjuMyu7XGbt3UFfVd2XZEAguV4V/vH8GA0d62UWlYdZj4rv/o6PJUM62fSP4Qj4Ge96aQ==
 
-"@nocobase/plugin-departments@1.9.0":
-  version "1.9.0"
-  resolved "https://registry.npmmirror.com/@nocobase/plugin-departments/-/plugin-departments-1.9.0.tgz#91a5f5bfeb5326e46575fade15261641f20e08ba"
-  integrity sha512-6Rc6YHoYrLuAoWGJza2m6KX71jSwfMu3ilFoh0PCVAhz76GxDo314VD3CPKQbU+ROJ+OIokin7UqHhC/g96XWA==
+"@nocobase/plugin-departments@1.9.26":
+  version "1.9.26"
+  resolved "https://registry.yarnpkg.com/@nocobase/plugin-departments/-/plugin-departments-1.9.26.tgz#95e009f6f049fc29052856a0d302abd2e5701e46"
+  integrity sha512-4JHEvygERX0msrFTGM0pBOz+pz77D+reW1gfuo+4kyLp1pOXBLIC1+/4ugqawtTLluHyK+qK+hwg+OJp/xMPkw==
 
-"@nocobase/plugin-environment-variables@1.9.0":
-  version "1.9.0"
-  resolved "https://registry.npmmirror.com/@nocobase/plugin-environment-variables/-/plugin-environment-variables-1.9.0.tgz#98142db7c135b1f56adbb4e7299b05dd5cae39f9"
-  integrity sha512-XXL/UQiZO41x0p+xkDlcotblOBvotFMDME1VK81Lr9kKIdZAyvuZoTtxcgnYuWbpH3ExeTWnzHh3828V/Vbxxg==
+"@nocobase/plugin-environment-variables@1.9.26":
+  version "1.9.26"
+  resolved "https://registry.yarnpkg.com/@nocobase/plugin-environment-variables/-/plugin-environment-variables-1.9.26.tgz#3473077d4cc4ddf68cadf6961f8f1e21c3214b1b"
+  integrity sha512-AJSzbK0jqXyRJ7mY59rKgvrc2Kj9vDxVvcYq7QwzubFKcmvN5TcJUsSRBIYqVuzYT1/nfrZJDFKnSyKGNJHjUA==
 
-"@nocobase/plugin-error-handler@1.9.0":
-  version "1.9.0"
-  resolved "https://registry.npmmirror.com/@nocobase/plugin-error-handler/-/plugin-error-handler-1.9.0.tgz#e9217d4cf06848aa2d489c31d0dd85643904aac8"
-  integrity sha512-su9XPXWAITqMea1Oeq3i2dB/Tvd0NunuAw13e2ur1kurHEwRVOHu2ELluw7x0mr5lQdALGNgYbckpW1VWgCOVA==
+"@nocobase/plugin-error-handler@1.9.26":
+  version "1.9.26"
+  resolved "https://registry.yarnpkg.com/@nocobase/plugin-error-handler/-/plugin-error-handler-1.9.26.tgz#c6336fb1f1e4c13c1c812eb78f097bebb5aad01c"
+  integrity sha512-3M/yhTLWj9dTXwxMwAIrqwd04e1kTkxBomz6kNzOXPmUkyzMiSh5RHDG/91OhqTId48VsBIIGpMiSXNV02GuRg==
 
-"@nocobase/plugin-field-attachment-url@1.9.0":
-  version "1.9.0"
-  resolved "https://registry.npmmirror.com/@nocobase/plugin-field-attachment-url/-/plugin-field-attachment-url-1.9.0.tgz#77baf219205c8a9e62557874e2ed77507441eed4"
-  integrity sha512-vjZHDFmmD8uJCBS80elsRO7BUL+JxfV/5neOCSNVGhfe/hfzIKhdbLGoq7HTbzWI2AxWQig+OTMCq8Iq2luK4g==
+"@nocobase/plugin-field-attachment-url@1.9.26":
+  version "1.9.26"
+  resolved "https://registry.yarnpkg.com/@nocobase/plugin-field-attachment-url/-/plugin-field-attachment-url-1.9.26.tgz#9a5850ef4d6fe4ba81f8ba8efd6f2d39cddce3b0"
+  integrity sha512-DueY8W+fu41NEs9AsrblGqfqvHLxL5d7huBzyMP3gZNX6uBD1cdtuPy6Ppo4G+f7SJTaq3FGS916wuG//V3xNw==
 
-"@nocobase/plugin-field-china-region@1.9.0":
-  version "1.9.0"
-  resolved "https://registry.npmmirror.com/@nocobase/plugin-field-china-region/-/plugin-field-china-region-1.9.0.tgz#c48c88f90f8cfd777a656ec65214923a6f5c003a"
-  integrity sha512-1XRmRh5Ud8o1wcRzwNGmlTYCcySh35/aaU03p6TdkwHBUbJEcJPXeVu/04AtFcrRd1UrqSTk3shk3JT7URX5pQ==
+"@nocobase/plugin-field-china-region@1.9.26":
+  version "1.9.26"
+  resolved "https://registry.yarnpkg.com/@nocobase/plugin-field-china-region/-/plugin-field-china-region-1.9.26.tgz#f7599908fdad277ca4f379a3792e25a193236a3b"
+  integrity sha512-gcNt8fBKCPaCpCLP38DGFcJGYJUXP/pob8LqZe379+4mzNv47II7hETqp48RwDwr8FmdjEam6Z1i9Dts5aoP3w==
 
-"@nocobase/plugin-field-formula@1.9.0":
-  version "1.9.0"
-  resolved "https://registry.npmmirror.com/@nocobase/plugin-field-formula/-/plugin-field-formula-1.9.0.tgz#18b1aa9052139c27683667e205ef48155f8193fd"
-  integrity sha512-gR3ipYk5UDPGZcoAjJUS8uu7KOw7/BDwiStoXzBjEQshsPHcVsmEXRRN3Xt0woZwk+RiuYPnxkqe0C0xkqGxQg==
+"@nocobase/plugin-field-formula@1.9.26":
+  version "1.9.26"
+  resolved "https://registry.yarnpkg.com/@nocobase/plugin-field-formula/-/plugin-field-formula-1.9.26.tgz#0bcc8d421d50797bddac8c7a188371dd06f999a2"
+  integrity sha512-1AcRpIAYH69OZnbmgKDPsgzO7aPcneA8VUm/vRBvlaoaT/NwmST0yWWkx6K6inZeiz/SUP3/QMi9j2ilJ3XGMg==
 
-"@nocobase/plugin-field-m2m-array@1.9.0":
-  version "1.9.0"
-  resolved "https://registry.npmmirror.com/@nocobase/plugin-field-m2m-array/-/plugin-field-m2m-array-1.9.0.tgz#076d0e0c3f85d76eb31934d83414d1f187ba949b"
-  integrity sha512-u5sbBjsyHp6tOSa11F7auXJ8EWvJnCN4UMhZ/st0cuvGadSAfX1C6i0LvMtaocCyG+jhQpIYubZtOKDK1pdi/Q==
+"@nocobase/plugin-field-m2m-array@1.9.26":
+  version "1.9.26"
+  resolved "https://registry.yarnpkg.com/@nocobase/plugin-field-m2m-array/-/plugin-field-m2m-array-1.9.26.tgz#8cf30e084ac5d66ac044fcf23a7c91a28a5fc84e"
+  integrity sha512-RVfDXnPKItyD27qwreD0801jqOyOiUU1JUp2iz20tMDgx8CpRxdOADeiecT6PEjOE7K90CYUmxMyIE4ja2ps8A==
 
-"@nocobase/plugin-field-markdown-vditor@1.9.0":
-  version "1.9.0"
-  resolved "https://registry.npmmirror.com/@nocobase/plugin-field-markdown-vditor/-/plugin-field-markdown-vditor-1.9.0.tgz#4f6fe0ec9b7ac44f0540e8e7e72e791ac66f5a90"
-  integrity sha512-YSDypTHPoupA8I3uVg4jd/gLZPmMsdnjDQkdGRg+KXxfZ+agOL5uD4azOrn0IOSRqIF/o+SIphMxG1jdueaVfw==
+"@nocobase/plugin-field-markdown-vditor@1.9.26":
+  version "1.9.26"
+  resolved "https://registry.yarnpkg.com/@nocobase/plugin-field-markdown-vditor/-/plugin-field-markdown-vditor-1.9.26.tgz#91fefc2639b725020802d117d16838cdb7fd90e8"
+  integrity sha512-VprMjjXM08jEHn1lGbLn8K+ExDUcA47T2YImT8+I+jQZ3y9MzV/5V/nhFL1BQXApSW2hrFj22Dbv9rmQ3aUGdg==
 
-"@nocobase/plugin-field-sequence@1.9.0":
-  version "1.9.0"
-  resolved "https://registry.npmmirror.com/@nocobase/plugin-field-sequence/-/plugin-field-sequence-1.9.0.tgz#777f7fd919b35dc3cc6189197579250bee548b79"
-  integrity sha512-lesfa9pBqvFlcjD9/dQe4dw0imnnTVZYxKjupCmcDwoXUaeLQpmMRYE8BGTd7GHJABar6i46WHJIUMqmFYem0g==
+"@nocobase/plugin-field-sequence@1.9.26":
+  version "1.9.26"
+  resolved "https://registry.yarnpkg.com/@nocobase/plugin-field-sequence/-/plugin-field-sequence-1.9.26.tgz#7aa13a11070b0b79e70191d05f68b818aac40fa6"
+  integrity sha512-Ino5qLTzrcPqH+44IHuQW9bHCeLp/oFJObWLRL9Vk+8QWfpRlX3yiQqtnG/UMPv7OgB3oqWEp7BbMkCBuVNE9A==
 
-"@nocobase/plugin-field-sort@1.9.0":
-  version "1.9.0"
-  resolved "https://registry.npmmirror.com/@nocobase/plugin-field-sort/-/plugin-field-sort-1.9.0.tgz#481cf5ae27427cedac92defa1d99f0d3af49c79c"
-  integrity sha512-/TF3ausFUApB/d4I3doZpLSjDuHli4Rv2aVC2zoNqqpFWl7xbuaka1DygXpM3xr0KljbOHpxuH/FPGU2Sc2Msg==
+"@nocobase/plugin-field-sort@1.9.26":
+  version "1.9.26"
+  resolved "https://registry.yarnpkg.com/@nocobase/plugin-field-sort/-/plugin-field-sort-1.9.26.tgz#adb1c29cdf4329a0f543ab1dfe0c260ddc950d83"
+  integrity sha512-DDX4/yLYonY07TsDbg1/bMTOMfK0E0wI6T6gcE0tIfRn++M2si5oe2LV/h/ls+AUpWLWv75ODzCX5JM34QB+Eg==
 
-"@nocobase/plugin-file-manager@1.9.0":
-  version "1.9.0"
-  resolved "https://registry.npmmirror.com/@nocobase/plugin-file-manager/-/plugin-file-manager-1.9.0.tgz#a929b62356da6262c63410a99c97ac2919b6b6d2"
-  integrity sha512-sKc1+0yCyMAcIe996ATDBPBD7NKBOCk+MPV3AyMCwBWR1p+FVjX9Si498t52NW4FeZRdrBfpHutdUGYMT7ePyw==
+"@nocobase/plugin-file-manager@1.9.26":
+  version "1.9.26"
+  resolved "https://registry.yarnpkg.com/@nocobase/plugin-file-manager/-/plugin-file-manager-1.9.26.tgz#d61065cc21dc7fc464bd2e36add281d45b7ad09a"
+  integrity sha512-fTonhBte4BCND2cnNPVu9qbbc8U8VT5kwuWj2/eKnskqBwz/VyvuKA+ahm4ywX7AHy5Zzk7TUiSvDUpZCiOSMw==
   dependencies:
     file-type "^21.0.0"
 
-"@nocobase/plugin-file-previewer-office@1.9.0":
-  version "1.9.0"
-  resolved "https://registry.npmmirror.com/@nocobase/plugin-file-previewer-office/-/plugin-file-previewer-office-1.9.0.tgz#fadcfbec33c4b95182419f66195ab29845704437"
-  integrity sha512-NoLBAS27o//Ei9QA9DVLQ8kB4y9y7kfBLU37nHBtkR2viyxYaCf7sJOYC/zVh10N4W7W/G6odXSd6x3zQJHjAA==
+"@nocobase/plugin-file-previewer-office@1.9.26":
+  version "1.9.26"
+  resolved "https://registry.yarnpkg.com/@nocobase/plugin-file-previewer-office/-/plugin-file-previewer-office-1.9.26.tgz#e372cb2e8adbc87a2762fa26f12f39114bd27a23"
+  integrity sha512-4olDmfDip7WxkUE34Xw8fRUPNsUmka2CvtwLGtlwQaEEG9COzhi+256bX92XiI0kb8Sh3NX0BOmWUsN/Vz5FPg==
 
-"@nocobase/plugin-gantt@1.9.0":
-  version "1.9.0"
-  resolved "https://registry.npmmirror.com/@nocobase/plugin-gantt/-/plugin-gantt-1.9.0.tgz#fad7eb51513f860a55dd03dc40ebfc8a5d8864c8"
-  integrity sha512-gEMtU4+8WZEtKO2uwh6b0gVdwWTJzEv7mOjEIYCvvKSkiwgaj2Sek3gcjsktLuZgR2DxjaNWEFw8y9H+4t3S/g==
+"@nocobase/plugin-gantt@1.9.26":
+  version "1.9.26"
+  resolved "https://registry.yarnpkg.com/@nocobase/plugin-gantt/-/plugin-gantt-1.9.26.tgz#9d3d2f7dc4f28ae8163490b83cc1a44773f325f7"
+  integrity sha512-RAysvqmEEHFqDVCAAQMHPOxA9oz0xs6sEHuZm8BCMM7qHo0juGfF9hs0X9k02AWET5lFgQmYEFuUpqpgF+lOwA==
 
-"@nocobase/plugin-graph-collection-manager@1.9.0":
-  version "1.9.0"
-  resolved "https://registry.npmmirror.com/@nocobase/plugin-graph-collection-manager/-/plugin-graph-collection-manager-1.9.0.tgz#944cc6dbe16cacf4ae29f08005320477276a5a83"
-  integrity sha512-rENnB0cdQW8rKuZddPSC7x6ZVdF7tq+OrCZ3yhnS4qESGs5hXkppCYXKANMqfmnCrGwMYTrqiCKQB6U62FCDsw==
+"@nocobase/plugin-graph-collection-manager@1.9.26":
+  version "1.9.26"
+  resolved "https://registry.yarnpkg.com/@nocobase/plugin-graph-collection-manager/-/plugin-graph-collection-manager-1.9.26.tgz#8a7c2e9963da300fc09b6601675ffac7f4499b43"
+  integrity sha512-TeLDggU+J7dD60f8w1d8kqXWfYNV1B7y3eF0Z45NvERK7hxg+W8dDTI4lprIlxh+suRi9h7dcS6Pcaz0tJ0M4A==
 
-"@nocobase/plugin-kanban@1.9.0":
-  version "1.9.0"
-  resolved "https://registry.npmmirror.com/@nocobase/plugin-kanban/-/plugin-kanban-1.9.0.tgz#88b96325dc65fcabbd6fedbf2f2f09dd513ba977"
-  integrity sha512-T+Dku4pRlZ9xrOwOzbOiawKdE6uc6zhOjnlTUorDxnHnhGn81yrY9RDQx5rcs6E0P5DRafyYncaSvNsg0/mrAQ==
+"@nocobase/plugin-kanban@1.9.26":
+  version "1.9.26"
+  resolved "https://registry.yarnpkg.com/@nocobase/plugin-kanban/-/plugin-kanban-1.9.26.tgz#410adbd127ce298774f9a9bb3862126affcfc41f"
+  integrity sha512-mgvv5LnXofNjpENj9VIRjnIkBfMdn1ORkZpV3zIyEAvYZMOLqFOT5Vsse5dCeNgXmJDyJY+Hl5QCmtakNKKpMQ==
 
-"@nocobase/plugin-license@1.9.0":
-  version "1.9.0"
-  resolved "https://registry.npmmirror.com/@nocobase/plugin-license/-/plugin-license-1.9.0.tgz#96f9efc38bcc953108b023937bd5cc5652696c0e"
-  integrity sha512-hvuRGFrt+n7OvqnRJn318wnh2g1oR1BKFpp06qpUhf2reuC7peaU/rFRbfR8PoX9Al4EkEmSFFmAkN2VKRjdZQ==
+"@nocobase/plugin-license@1.9.26":
+  version "1.9.26"
+  resolved "https://registry.yarnpkg.com/@nocobase/plugin-license/-/plugin-license-1.9.26.tgz#1984526221968ce983355978340e898db107b4f2"
+  integrity sha512-RLfm0EVfJY6/xTKW57yl0jAv8U2hQLQ4eq/p1vfih9gem80zZ6DxrsuO0DSDNWx6Xxr2PAdy2evnGwaTumCa4w==
 
-"@nocobase/plugin-locale-tester@1.9.0":
-  version "1.9.0"
-  resolved "https://registry.npmmirror.com/@nocobase/plugin-locale-tester/-/plugin-locale-tester-1.9.0.tgz#293fb08a03036bbd3612d98deec8137666d8d66d"
-  integrity sha512-Bg1AGGjfT4FfrFxIWZHawxXbUD3lu7DjQ9TCtdpHVWDLYGimIvxWnmQ/jvyfOV64gtEv9areQdd3/u7r6PAxAg==
+"@nocobase/plugin-locale-tester@1.9.26":
+  version "1.9.26"
+  resolved "https://registry.yarnpkg.com/@nocobase/plugin-locale-tester/-/plugin-locale-tester-1.9.26.tgz#810ee0e536fadca641e1f2004e21d10f6db60981"
+  integrity sha512-oOYD3TLQPoiMu/loi81egmsn5ZQKZqRaO/5sBogarxVdN8iuvFMiuQWWWkrKk2jdhUWTsPoSReueGsy5xeHWQQ==
 
-"@nocobase/plugin-localization@1.9.0":
-  version "1.9.0"
-  resolved "https://registry.npmmirror.com/@nocobase/plugin-localization/-/plugin-localization-1.9.0.tgz#88d9805729934713b29e0fc98122bc5740e79991"
-  integrity sha512-YnoHaZ53hc3GmY8qAGj3JeT/WXNiX/Y9uK4P9LzvxtURkgDkSKFmQRwbKXF+aotaKdRGp3bIF7DFV5NOQSTtoA==
+"@nocobase/plugin-localization@1.9.26":
+  version "1.9.26"
+  resolved "https://registry.yarnpkg.com/@nocobase/plugin-localization/-/plugin-localization-1.9.26.tgz#1e6a4c7811d404b202acb9ab17dc41871d4c68b6"
+  integrity sha512-mHB2eNVQ5rK9ziiVBfU0JpNMI5ptYeVri/zHjH1TUOhmRPzvy7pXq+QWFngccaa8P9rc9JhfZMZsqpCoLrquJw==
 
-"@nocobase/plugin-logger@1.9.0":
-  version "1.9.0"
-  resolved "https://registry.npmmirror.com/@nocobase/plugin-logger/-/plugin-logger-1.9.0.tgz#ff5614c80b0f8cef6fc60980b9a24e316a645b9c"
-  integrity sha512-q6Op4NmxmHHmc2sf3G/Tx7mnKqDQgjMzscMqPANQvfbVRME5E+WoB2dkCSkSJlyqfA6WMWr7DnvyyZknY5IJJw==
+"@nocobase/plugin-logger@1.9.26":
+  version "1.9.26"
+  resolved "https://registry.yarnpkg.com/@nocobase/plugin-logger/-/plugin-logger-1.9.26.tgz#35c6baf1d9560048b04567f30c9e47aaec3ed24f"
+  integrity sha512-3gVtcwWU5EnV1+slmCBmCn1HH8/HqwnJFyTUefdpMoARAYuD26a8g3+9hp29M0Xh7vfuYAHHWvxoYN47n9fwQQ==
 
-"@nocobase/plugin-map@1.9.0":
-  version "1.9.0"
-  resolved "https://registry.npmmirror.com/@nocobase/plugin-map/-/plugin-map-1.9.0.tgz#e47c8d99e0aa193f34e8d05af8ffcc18b345b85e"
-  integrity sha512-F6h0QDSmqvbAffFixsy8/j4jj699U80xYA7zyEu5Tt8EAHyuAjIbAdoVl8PDsAV02iCA6syGMDPqNUFGN9wxlA==
+"@nocobase/plugin-map@1.9.26":
+  version "1.9.26"
+  resolved "https://registry.yarnpkg.com/@nocobase/plugin-map/-/plugin-map-1.9.26.tgz#6a0107bf2ce7fa0dbb460532ad7e6f59308b0e10"
+  integrity sha512-sEiXlR2SpaqxnY1gBUDJ+rFJLBZFmJcmykdfOG4mO16qJVFPT4bOG2D3GPiR7Zed6SeB44ICfX5Sjiwf3l0w6w==
 
-"@nocobase/plugin-mobile-client@1.9.0":
-  version "1.9.0"
-  resolved "https://registry.npmmirror.com/@nocobase/plugin-mobile-client/-/plugin-mobile-client-1.9.0.tgz#7a3c0e28028b57e23a9c1ac4254bc8c2a7df19e0"
-  integrity sha512-qZT0bX82X/QWuDnGyW6bbIBFQ64OJxMNmt2wfX1GAs3xnkcKZtROqFIO5k6eBiu5cYGJEGONxsIW6E4ukjkddw==
+"@nocobase/plugin-mobile-client@1.9.26":
+  version "1.9.26"
+  resolved "https://registry.yarnpkg.com/@nocobase/plugin-mobile-client/-/plugin-mobile-client-1.9.26.tgz#4c0fe2d953e250512f2f6f726718769602e1ec51"
+  integrity sha512-i39YJSCRz9b3AFrAgAqy183fVK7UYnbvDBSS52rSVJsYvUGaYDkwhgOZQgO6UbZtrou0Ca5PEiEntq7/EA9Bog==
 
-"@nocobase/plugin-mobile@1.9.0":
-  version "1.9.0"
-  resolved "https://registry.npmmirror.com/@nocobase/plugin-mobile/-/plugin-mobile-1.9.0.tgz#e19a68c950b358e58e8f2adf35b98b043a6f7f84"
-  integrity sha512-I1SUkXIp7gYi6a1leB4meAF6Tq2gAw0U2ZTe6xrNneF5HS3BlphsxXK2UuSsJYZfUb6Hpq6/ZZoECuqP4yLzhA==
+"@nocobase/plugin-mobile@1.9.26":
+  version "1.9.26"
+  resolved "https://registry.yarnpkg.com/@nocobase/plugin-mobile/-/plugin-mobile-1.9.26.tgz#b4dc5baa27f1f87ee1c68968b4c67eb5f4ccfae3"
+  integrity sha512-MPVvZXRENe+MAjADM25dcV1FxvZUcX0aIIgjjj2LGz+StzIQp/e/8iiCxepgVMu5R+QdZ/PZptGWyh3vqfBykQ==
 
-"@nocobase/plugin-mock-collections@1.9.0":
-  version "1.9.0"
-  resolved "https://registry.npmmirror.com/@nocobase/plugin-mock-collections/-/plugin-mock-collections-1.9.0.tgz#d72f3038be40fbd19e74c0b9fd36be72a70e0577"
-  integrity sha512-z0bhZXev9iVyMMbcIvhETV2Cd4yNevLEsimeTxroVoBec/jXUmIgSVy5OrdeWPT5BzLfyKU3xP51++64xGE20A==
+"@nocobase/plugin-mock-collections@1.9.26":
+  version "1.9.26"
+  resolved "https://registry.yarnpkg.com/@nocobase/plugin-mock-collections/-/plugin-mock-collections-1.9.26.tgz#f5c8d27b5a90922e1306b5795fe45fd5a0c36572"
+  integrity sha512-PJotAy7Xr+8Kp3WahsjtBAkjxvjRFoyTbhtM7U8OkKtZGwyHQ2NLa5ciihxWsRqHXZxldfv3KdJNZWU9OZE6fQ==
 
-"@nocobase/plugin-multi-app-manager@1.9.0":
-  version "1.9.0"
-  resolved "https://registry.npmmirror.com/@nocobase/plugin-multi-app-manager/-/plugin-multi-app-manager-1.9.0.tgz#6a176021c102fe04bd3f27b3b2292dea5ca26054"
-  integrity sha512-qrWm7+T8E/3L3qteG8f196Ka5PjAlx6UqMsyjs6Rhdg2l5WYONAbd635lvl3Z3fpFgsH1N0OHzjnIRoGgGPs7g==
+"@nocobase/plugin-multi-app-manager@1.9.26":
+  version "1.9.26"
+  resolved "https://registry.yarnpkg.com/@nocobase/plugin-multi-app-manager/-/plugin-multi-app-manager-1.9.26.tgz#42a335a39cd8bd351c129dad02b714af1edbcf99"
+  integrity sha512-3oQXjhh3BJuWlybXvVUN+QVrmCx/aMvf1eI+TU4w2g7VsPQ8zxfnSisjc1Y7PY/cnrjLgyjxfq3Gu/iK0uazKg==
 
-"@nocobase/plugin-multi-app-share-collection@1.9.0":
-  version "1.9.0"
-  resolved "https://registry.npmmirror.com/@nocobase/plugin-multi-app-share-collection/-/plugin-multi-app-share-collection-1.9.0.tgz#cd41a5069db1814efd035d87daf34cdf913ba53d"
-  integrity sha512-0Rszzmw7QhgTAoZZhkOQa9CbWc8ODAHiSCvLG/2Cvo2t7r+NJj/mLiGfV85vQFnBYjozUl8OmSQVZ8AdKBWWUQ==
+"@nocobase/plugin-multi-app-share-collection@1.9.26":
+  version "1.9.26"
+  resolved "https://registry.yarnpkg.com/@nocobase/plugin-multi-app-share-collection/-/plugin-multi-app-share-collection-1.9.26.tgz#a421cb79f6437a9b9c15c0592388f26074b919c7"
+  integrity sha512-J6mN3Cu6zhEKo4nbDbvTdIKt8pIJ9oUQC/+5VPhpJeXohesiusUo0GFTIAZ/rBIkUlKuboUMBzlU8okGOGeV8g==
 
-"@nocobase/plugin-notification-email@1.9.0":
-  version "1.9.0"
-  resolved "https://registry.npmmirror.com/@nocobase/plugin-notification-email/-/plugin-notification-email-1.9.0.tgz#c45d5414b4011d239cd39bbc55396ef088792052"
-  integrity sha512-Sxupu7nmzWPnpJFcEgNXY92uKisfVs4KWzvSqnFrUaTJQK6N3iuLPa6KwjGJX+6Z/4AdYx1If5rIdWfR99QEoQ==
+"@nocobase/plugin-notification-email@1.9.26":
+  version "1.9.26"
+  resolved "https://registry.yarnpkg.com/@nocobase/plugin-notification-email/-/plugin-notification-email-1.9.26.tgz#f793ac08e041d1fedcd6333d720c1a0894864b0d"
+  integrity sha512-MWWTi76HJb+oSwV9/d6Rvmz3RpsHb0W2SEhK6C87cv3OnYN14q/4lV9LoHlRyPyyYzDInqSk81S1DEEd77z4dA==
 
-"@nocobase/plugin-notification-in-app-message@1.9.0":
-  version "1.9.0"
-  resolved "https://registry.npmmirror.com/@nocobase/plugin-notification-in-app-message/-/plugin-notification-in-app-message-1.9.0.tgz#5d14f01459c2d2a4d2a0a7d7a17b3a20d4fbaa05"
-  integrity sha512-R+bwJ6rhfeFIMNRzlBtd/QCtrfv+Lb/we3LWlunf3S37R/yFWYWhZS+zBUQO78GG0QA5Q2bCYulNiufJfwIIdg==
+"@nocobase/plugin-notification-in-app-message@1.9.26":
+  version "1.9.26"
+  resolved "https://registry.yarnpkg.com/@nocobase/plugin-notification-in-app-message/-/plugin-notification-in-app-message-1.9.26.tgz#cc8910226d3592ef6580739d3d5b4b2df2b54454"
+  integrity sha512-zAUZxUELq4LWp2u3gCR9W1Hff+US+i/m8PqrW9MGzPnwawBLG4eyg4SuvvyEerrHe03LAuYQ60aQjXFoPga5IA==
   dependencies:
     immer "^10.1.1"
 
-"@nocobase/plugin-notification-manager@1.9.0":
-  version "1.9.0"
-  resolved "https://registry.npmmirror.com/@nocobase/plugin-notification-manager/-/plugin-notification-manager-1.9.0.tgz#249175ae726df541ec3997637a2dbe168a9ef9c4"
-  integrity sha512-vVddHrxmaaa6z5UhQoBCtjTJe42IrYRJlgANYF/xztAOozbt/W/k+iMrAeWfyMAsfdCJZKViZjeqSeM4lMPBQQ==
+"@nocobase/plugin-notification-manager@1.9.26":
+  version "1.9.26"
+  resolved "https://registry.yarnpkg.com/@nocobase/plugin-notification-manager/-/plugin-notification-manager-1.9.26.tgz#8fdd24b2fcb2d27edeaaa2a1c90b4051d551282f"
+  integrity sha512-uFyq4Zc4SJVIqU4eDZnDVPtC4P4rwjvCk1bebNqwlLwf8d9vl91kRBBNeyT5HWfJYqsNrglaoEM+5ST4U9u+GA==
 
-"@nocobase/plugin-public-forms@1.9.0":
-  version "1.9.0"
-  resolved "https://registry.npmmirror.com/@nocobase/plugin-public-forms/-/plugin-public-forms-1.9.0.tgz#e0266b483b83835a99a08992fbb50a90c3766861"
-  integrity sha512-YCNnLpV1sZyL9OQMVpOmdgBWlARb7BmL8Fn04zq8DrskbUpaP97uoZIMDd12yLVesvkcEIh42VTEcptx8l/G9A==
+"@nocobase/plugin-public-forms@1.9.26":
+  version "1.9.26"
+  resolved "https://registry.yarnpkg.com/@nocobase/plugin-public-forms/-/plugin-public-forms-1.9.26.tgz#d0db45ac0858758095ce1bac9d2effe48b4d6284"
+  integrity sha512-YDKH6V58DntqQfrYu7o28fpOyHFZRKcaHE6MLCDnIF/WrhrX2b8icdOszUEf4RE0EBp5tT5bvR7B/+44mG3PMA==
 
-"@nocobase/plugin-snapshot-field@1.9.0":
-  version "1.9.0"
-  resolved "https://registry.npmmirror.com/@nocobase/plugin-snapshot-field/-/plugin-snapshot-field-1.9.0.tgz#766f89eab92c5a92089613d521284e8306ddb5c5"
-  integrity sha512-RblPE0QALw6TmVoWYyuTGxAzV3cdYXmYW0JM+L/JQL2LlFXkpOiX/P6NtOfp3sGAWab8SsRCg0C465OJ2+0eiw==
+"@nocobase/plugin-snapshot-field@1.9.26":
+  version "1.9.26"
+  resolved "https://registry.yarnpkg.com/@nocobase/plugin-snapshot-field/-/plugin-snapshot-field-1.9.26.tgz#8a90966282854867c4ac84cdda44bb66f6ebac53"
+  integrity sha512-EeSJpmqr4iNI5uteeZvCxs56nborKi7xT2AmQ5sUWfxfvHWt0luD5f7QsCVrFBap0vLwjLfZJ+IpMGwxsjqrvw==
 
-"@nocobase/plugin-system-settings@1.9.0":
-  version "1.9.0"
-  resolved "https://registry.npmmirror.com/@nocobase/plugin-system-settings/-/plugin-system-settings-1.9.0.tgz#7637f22a301c97984f1e444405229373f235d47f"
-  integrity sha512-7rhLZcke9WODv75gp1dCHQZOdlXlt6sqTJpdCVNTUe6yScJXFTi/5oLYjC/GGycXxj7fhcOB3cXn99d+11R+1w==
+"@nocobase/plugin-system-settings@1.9.26":
+  version "1.9.26"
+  resolved "https://registry.yarnpkg.com/@nocobase/plugin-system-settings/-/plugin-system-settings-1.9.26.tgz#8f669087dd59fa07453a1483e941589141577b1c"
+  integrity sha512-Rbk/Jv9IjvqHk3Ndn4uCh2WnMs8lUQMEpPNXZMKiU0GHVgFqM0AU9vaV+3Eyd6uXkTk+x+jyhjeb/swVrbgnjw==
 
-"@nocobase/plugin-text-copy@1.9.0":
-  version "1.9.0"
-  resolved "https://registry.npmmirror.com/@nocobase/plugin-text-copy/-/plugin-text-copy-1.9.0.tgz#faa8c6b4b0247d80ab71d87575d0e0378348d923"
-  integrity sha512-XH/BQabcbOnfX5v3LP8/838ewrgApVKL0TNSR+VV59qsKv6iCMowvpvD5ATWN1P1ZzhYUvEuUJSb/CWXzRV6Ww==
+"@nocobase/plugin-text-copy@1.9.26":
+  version "1.9.26"
+  resolved "https://registry.yarnpkg.com/@nocobase/plugin-text-copy/-/plugin-text-copy-1.9.26.tgz#967654b219d4c5710094130a9722199b2def20c3"
+  integrity sha512-hfZ9pN3GxA4BU3AxeYBBfiZMKj5tyHfjMBspZJnDw0rLCDGNwqL2iGb0hV7cJ8tF8XW2Sb4CK6xZmRDzZ+SXTw==
 
-"@nocobase/plugin-theme-editor@1.9.0":
-  version "1.9.0"
-  resolved "https://registry.npmmirror.com/@nocobase/plugin-theme-editor/-/plugin-theme-editor-1.9.0.tgz#b1811e5d7e65f7ef55d4bf60c673d6566052e9a0"
-  integrity sha512-97cLX2H3baonIvEEwuHH5RwA++o3T4nbZgP4OW8CXw8VB4F3B+f4N9PnYhoVMEpUfjCge2JUPyXK6zkwDriAVg==
+"@nocobase/plugin-theme-editor@1.9.26":
+  version "1.9.26"
+  resolved "https://registry.yarnpkg.com/@nocobase/plugin-theme-editor/-/plugin-theme-editor-1.9.26.tgz#4f8cf2a2938b04fd3592645979b3a454118022de"
+  integrity sha512-12A2SUgzbWBxJVe/xsqhTh20lrzlpGP7ux9gOD+g+wG960FIXGDeJq5UgW5ULyOCKtYUGiaZbyuUxSstPjDWyQ==
 
-"@nocobase/plugin-ui-schema-storage@1.9.0":
-  version "1.9.0"
-  resolved "https://registry.npmmirror.com/@nocobase/plugin-ui-schema-storage/-/plugin-ui-schema-storage-1.9.0.tgz#60fe4b12fa3a51163d15c4e36b74d48bed7bf160"
-  integrity sha512-879rM8pJzOnuzfTXKRM22Fxi/cA43rPN6Z20y8DNhEN1Nbb7VUpnwk+Th4A90AMd8PQM86rpFbDJZY0E6mGWww==
+"@nocobase/plugin-ui-schema-storage@1.9.26":
+  version "1.9.26"
+  resolved "https://registry.yarnpkg.com/@nocobase/plugin-ui-schema-storage/-/plugin-ui-schema-storage-1.9.26.tgz#2287af7f580f8bc2ad308ff8bb04789588a47a99"
+  integrity sha512-y/sHgKxrNp+Dbdr7rd3TGCCsivI8f91gYeZb/X3a7yyDfKnSayXTsvlM0SdYAVlHjNVP3Qlkf/pJ0ZuW7TDLmA==
 
-"@nocobase/plugin-user-data-sync@1.9.0":
-  version "1.9.0"
-  resolved "https://registry.npmmirror.com/@nocobase/plugin-user-data-sync/-/plugin-user-data-sync-1.9.0.tgz#0eef818abcafb35f4fee5dd7c2c565bba31231cd"
-  integrity sha512-CMiF/lyN/RWt8o6Q6daVo2EUlKxgsOAnOQex5bFDuxXRWjeH9IeNR98xfAQmRswhRRcVKmOd02v/3iRBPfVeqg==
+"@nocobase/plugin-user-data-sync@1.9.26":
+  version "1.9.26"
+  resolved "https://registry.yarnpkg.com/@nocobase/plugin-user-data-sync/-/plugin-user-data-sync-1.9.26.tgz#02058447c3c72c83c4a13c90e581e66037e676ed"
+  integrity sha512-XQx1J7J8s7FQWueoQ+Sib0EuCbLEch7FBD++wP7Rv0gjWOpYCpK2SqqOkFCFh9mgGxeYmmnz7c7RaxTbnR2SGA==
 
-"@nocobase/plugin-users@1.9.0":
-  version "1.9.0"
-  resolved "https://registry.npmmirror.com/@nocobase/plugin-users/-/plugin-users-1.9.0.tgz#ab78db95d796936b8a0d7f34b1e67b38abbbf075"
-  integrity sha512-D2asVaMAA7kZY7vtnQTbMFUGFWXgjKU6PI8XL/+E6SviAgEIB/K+aNABZh9BHPthFQuW6jw+q4J8zqwgPv5Dpg==
+"@nocobase/plugin-users@1.9.26":
+  version "1.9.26"
+  resolved "https://registry.yarnpkg.com/@nocobase/plugin-users/-/plugin-users-1.9.26.tgz#67faf17519e3b8909dbee413cfe415ae900348bf"
+  integrity sha512-XJLV7ASj7OX2poXnDJZFvVcy9VK0dyedYC2eLUIJvOcjlyByXHvcH6LrFLZN3fqqJRVb4Hha0LW6Poq0pPViCQ==
 
-"@nocobase/plugin-verification@1.9.0":
-  version "1.9.0"
-  resolved "https://registry.npmmirror.com/@nocobase/plugin-verification/-/plugin-verification-1.9.0.tgz#f7939e59fbb1c182e6c3ca6306fbb419fc511c35"
-  integrity sha512-s6n5aAqMekfFEVmzbc/c7XVYOU2osEIkkrDHMVDlGU8dw9OT4JAFOo4efO8QXkX8PVecoxSZ9EhW78mYxC4grQ==
+"@nocobase/plugin-verification@1.9.26":
+  version "1.9.26"
+  resolved "https://registry.yarnpkg.com/@nocobase/plugin-verification/-/plugin-verification-1.9.26.tgz#d7d35ab6ea1b957060e92b9ddfd09607cd078567"
+  integrity sha512-IWm0KKFa3t/m1Gvjba2/MRASvombt8TnRz5u+UcmlOosj5eBiVepTxVV7ZEPtJ8gi+Ct8chqUlCRla6jbo2G+g==
 
-"@nocobase/plugin-workflow-action-trigger@1.9.0":
-  version "1.9.0"
-  resolved "https://registry.npmmirror.com/@nocobase/plugin-workflow-action-trigger/-/plugin-workflow-action-trigger-1.9.0.tgz#13c7c45ed2232d58f403d122e71135e26c169315"
-  integrity sha512-nYdm53UQYf7dQgMaa3uFbJ164XAAQ8kCrm5ISc107Oytv++pZh4phTIko6vYFX100quPegJqPRFpELfKvUiL4w==
+"@nocobase/plugin-workflow-action-trigger@1.9.26":
+  version "1.9.26"
+  resolved "https://registry.yarnpkg.com/@nocobase/plugin-workflow-action-trigger/-/plugin-workflow-action-trigger-1.9.26.tgz#947f65e9e8436c05b111eab17623a450102cf973"
+  integrity sha512-nkhye4LLIH1hjpN3sIqVOukwBuP81GiAgk82BOzCtWIPQ69taMWkd0o3DrGUSLAT4RNiLISjROTtGCEHE+i6yA==
 
-"@nocobase/plugin-workflow-aggregate@1.9.0":
-  version "1.9.0"
-  resolved "https://registry.npmmirror.com/@nocobase/plugin-workflow-aggregate/-/plugin-workflow-aggregate-1.9.0.tgz#b1dc6ab2aea96ee6d930ec525549cd0e672de2e0"
-  integrity sha512-WU3Gf26ZTuxypr/mYUE7FilrS5TJH4iZY/Ll3nqbseWHEfISBm7MdzNvZ39f/ieeol8RKJgUanBqaF+lxp//wg==
+"@nocobase/plugin-workflow-aggregate@1.9.26":
+  version "1.9.26"
+  resolved "https://registry.yarnpkg.com/@nocobase/plugin-workflow-aggregate/-/plugin-workflow-aggregate-1.9.26.tgz#373d58109b21240e4b47048e43d777dd02482423"
+  integrity sha512-cAl8j4NEKZ24EQZ8OWSIEJggjIpRTbF8h+NmERAFQyAeMoi0UQZU/SGf8vsfaTjsT3YydcWLrEJ7czHbWBedHw==
 
-"@nocobase/plugin-workflow-cc@1.9.0":
-  version "1.9.0"
-  resolved "https://registry.npmmirror.com/@nocobase/plugin-workflow-cc/-/plugin-workflow-cc-1.9.0.tgz#8554ba7949752d9b48d98cd9e15970f612059b35"
-  integrity sha512-eDTLUDRzcE1r5aE0iWJtb5A5aFEdz6IFODBeN3VSIGnhjWN0klOYHR4WqAn11jAnsPnLZ3EOGmUWZShYLk7fmw==
+"@nocobase/plugin-workflow-cc@1.9.26":
+  version "1.9.26"
+  resolved "https://registry.yarnpkg.com/@nocobase/plugin-workflow-cc/-/plugin-workflow-cc-1.9.26.tgz#23ae60aa90c1ad0368d47f8f1b352c74716e7e28"
+  integrity sha512-eaVM4IAnwjdC0bETOdAuU2sZFvDogJ9dJfG8eX2IxV5g65a3jycox38SB6kNBzxROyKqhredIw8UF3q+Xhq5fg==
 
-"@nocobase/plugin-workflow-delay@1.9.0":
-  version "1.9.0"
-  resolved "https://registry.npmmirror.com/@nocobase/plugin-workflow-delay/-/plugin-workflow-delay-1.9.0.tgz#8766cde7c56cb4fbdcd18cf9ecca459bf4a7f47c"
-  integrity sha512-aaKRI5AHRI7V3oVLHTv/xbNswa8ZREs4oTjep68Nm9ywnZA8R15zTL//h+41Uu/QTuc5xShVDgDSP/gr4RJguQ==
+"@nocobase/plugin-workflow-delay@1.9.26":
+  version "1.9.26"
+  resolved "https://registry.yarnpkg.com/@nocobase/plugin-workflow-delay/-/plugin-workflow-delay-1.9.26.tgz#6f6177de5e3236e61d798a64cb58319cca6f7290"
+  integrity sha512-tcU03X2bO8UttQf6FD0RPvZ1nXjGniP8U4mqTleZBTb6R9veMu+kRWozJD99RFtuYtwQNPyuqkhBv5EYJeNi2w==
 
-"@nocobase/plugin-workflow-dynamic-calculation@1.9.0":
-  version "1.9.0"
-  resolved "https://registry.npmmirror.com/@nocobase/plugin-workflow-dynamic-calculation/-/plugin-workflow-dynamic-calculation-1.9.0.tgz#2c26f6735d95f7d5b471bb42f6a0cb49cab508e2"
-  integrity sha512-8h6eEzdcS1sQVoSFkEZs2g+nOog6WxHukyoRBqeyNhR/3h5UpJyUkaE2HvfUoV75xA7k7emngmDK1ZPIgnlxwA==
+"@nocobase/plugin-workflow-dynamic-calculation@1.9.26":
+  version "1.9.26"
+  resolved "https://registry.yarnpkg.com/@nocobase/plugin-workflow-dynamic-calculation/-/plugin-workflow-dynamic-calculation-1.9.26.tgz#86a13bf3bdb6f48e55bf0e4a8d19a777f2addfe5"
+  integrity sha512-y97cP7TleVdocSl2OevZZ7JkpgaRPD7KZDoIWA+KHA7vuj5VWYAhNH8sa27TUzvBrTohwcIZI1f1NhjwiM1xig==
 
-"@nocobase/plugin-workflow-loop@1.9.0":
-  version "1.9.0"
-  resolved "https://registry.npmmirror.com/@nocobase/plugin-workflow-loop/-/plugin-workflow-loop-1.9.0.tgz#cf9882f75a051c6eef5b77f894f0308d0f5b9ba2"
-  integrity sha512-VBnwgk0KH577324coBPbGhZEL/kJymXMpSVcl+u7cKoN1T2Mo53Y9j+IhCJtGOmsFZPK6r9XoIuvBwzZmq7Ijg==
+"@nocobase/plugin-workflow-json-query@1.9.26":
+  version "1.9.26"
+  resolved "https://registry.yarnpkg.com/@nocobase/plugin-workflow-json-query/-/plugin-workflow-json-query-1.9.26.tgz#fd05b73bb77faf570ced84a7638443eca5512b6d"
+  integrity sha512-/sgcnj5+t6TTQJO78UxxbwFKwLNpvqn7xLveR1QAxlX6dx20rIPXyD2G9ymjXfwkGNqDdbMa4K+gYgyPPUveGg==
 
-"@nocobase/plugin-workflow-mailer@1.9.0":
-  version "1.9.0"
-  resolved "https://registry.npmmirror.com/@nocobase/plugin-workflow-mailer/-/plugin-workflow-mailer-1.9.0.tgz#2a915c8c27a52f2d8580e606b1eb7265739e6228"
-  integrity sha512-luvD/jJSblqcBcA/vCWJhDsZ0YfmE5Hj3YpHqe8p/XfJquj0n+IqanzZzVj+cMS+dUinpod9GZJJSZI5m2C6dw==
+"@nocobase/plugin-workflow-json-variable-mapping@1.9.26":
+  version "1.9.26"
+  resolved "https://registry.yarnpkg.com/@nocobase/plugin-workflow-json-variable-mapping/-/plugin-workflow-json-variable-mapping-1.9.26.tgz#0f91ff0263303f047e4f0e4bc7cbf6dede586cec"
+  integrity sha512-7jtU3mJWie5amGvsHgR72/p6c2a2Rd8lDYhKMZ/V9k3LL5e6W7yixaJbwDaTTmFX/Cj56MG0Jomib111BDRhpw==
 
-"@nocobase/plugin-workflow-manual@1.9.0":
-  version "1.9.0"
-  resolved "https://registry.npmmirror.com/@nocobase/plugin-workflow-manual/-/plugin-workflow-manual-1.9.0.tgz#7288502db67e484c6e65760d8615e1519efc2a17"
-  integrity sha512-09KQmUvUK4yNPD00fgCjjtQ8WB3gLce3C3dGasOjaB0ed2nSe0kBU0Y+8hTVY2puwiM4j+7DJ+cw2aKkVUQNEg==
+"@nocobase/plugin-workflow-loop@1.9.26":
+  version "1.9.26"
+  resolved "https://registry.yarnpkg.com/@nocobase/plugin-workflow-loop/-/plugin-workflow-loop-1.9.26.tgz#139e679e3b0163e670d9ca4f4395fd25a927e1bd"
+  integrity sha512-3cJY/5X1+UF1ogTtAKTIgxhLkNUxVddCV+UEE5TpUshJL7PL4QfEHYPUbkqaqL1cyXJ0tFJhgib3yPvF462LeA==
 
-"@nocobase/plugin-workflow-notification@1.9.0":
-  version "1.9.0"
-  resolved "https://registry.npmmirror.com/@nocobase/plugin-workflow-notification/-/plugin-workflow-notification-1.9.0.tgz#b6c3fde1f24c40732a28519086e97d4c3f340d1c"
-  integrity sha512-FRB/cPxqFaOqdfuTUXzrSBaywh8T0STnHTYNnMD9uN2rl8vwP57QKf1/DTBdRbsFSNNYFQAa6CkXwa/Fjmv68g==
+"@nocobase/plugin-workflow-mailer@1.9.26":
+  version "1.9.26"
+  resolved "https://registry.yarnpkg.com/@nocobase/plugin-workflow-mailer/-/plugin-workflow-mailer-1.9.26.tgz#f545811c0284bbbbf11d3c16bb9192ac96c4b681"
+  integrity sha512-7iSZW5EMV31eSoNu6SAHSqi1hji7ant14ClKQ9YzjHmUvkCdlYZNNLXgfwRxQPy/FVYF3qoAnqudvzydQkUj4g==
 
-"@nocobase/plugin-workflow-parallel@1.9.0":
-  version "1.9.0"
-  resolved "https://registry.npmmirror.com/@nocobase/plugin-workflow-parallel/-/plugin-workflow-parallel-1.9.0.tgz#30bdba0d1825eb437683523dc8a0219f43d16c00"
-  integrity sha512-n87QcA9fKyhz0L8a5mUEmriZDMR/iDxLDhYp79Y00io+f6sMm0Bp8Atu+3Cky0PJxgKse1lBDpEEUjH5+N9xHQ==
+"@nocobase/plugin-workflow-manual@1.9.26":
+  version "1.9.26"
+  resolved "https://registry.yarnpkg.com/@nocobase/plugin-workflow-manual/-/plugin-workflow-manual-1.9.26.tgz#221d0e95f3262fec578a9f6409a0596e776ab869"
+  integrity sha512-kAnWh271irEzOQJpNP7Kq/MC29cd9Eoqwml98hbSBBiF0fVZxQn3twJfA/t0RT5N/hTq6Yw0c46uMK1APsGv6g==
 
-"@nocobase/plugin-workflow-request@1.9.0":
-  version "1.9.0"
-  resolved "https://registry.npmmirror.com/@nocobase/plugin-workflow-request/-/plugin-workflow-request-1.9.0.tgz#f0c067e2a69e1ab867d31674e08f70b4ab4b75ff"
-  integrity sha512-53PAoD6WwveB8ztGY3TGHWfjRgV1XyUWfqrXAcsZ9LNhWUhqsCIvxz8N3zas35RIq5Z3qatxzOaOHVKL3LzgeQ==
+"@nocobase/plugin-workflow-notification@1.9.26":
+  version "1.9.26"
+  resolved "https://registry.yarnpkg.com/@nocobase/plugin-workflow-notification/-/plugin-workflow-notification-1.9.26.tgz#bccf71a867f00ac4d4ec3ef65af6b77942020e01"
+  integrity sha512-f0G45Mw1NRDYf8Hqy6Fe7PDSt0oqmqJSMwRNhJHQ0Z7uKwg6lhe+YnpK2B89TFi9U+hNS3LC38DfIyDyafFsIA==
 
-"@nocobase/plugin-workflow-response-message@1.9.0":
-  version "1.9.0"
-  resolved "https://registry.npmmirror.com/@nocobase/plugin-workflow-response-message/-/plugin-workflow-response-message-1.9.0.tgz#b197e6db43210ce2c80fe0fe76a9d21ddd9e9e8a"
-  integrity sha512-iCOmd6T1Rb9w4ijCzihwJxK/OgRDqoToqtS0OYOwLr1/zlb+dtklkyUNqu0f9mF2wCNJ86LLXAyF0F0iqzWs/g==
+"@nocobase/plugin-workflow-parallel@1.9.26":
+  version "1.9.26"
+  resolved "https://registry.yarnpkg.com/@nocobase/plugin-workflow-parallel/-/plugin-workflow-parallel-1.9.26.tgz#afd26166865137d066b34761ede79011d30d3ffe"
+  integrity sha512-8IrN2CEZiX8q8bsq8ioJfEoSPt1qZBQlHK7BiQbtwNHLfzL7z5UwfLTp5hmHlvm6UjqsSZYMRBEgFAoEgAOd2g==
 
-"@nocobase/plugin-workflow-sql@1.9.0":
-  version "1.9.0"
-  resolved "https://registry.npmmirror.com/@nocobase/plugin-workflow-sql/-/plugin-workflow-sql-1.9.0.tgz#a1a1d5b8ec30853e511f8ca585fa63a551ff7f8e"
-  integrity sha512-2AusB8335m764ltoHbWmBHNW9QDBenCvv5dnoT3hkT3vS9S4JJmnIVXXZiJ6dJqKbJCy88+vAqoBVzfwoJtZ6g==
+"@nocobase/plugin-workflow-request@1.9.26":
+  version "1.9.26"
+  resolved "https://registry.yarnpkg.com/@nocobase/plugin-workflow-request/-/plugin-workflow-request-1.9.26.tgz#1c77e6d9069422898b94d35045609814c4b64d05"
+  integrity sha512-DgcMPe2ZhuHctll/Ub4FqdW9zKP/DbV3Uc4/SP1XGHS95zsaDjhvYj4OqcHnKK7Caw4B4o5NWft1j9lJmAdF3w==
 
-"@nocobase/plugin-workflow@1.9.0":
-  version "1.9.0"
-  resolved "https://registry.npmmirror.com/@nocobase/plugin-workflow/-/plugin-workflow-1.9.0.tgz#cb0c006b8bd76767f946100cf2275f255f282888"
-  integrity sha512-t4dctenRoMHIBtm4jfdYrHyteDzxD4jVU6xDDRpIIQ+cXhjfISc5iiniTaK1vP/mAKrOdG+xxGrmEiwrM/Envg==
+"@nocobase/plugin-workflow-response-message@1.9.26":
+  version "1.9.26"
+  resolved "https://registry.yarnpkg.com/@nocobase/plugin-workflow-response-message/-/plugin-workflow-response-message-1.9.26.tgz#697d8de44a899686452cf7003fdad38465443372"
+  integrity sha512-2DrQkmUbhHPeIpoQ7JIIK32HFjmRSljRvBsVti4jiJDqCEobGRgFfdGQF9Ygc6T3FglXhksaeiQXzKyG6olNxg==
 
-"@nocobase/preset-nocobase@1.9.0":
-  version "1.9.0"
-  resolved "https://registry.npmmirror.com/@nocobase/preset-nocobase/-/preset-nocobase-1.9.0.tgz#3d4684c99da60735b92be9a077cb6958d97911f6"
-  integrity sha512-siNsAeyk9IYNqU9rqBH8xhNxt0FnpKpCQE8CyCdf+UFrQ51LTogbbyapF+iPzVF18Gw25Xm1x6XgXhtuCxqL+A==
+"@nocobase/plugin-workflow-sql@1.9.26":
+  version "1.9.26"
+  resolved "https://registry.yarnpkg.com/@nocobase/plugin-workflow-sql/-/plugin-workflow-sql-1.9.26.tgz#11b12cce2184932653343f5a648ba4eeb53d005e"
+  integrity sha512-SuqU3wGI31M67RnlTXzY0ym70m0wDYGoiCA2bDqPYd9lrwJeOLNd5hq6dd34oPUkrWL9n7gsZxA50KVMS9LXtQ==
+
+"@nocobase/plugin-workflow@1.9.26":
+  version "1.9.26"
+  resolved "https://registry.yarnpkg.com/@nocobase/plugin-workflow/-/plugin-workflow-1.9.26.tgz#580e256a77b7b025652d9a493d49628c29c289e6"
+  integrity sha512-eOK+0hReVC637dZr7MqMs6i0JkO34SYjSJrlLzm0LFALOayUV3ldkzu96ueAn5UbZZ4QcxxgqqgQ2K0YknEj2A==
+
+"@nocobase/preset-nocobase@1.9.26":
+  version "1.9.26"
+  resolved "https://registry.yarnpkg.com/@nocobase/preset-nocobase/-/preset-nocobase-1.9.26.tgz#c69c1e13148de6920adbcf08a744f3df18af2ab4"
+  integrity sha512-PseMnSd6ZFEZP23f81juBiKIUHUvhYI/1hC+7ZPPMfPdL0zd6PUPFQDdS+7eGN+K1nWiN/DvonzYMW3YXMOmLA==
   dependencies:
     "@formily/json-schema" "2.x"
-    "@nocobase/plugin-acl" "1.9.0"
-    "@nocobase/plugin-action-bulk-edit" "1.9.0"
-    "@nocobase/plugin-action-bulk-update" "1.9.0"
-    "@nocobase/plugin-action-custom-request" "1.9.0"
-    "@nocobase/plugin-action-duplicate" "1.9.0"
-    "@nocobase/plugin-action-export" "1.9.0"
-    "@nocobase/plugin-action-import" "1.9.0"
-    "@nocobase/plugin-action-print" "1.9.0"
-    "@nocobase/plugin-ai" "1.9.0"
-    "@nocobase/plugin-api-doc" "1.9.0"
-    "@nocobase/plugin-api-keys" "1.9.0"
-    "@nocobase/plugin-async-task-manager" "1.9.0"
-    "@nocobase/plugin-audit-logs" "1.9.0"
-    "@nocobase/plugin-auth" "1.9.0"
-    "@nocobase/plugin-auth-sms" "1.9.0"
-    "@nocobase/plugin-backup-restore" "1.9.0"
-    "@nocobase/plugin-block-iframe" "1.9.0"
-    "@nocobase/plugin-block-template" "1.9.0"
-    "@nocobase/plugin-block-workbench" "1.9.0"
-    "@nocobase/plugin-calendar" "1.9.0"
-    "@nocobase/plugin-charts" "1.9.0"
-    "@nocobase/plugin-client" "1.9.0"
-    "@nocobase/plugin-collection-sql" "1.9.0"
-    "@nocobase/plugin-collection-tree" "1.9.0"
-    "@nocobase/plugin-data-source-main" "1.9.0"
-    "@nocobase/plugin-data-source-manager" "1.9.0"
-    "@nocobase/plugin-data-visualization" "1.9.0"
-    "@nocobase/plugin-departments" "1.9.0"
-    "@nocobase/plugin-environment-variables" "1.9.0"
-    "@nocobase/plugin-error-handler" "1.9.0"
-    "@nocobase/plugin-field-attachment-url" "1.9.0"
-    "@nocobase/plugin-field-china-region" "1.9.0"
-    "@nocobase/plugin-field-formula" "1.9.0"
-    "@nocobase/plugin-field-m2m-array" "1.9.0"
-    "@nocobase/plugin-field-markdown-vditor" "1.9.0"
-    "@nocobase/plugin-field-sequence" "1.9.0"
-    "@nocobase/plugin-field-sort" "1.9.0"
-    "@nocobase/plugin-file-manager" "1.9.0"
-    "@nocobase/plugin-file-previewer-office" "1.9.0"
-    "@nocobase/plugin-gantt" "1.9.0"
-    "@nocobase/plugin-graph-collection-manager" "1.9.0"
-    "@nocobase/plugin-kanban" "1.9.0"
-    "@nocobase/plugin-license" "1.9.0"
-    "@nocobase/plugin-locale-tester" "1.9.0"
-    "@nocobase/plugin-localization" "1.9.0"
-    "@nocobase/plugin-logger" "1.9.0"
-    "@nocobase/plugin-map" "1.9.0"
-    "@nocobase/plugin-mobile" "1.9.0"
-    "@nocobase/plugin-mobile-client" "1.9.0"
-    "@nocobase/plugin-mock-collections" "1.9.0"
-    "@nocobase/plugin-multi-app-manager" "1.9.0"
-    "@nocobase/plugin-multi-app-share-collection" "1.9.0"
-    "@nocobase/plugin-notification-email" "1.9.0"
-    "@nocobase/plugin-notification-in-app-message" "1.9.0"
-    "@nocobase/plugin-notification-manager" "1.9.0"
-    "@nocobase/plugin-public-forms" "1.9.0"
-    "@nocobase/plugin-snapshot-field" "1.9.0"
-    "@nocobase/plugin-system-settings" "1.9.0"
-    "@nocobase/plugin-text-copy" "1.9.0"
-    "@nocobase/plugin-theme-editor" "1.9.0"
-    "@nocobase/plugin-ui-schema-storage" "1.9.0"
-    "@nocobase/plugin-user-data-sync" "1.9.0"
-    "@nocobase/plugin-users" "1.9.0"
-    "@nocobase/plugin-verification" "1.9.0"
-    "@nocobase/plugin-workflow" "1.9.0"
-    "@nocobase/plugin-workflow-action-trigger" "1.9.0"
-    "@nocobase/plugin-workflow-aggregate" "1.9.0"
-    "@nocobase/plugin-workflow-cc" "1.9.0"
-    "@nocobase/plugin-workflow-delay" "1.9.0"
-    "@nocobase/plugin-workflow-dynamic-calculation" "1.9.0"
-    "@nocobase/plugin-workflow-loop" "1.9.0"
-    "@nocobase/plugin-workflow-mailer" "1.9.0"
-    "@nocobase/plugin-workflow-manual" "1.9.0"
-    "@nocobase/plugin-workflow-notification" "1.9.0"
-    "@nocobase/plugin-workflow-parallel" "1.9.0"
-    "@nocobase/plugin-workflow-request" "1.9.0"
-    "@nocobase/plugin-workflow-response-message" "1.9.0"
-    "@nocobase/plugin-workflow-sql" "1.9.0"
-    "@nocobase/server" "1.9.0"
+    "@nocobase/plugin-acl" "1.9.26"
+    "@nocobase/plugin-action-bulk-edit" "1.9.26"
+    "@nocobase/plugin-action-bulk-update" "1.9.26"
+    "@nocobase/plugin-action-custom-request" "1.9.26"
+    "@nocobase/plugin-action-duplicate" "1.9.26"
+    "@nocobase/plugin-action-export" "1.9.26"
+    "@nocobase/plugin-action-import" "1.9.26"
+    "@nocobase/plugin-action-print" "1.9.26"
+    "@nocobase/plugin-ai" "1.9.26"
+    "@nocobase/plugin-api-doc" "1.9.26"
+    "@nocobase/plugin-api-keys" "1.9.26"
+    "@nocobase/plugin-async-task-manager" "1.9.26"
+    "@nocobase/plugin-audit-logs" "1.9.26"
+    "@nocobase/plugin-auth" "1.9.26"
+    "@nocobase/plugin-auth-sms" "1.9.26"
+    "@nocobase/plugin-backup-restore" "1.9.26"
+    "@nocobase/plugin-block-iframe" "1.9.26"
+    "@nocobase/plugin-block-template" "1.9.26"
+    "@nocobase/plugin-block-workbench" "1.9.26"
+    "@nocobase/plugin-calendar" "1.9.26"
+    "@nocobase/plugin-charts" "1.9.26"
+    "@nocobase/plugin-client" "1.9.26"
+    "@nocobase/plugin-collection-sql" "1.9.26"
+    "@nocobase/plugin-collection-tree" "1.9.26"
+    "@nocobase/plugin-data-source-main" "1.9.26"
+    "@nocobase/plugin-data-source-manager" "1.9.26"
+    "@nocobase/plugin-data-visualization" "1.9.26"
+    "@nocobase/plugin-departments" "1.9.26"
+    "@nocobase/plugin-environment-variables" "1.9.26"
+    "@nocobase/plugin-error-handler" "1.9.26"
+    "@nocobase/plugin-field-attachment-url" "1.9.26"
+    "@nocobase/plugin-field-china-region" "1.9.26"
+    "@nocobase/plugin-field-formula" "1.9.26"
+    "@nocobase/plugin-field-m2m-array" "1.9.26"
+    "@nocobase/plugin-field-markdown-vditor" "1.9.26"
+    "@nocobase/plugin-field-sequence" "1.9.26"
+    "@nocobase/plugin-field-sort" "1.9.26"
+    "@nocobase/plugin-file-manager" "1.9.26"
+    "@nocobase/plugin-file-previewer-office" "1.9.26"
+    "@nocobase/plugin-gantt" "1.9.26"
+    "@nocobase/plugin-graph-collection-manager" "1.9.26"
+    "@nocobase/plugin-kanban" "1.9.26"
+    "@nocobase/plugin-license" "1.9.26"
+    "@nocobase/plugin-locale-tester" "1.9.26"
+    "@nocobase/plugin-localization" "1.9.26"
+    "@nocobase/plugin-logger" "1.9.26"
+    "@nocobase/plugin-map" "1.9.26"
+    "@nocobase/plugin-mobile" "1.9.26"
+    "@nocobase/plugin-mobile-client" "1.9.26"
+    "@nocobase/plugin-mock-collections" "1.9.26"
+    "@nocobase/plugin-multi-app-manager" "1.9.26"
+    "@nocobase/plugin-multi-app-share-collection" "1.9.26"
+    "@nocobase/plugin-notification-email" "1.9.26"
+    "@nocobase/plugin-notification-in-app-message" "1.9.26"
+    "@nocobase/plugin-notification-manager" "1.9.26"
+    "@nocobase/plugin-public-forms" "1.9.26"
+    "@nocobase/plugin-snapshot-field" "1.9.26"
+    "@nocobase/plugin-system-settings" "1.9.26"
+    "@nocobase/plugin-text-copy" "1.9.26"
+    "@nocobase/plugin-theme-editor" "1.9.26"
+    "@nocobase/plugin-ui-schema-storage" "1.9.26"
+    "@nocobase/plugin-user-data-sync" "1.9.26"
+    "@nocobase/plugin-users" "1.9.26"
+    "@nocobase/plugin-verification" "1.9.26"
+    "@nocobase/plugin-workflow" "1.9.26"
+    "@nocobase/plugin-workflow-action-trigger" "1.9.26"
+    "@nocobase/plugin-workflow-aggregate" "1.9.26"
+    "@nocobase/plugin-workflow-cc" "1.9.26"
+    "@nocobase/plugin-workflow-delay" "1.9.26"
+    "@nocobase/plugin-workflow-dynamic-calculation" "1.9.26"
+    "@nocobase/plugin-workflow-json-query" "1.9.26"
+    "@nocobase/plugin-workflow-json-variable-mapping" "1.9.26"
+    "@nocobase/plugin-workflow-loop" "1.9.26"
+    "@nocobase/plugin-workflow-mailer" "1.9.26"
+    "@nocobase/plugin-workflow-manual" "1.9.26"
+    "@nocobase/plugin-workflow-notification" "1.9.26"
+    "@nocobase/plugin-workflow-parallel" "1.9.26"
+    "@nocobase/plugin-workflow-request" "1.9.26"
+    "@nocobase/plugin-workflow-response-message" "1.9.26"
+    "@nocobase/plugin-workflow-sql" "1.9.26"
+    "@nocobase/server" "1.9.26"
     cronstrue "^2.11.0"
     fs-extra "^11.1.1"
 
@@ -4921,38 +4955,50 @@
     path-to-regexp "^6.3.0"
     qs "^6.9.4"
 
-"@nocobase/sdk@1.9.0":
-  version "1.9.0"
-  resolved "https://registry.npmmirror.com/@nocobase/sdk/-/sdk-1.9.0.tgz#70ff1bee36a9f0a0f1911761fd682dc570647c15"
-  integrity sha512-rd1PB+BTs8TF+bqnJhgrKkmSwgj4FATp1yjAOmV23v3/mGGBtlx7JUqBB8I+djUHOpw2mfhJ074glzIRX7MrHw==
+"@nocobase/resourcer@1.9.26":
+  version "1.9.26"
+  resolved "https://registry.yarnpkg.com/@nocobase/resourcer/-/resourcer-1.9.26.tgz#902219bfed730f157af916b2349044d884cd9759"
+  integrity sha512-ZyhlNJW0w8z7yd67U5rZw7XFVAn9SIbNU1/qlzKzJHZGp2+gu0tlcTM4v5Ra0fMKhRUFlxPhTOtod2RiZiMvAg==
+  dependencies:
+    "@nocobase/utils" "1.9.26"
+    deepmerge "^4.2.2"
+    koa-compose "^4.1.0"
+    lodash "^4.17.21"
+    path-to-regexp "^6.3.0"
+    qs "^6.9.4"
+
+"@nocobase/sdk@1.9.26":
+  version "1.9.26"
+  resolved "https://registry.yarnpkg.com/@nocobase/sdk/-/sdk-1.9.26.tgz#2ffb198d718f802f41d86e8c10013851d2115fcc"
+  integrity sha512-srPD5dfaqcyijvnGql1GMA5tLImhWeEMD83Gbmk1WogigZ/8nDa/kmbbSGoG01j3W6+9E2FO5ibbtThmNxiYTA==
   dependencies:
     axios "^1.7.0"
     qs "^6.10.1"
 
-"@nocobase/server@1.9.0":
-  version "1.9.0"
-  resolved "https://registry.npmmirror.com/@nocobase/server/-/server-1.9.0.tgz#313334f71bc81fd04013a1d146ceb92ef19a49ad"
-  integrity sha512-Ur5iXcJRJZHFpxSKnlS/j2mP081eeZlrUWyRb2qrvnzq4RLsp/KIScNbwRAMdoRuqbpdyGC5sWpxb0sjOsQK8w==
+"@nocobase/server@1.9.26":
+  version "1.9.26"
+  resolved "https://registry.yarnpkg.com/@nocobase/server/-/server-1.9.26.tgz#cbc4db70993042c248dc902c3a4293a5b0948208"
+  integrity sha512-SYf4QwnF5AA2itcb1hm35Q1woqm/AkwMrTP6dY3+WNme6Y2OICdQMECfKWnmpiyXFiiSlcSrCa5ys0tRHcUYrg==
   dependencies:
     "@formily/json-schema" "2.x"
     "@hapi/topo" "^6.0.0"
     "@koa/cors" "^5.0.0"
     "@koa/multer" "^3.1.0"
     "@koa/router" "^13.1.0"
-    "@nocobase/acl" "1.9.0"
-    "@nocobase/actions" "1.9.0"
-    "@nocobase/auth" "1.9.0"
-    "@nocobase/cache" "1.9.0"
-    "@nocobase/data-source-manager" "1.9.0"
-    "@nocobase/database" "1.9.0"
-    "@nocobase/evaluators" "1.9.0"
-    "@nocobase/lock-manager" "1.9.0"
-    "@nocobase/logger" "1.9.0"
-    "@nocobase/resourcer" "1.9.0"
-    "@nocobase/sdk" "1.9.0"
-    "@nocobase/snowflake-id" "1.9.0"
-    "@nocobase/telemetry" "1.9.0"
-    "@nocobase/utils" "1.9.0"
+    "@nocobase/acl" "1.9.26"
+    "@nocobase/actions" "1.9.26"
+    "@nocobase/auth" "1.9.26"
+    "@nocobase/cache" "1.9.26"
+    "@nocobase/data-source-manager" "1.9.26"
+    "@nocobase/database" "1.9.26"
+    "@nocobase/evaluators" "1.9.26"
+    "@nocobase/lock-manager" "1.9.26"
+    "@nocobase/logger" "1.9.26"
+    "@nocobase/resourcer" "1.9.26"
+    "@nocobase/sdk" "1.9.26"
+    "@nocobase/snowflake-id" "1.9.26"
+    "@nocobase/telemetry" "1.9.26"
+    "@nocobase/utils" "1.9.26"
     "@types/decompress" "4.2.7"
     "@types/ini" "^1.3.31"
     "@types/koa-send" "^4.1.3"
@@ -4983,17 +5029,17 @@
     ws "^8.13.0"
     xpipe "^1.0.5"
 
-"@nocobase/snowflake-id@1.9.0":
-  version "1.9.0"
-  resolved "https://registry.npmmirror.com/@nocobase/snowflake-id/-/snowflake-id-1.9.0.tgz#9552ad6b29c392a75f50180e7a3d024f65e8a7c7"
-  integrity sha512-J/qOyhPrQLUCqZO29u0d/6GfzvrtssVXdBr/KvCjj5ZDTWQeFStt7MI56HAD8FnI/D6Q7Nh3xUqPXS52L+0MUg==
+"@nocobase/snowflake-id@1.9.26":
+  version "1.9.26"
+  resolved "https://registry.yarnpkg.com/@nocobase/snowflake-id/-/snowflake-id-1.9.26.tgz#1c96991ef48fc8e9c089727dd6e22519f1923f8a"
+  integrity sha512-zKG1WoL7Ix9ROIWvTdETJgh78pG95B/Ny85D6fu1kdxj1/nSaPepC5AlbIOS4qVxQh0mGW6UqjvXHDLZF7WQDg==
 
-"@nocobase/telemetry@1.9.0":
-  version "1.9.0"
-  resolved "https://registry.npmmirror.com/@nocobase/telemetry/-/telemetry-1.9.0.tgz#58d24c0ff1bfea3f5770f9d5a67d5faa9cdc650c"
-  integrity sha512-GzScul9eRapTRJY8rLoGMoyNlvkQoIm5LQY6HHjRcRy6MgyC2h7NldBQDNDxt37DKbcHu4MzjVZa4BeB9HfTNw==
+"@nocobase/telemetry@1.9.26":
+  version "1.9.26"
+  resolved "https://registry.yarnpkg.com/@nocobase/telemetry/-/telemetry-1.9.26.tgz#ec5646e5dbccbcd90c9aabb38210db705f9ddab3"
+  integrity sha512-6Tc5zuheZdNSHFV3J4ibF1ov5IVkiSOeWSTEJFODIDDbojRnuBJ4yRmQZZ+f0U+VY0gt1hH/2XHsvExGtbqC/A==
   dependencies:
-    "@nocobase/utils" "1.9.0"
+    "@nocobase/utils" "1.9.26"
     "@opentelemetry/api" "^1.7.0"
     "@opentelemetry/instrumentation" "^0.46.0"
     "@opentelemetry/resources" "^1.19.0"
@@ -5002,13 +5048,13 @@
     "@opentelemetry/sdk-trace-node" "^1.19.0"
     "@opentelemetry/semantic-conventions" "^1.19.0"
 
-"@nocobase/test@1.9.0":
-  version "1.9.0"
-  resolved "https://registry.npmmirror.com/@nocobase/test/-/test-1.9.0.tgz#ed4cf03b6ab8b0017f01d6bd70568831cd70c123"
-  integrity sha512-Nl7AWW81sY6u+xyHgrnjPQBe6t42Y0mMBLHezMyv/zp8PnxHWLFG4riwQn4GLhOqbw+oIKvujhh9c48atmtUjw==
+"@nocobase/test@1.9.26":
+  version "1.9.26"
+  resolved "https://registry.yarnpkg.com/@nocobase/test/-/test-1.9.26.tgz#6db43393fcf2dfd09e0a6176029e567bba4eb702"
+  integrity sha512-dbMCKUqzSuPPDOe20yD5t4s8Y+jMx2/zEGjFXnaeJt/q4RA+K/aX81N9+1CtxhehZvuvuthX0wvRUcvLtVszsA==
   dependencies:
     "@faker-js/faker" "8.1.0"
-    "@nocobase/server" "1.9.0"
+    "@nocobase/server" "1.9.26"
     "@playwright/test" "^1.45.3"
     "@testing-library/jest-dom" "^6.4.2"
     "@testing-library/react" "^14.0.0"
@@ -5036,6 +5082,22 @@
   version "1.9.0"
   resolved "https://registry.npmmirror.com/@nocobase/utils/-/utils-1.9.0.tgz#6da1c78001ebbfa8f0e5fa1162f61383e9df583f"
   integrity sha512-+dtxLwwSgjSNjIycEeHk3/JIishfojehqtZY689TcrMLFspD5jXHKg4twU9jh5KN8/peiJLhGvBbKW71HVhUrA==
+  dependencies:
+    "@budibase/handlebars-helpers" "0.14.0"
+    "@hapi/topo" "^6.0.0"
+    "@rc-component/mini-decimal" "^1.1.0"
+    dayjs "^1.11.9"
+    deepmerge "^4.2.2"
+    flat-to-nested "^1.1.1"
+    graphlib "^2.1.8"
+    handlebars "^4.7.8"
+    multer "^1.4.5-lts.2"
+    object-path "^0.11.8"
+
+"@nocobase/utils@1.9.26":
+  version "1.9.26"
+  resolved "https://registry.yarnpkg.com/@nocobase/utils/-/utils-1.9.26.tgz#b607731f070179a3572548c195bbd1a656a4428e"
+  integrity sha512-uVzZyMA2L8NbmCcXQWi5V1711PY66VXwF2UdnhlqoDPbDb2oW6c6/kZhhPdMpiLfsJLzarJBaA4LHSI/AN0rpA==
   dependencies:
     "@budibase/handlebars-helpers" "0.14.0"
     "@hapi/topo" "^6.0.0"
@@ -5425,20 +5487,13 @@
   resolved "https://registry.npmmirror.com/@polka/url/-/url-1.0.0-next.29.tgz#5a40109a1ab5f84d6fd8fc928b19f367cbe7e7b1"
   integrity sha512-wwQAWhWSuHaag8c4q/KN/vCoeOJYshAIvMQwD4GpSb3OiZklFfvAgmj0VCBBImRpuF/aFgIRzllXlVX93Jevww==
 
-"@rc-component/async-validator@^5.0.3":
-  version "5.0.4"
-  resolved "https://registry.npmmirror.com/@rc-component/async-validator/-/async-validator-5.0.4.tgz#5291ad92f00a14b6766fc81735c234277f83e948"
-  integrity sha512-qgGdcVIF604M9EqjNF0hbUTz42bz/RDtxWdWuU5EQe3hi7M8ob54B6B35rOsvX5eSvIHIzT9iH1R3n+hk3CGfg==
+"@rc-component/color-picker@~1.5.1":
+  version "1.5.3"
+  resolved "https://registry.yarnpkg.com/@rc-component/color-picker/-/color-picker-1.5.3.tgz#f3b0e14bb67ec5ee77d1fd5d261f63dd4fd00449"
+  integrity sha512-+tGGH3nLmYXTalVe0L8hSZNs73VTP5ueSHwUlDC77KKRaN7G4DS4wcpG5DTDzdcV/Yas+rzA6UGgIyzd8fS4cw==
   dependencies:
-    "@babel/runtime" "^7.24.4"
-
-"@rc-component/color-picker@~2.0.1":
-  version "2.0.1"
-  resolved "https://registry.npmmirror.com/@rc-component/color-picker/-/color-picker-2.0.1.tgz#6b9b96152466a9d4475cbe72b40b594bfda164be"
-  integrity sha512-WcZYwAThV/b2GISQ8F+7650r5ZZJ043E57aVBFkQ+kSY4C6wdofXgB0hBx+GPGpIU0Z81eETNoDUJMr7oy/P8Q==
-  dependencies:
-    "@ant-design/fast-color" "^2.0.6"
     "@babel/runtime" "^7.23.6"
+    "@ctrl/tinycolor" "^3.6.1"
     classnames "^2.2.6"
     rc-util "^5.38.1"
 
@@ -5475,36 +5530,74 @@
     classnames "^2.3.2"
     rc-util "^5.24.4"
 
-"@rc-component/qrcode@~1.0.0":
-  version "1.0.1"
-  resolved "https://registry.npmmirror.com/@rc-component/qrcode/-/qrcode-1.0.1.tgz#98e0a79dc95f26fe211b59d04ef3312bc70dedbe"
-  integrity sha512-g8eeeaMyFXVlq8cZUeaxCDhfIYjpao0l9cvm5gFwKXy/Vm1yDWV7h2sjH5jHYzdFedlVKBpATFB1VKMrHzwaWQ==
-  dependencies:
-    "@babel/runtime" "^7.24.7"
-    classnames "^2.3.2"
-
-"@rc-component/tour@~1.15.1":
-  version "1.15.1"
-  resolved "https://registry.npmmirror.com/@rc-component/tour/-/tour-1.15.1.tgz#9b79808254185fc19e964172d99e25e8c6800ded"
-  integrity sha512-Tr2t7J1DKZUpfJuDZWHxyxWpfmj8EZrqSgyMZ+BCdvKZ6r1UDsfU46M/iWAAFBy961Ssfom2kv5f3UcjIL2CmQ==
+"@rc-component/tour@~1.11.1":
+  version "1.11.1"
+  resolved "https://registry.yarnpkg.com/@rc-component/tour/-/tour-1.11.1.tgz#bb47af908fb6fcaf395402901a1fb505ef8fb1e6"
+  integrity sha512-c9Lw3/oVinj5D64Rsp8aDLOXcgdViE+hq7bj0Qoo8fTuQEh9sSpUw5OZcum943JkjeIE4hLcc5FD4a5ANtMJ4w==
   dependencies:
     "@babel/runtime" "^7.18.0"
     "@rc-component/portal" "^1.0.0-9"
-    "@rc-component/trigger" "^2.0.0"
+    "@rc-component/trigger" "^1.3.6"
     classnames "^2.3.2"
     rc-util "^5.24.4"
 
-"@rc-component/trigger@^2.0.0", "@rc-component/trigger@^2.1.1", "@rc-component/trigger@^2.2.6":
-  version "2.3.0"
-  resolved "https://registry.npmmirror.com/@rc-component/trigger/-/trigger-2.3.0.tgz#9499ada078daca9dd99d01f0f0743ee1ab9e398b"
-  integrity sha512-iwaxZyzOuK0D7lS+0AQEtW52zUWxoGqTGkke3dRyb8pYiShmRpCjB/8TzPI4R6YySCH7Vm9BZj/31VPiiQTLBg==
+"@rc-component/trigger@^1.17.0", "@rc-component/trigger@^1.18.0", "@rc-component/trigger@^1.18.2", "@rc-component/trigger@^1.3.6", "@rc-component/trigger@^1.5.0", "@rc-component/trigger@^1.7.0":
+  version "1.18.3"
+  resolved "https://registry.yarnpkg.com/@rc-component/trigger/-/trigger-1.18.3.tgz#b323b9e33f2700ca8d24a96f21401ab7b0eafdcd"
+  integrity sha512-Ksr25pXreYe1gX6ayZ1jLrOrl9OAUHUqnuhEx6MeHnNa1zVM5Y2Aj3Q35UrER0ns8D2cJYtmJtVli+i+4eKrvA==
   dependencies:
     "@babel/runtime" "^7.23.2"
     "@rc-component/portal" "^1.1.0"
     classnames "^2.3.2"
     rc-motion "^2.0.0"
     rc-resize-observer "^1.3.1"
-    rc-util "^5.44.0"
+    rc-util "^5.38.0"
+
+"@react-spring/animated@~9.6.1":
+  version "9.6.1"
+  resolved "https://registry.yarnpkg.com/@react-spring/animated/-/animated-9.6.1.tgz#ccc626d847cbe346f5f8815d0928183c647eb425"
+  integrity sha512-ls/rJBrAqiAYozjLo5EPPLLOb1LM0lNVQcXODTC1SMtS6DbuBCPaKco5svFUQFMP2dso3O+qcC4k9FsKc0KxMQ==
+  dependencies:
+    "@react-spring/shared" "~9.6.1"
+    "@react-spring/types" "~9.6.1"
+
+"@react-spring/core@~9.6.1":
+  version "9.6.1"
+  resolved "https://registry.yarnpkg.com/@react-spring/core/-/core-9.6.1.tgz#ebe07c20682b360b06af116ea24e2b609e778c10"
+  integrity sha512-3HAAinAyCPessyQNNXe5W0OHzRfa8Yo5P748paPcmMowZ/4sMfaZ2ZB6e5x5khQI8NusOHj8nquoutd6FRY5WQ==
+  dependencies:
+    "@react-spring/animated" "~9.6.1"
+    "@react-spring/rafz" "~9.6.1"
+    "@react-spring/shared" "~9.6.1"
+    "@react-spring/types" "~9.6.1"
+
+"@react-spring/rafz@~9.6.1":
+  version "9.6.1"
+  resolved "https://registry.yarnpkg.com/@react-spring/rafz/-/rafz-9.6.1.tgz#d71aafb92b78b24e4ff84639f52745afc285c38d"
+  integrity sha512-v6qbgNRpztJFFfSE3e2W1Uz+g8KnIBs6SmzCzcVVF61GdGfGOuBrbjIcp+nUz301awVmREKi4eMQb2Ab2gGgyQ==
+
+"@react-spring/shared@~9.6.1":
+  version "9.6.1"
+  resolved "https://registry.yarnpkg.com/@react-spring/shared/-/shared-9.6.1.tgz#4e2e4296910656c02bd9fd54c559702bc836ac4e"
+  integrity sha512-PBFBXabxFEuF8enNLkVqMC9h5uLRBo6GQhRMQT/nRTnemVENimgRd+0ZT4yFnAQ0AxWNiJfX3qux+bW2LbG6Bw==
+  dependencies:
+    "@react-spring/rafz" "~9.6.1"
+    "@react-spring/types" "~9.6.1"
+
+"@react-spring/types@~9.6.1":
+  version "9.6.1"
+  resolved "https://registry.yarnpkg.com/@react-spring/types/-/types-9.6.1.tgz#913d3a68c5cbc1124fdb18eff919432f7b6abdde"
+  integrity sha512-POu8Mk0hIU3lRXB3bGIGe4VHIwwDsQyoD1F394OK7STTiX9w4dG3cTLljjYswkQN+hDSHRrj4O36kuVa7KPU8Q==
+
+"@react-spring/web@~9.6.1":
+  version "9.6.1"
+  resolved "https://registry.yarnpkg.com/@react-spring/web/-/web-9.6.1.tgz#3e4c03b724d2b545dc2fa2649eb6109318ab9178"
+  integrity sha512-X2zR6q2Z+FjsWfGAmAXlQaoUHbPmfuCaXpuM6TcwXPpLE1ZD4A1eys/wpXboFQmDkjnrlTmKvpVna1MjWpZ5Hw==
+  dependencies:
+    "@react-spring/animated" "~9.6.1"
+    "@react-spring/core" "~9.6.1"
+    "@react-spring/shared" "~9.6.1"
+    "@react-spring/types" "~9.6.1"
 
 "@redis/bloom@1.2.0", "@redis/bloom@^1.2.0":
   version "1.2.0"
@@ -5540,125 +5633,95 @@
   resolved "https://registry.npmmirror.com/@redis/time-series/-/time-series-1.1.0.tgz#cba454c05ec201bd5547aaf55286d44682ac8eb5"
   integrity sha512-c1Q99M5ljsIuc4YdaCwfUEXsofakb9c8+Zse2qxTadu8TalLXuAESzLvFAvNVbkmSlvlzIQOLpBCmWI9wTOt+g==
 
-"@remix-run/router@1.23.0":
-  version "1.23.0"
-  resolved "https://registry.npmmirror.com/@remix-run/router/-/router-1.23.0.tgz#35390d0e7779626c026b11376da6789eb8389242"
-  integrity sha512-O3rHJzAQKamUz1fvE0Qaw0xSFqsA/yafi2iqeE0pvdFtCO1viYx8QL6f3Ln/aCCTLxs68SLf0KPM9eSeM8yBnA==
+"@remix-run/router@1.21.0":
+  version "1.21.0"
+  resolved "https://registry.yarnpkg.com/@remix-run/router/-/router-1.21.0.tgz#c65ae4262bdcfe415dbd4f64ec87676e4a56e2b5"
+  integrity sha512-xfSkCAchbdG5PnbrKqFWwia4Bi61nH+wm8wLEqfHDyp7Y3dZzgqS2itV8i4gAq9pC2HsTpwyBC6Ds8VHZ96JlA==
 
 "@rolldown/pluginutils@1.0.0-beta.27":
   version "1.0.0-beta.27"
   resolved "https://registry.npmmirror.com/@rolldown/pluginutils/-/pluginutils-1.0.0-beta.27.tgz#47d2bf4cef6d470b22f5831b420f8964e0bf755f"
   integrity sha512-+d0F4MKMCbeVUJwG96uQ4SgAznZNSq93I3V+9NHA4OpvqG8mRCpGdKmK8l/dl02h2CCDHwW2FqilnTyDcAnqjA==
 
-"@rollup/rollup-android-arm-eabi@4.52.5":
-  version "4.52.5"
-  resolved "https://registry.npmmirror.com/@rollup/rollup-android-arm-eabi/-/rollup-android-arm-eabi-4.52.5.tgz#0f44a2f8668ed87b040b6fe659358ac9239da4db"
-  integrity sha512-8c1vW4ocv3UOMp9K+gToY5zL2XiiVw3k7f1ksf4yO1FlDFQ1C2u72iACFnSOceJFsWskc2WZNqeRhFRPzv+wtQ==
+"@rollup/rollup-android-arm-eabi@4.24.0":
+  version "4.24.0"
+  resolved "https://registry.yarnpkg.com/@rollup/rollup-android-arm-eabi/-/rollup-android-arm-eabi-4.24.0.tgz#1661ff5ea9beb362795304cb916049aba7ac9c54"
+  integrity sha512-Q6HJd7Y6xdB48x8ZNVDOqsbh2uByBhgK8PiQgPhwkIw/HC/YX5Ghq2mQY5sRMZWHb3VsFkWooUVOZHKr7DmDIA==
 
-"@rollup/rollup-android-arm64@4.52.5":
-  version "4.52.5"
-  resolved "https://registry.npmmirror.com/@rollup/rollup-android-arm64/-/rollup-android-arm64-4.52.5.tgz#25b9a01deef6518a948431564c987bcb205274f5"
-  integrity sha512-mQGfsIEFcu21mvqkEKKu2dYmtuSZOBMmAl5CFlPGLY94Vlcm+zWApK7F/eocsNzp8tKmbeBP8yXyAbx0XHsFNA==
+"@rollup/rollup-android-arm64@4.24.0":
+  version "4.24.0"
+  resolved "https://registry.yarnpkg.com/@rollup/rollup-android-arm64/-/rollup-android-arm64-4.24.0.tgz#2ffaa91f1b55a0082b8a722525741aadcbd3971e"
+  integrity sha512-ijLnS1qFId8xhKjT81uBHuuJp2lU4x2yxa4ctFPtG+MqEE6+C5f/+X/bStmxapgmwLwiL3ih122xv8kVARNAZA==
 
-"@rollup/rollup-darwin-arm64@4.52.5":
-  version "4.52.5"
-  resolved "https://registry.npmmirror.com/@rollup/rollup-darwin-arm64/-/rollup-darwin-arm64-4.52.5.tgz#8a102869c88f3780c7d5e6776afd3f19084ecd7f"
-  integrity sha512-takF3CR71mCAGA+v794QUZ0b6ZSrgJkArC+gUiG6LB6TQty9T0Mqh3m2ImRBOxS2IeYBo4lKWIieSvnEk2OQWA==
+"@rollup/rollup-darwin-arm64@4.24.0":
+  version "4.24.0"
+  resolved "https://registry.yarnpkg.com/@rollup/rollup-darwin-arm64/-/rollup-darwin-arm64-4.24.0.tgz#627007221b24b8cc3063703eee0b9177edf49c1f"
+  integrity sha512-bIv+X9xeSs1XCk6DVvkO+S/z8/2AMt/2lMqdQbMrmVpgFvXlmde9mLcbQpztXm1tajC3raFDqegsH18HQPMYtA==
 
-"@rollup/rollup-darwin-x64@4.52.5":
-  version "4.52.5"
-  resolved "https://registry.npmmirror.com/@rollup/rollup-darwin-x64/-/rollup-darwin-x64-4.52.5.tgz#8e526417cd6f54daf1d0c04cf361160216581956"
-  integrity sha512-W901Pla8Ya95WpxDn//VF9K9u2JbocwV/v75TE0YIHNTbhqUTv9w4VuQ9MaWlNOkkEfFwkdNhXgcLqPSmHy0fA==
+"@rollup/rollup-darwin-x64@4.24.0":
+  version "4.24.0"
+  resolved "https://registry.yarnpkg.com/@rollup/rollup-darwin-x64/-/rollup-darwin-x64-4.24.0.tgz#0605506142b9e796c370d59c5984ae95b9758724"
+  integrity sha512-X6/nOwoFN7RT2svEQWUsW/5C/fYMBe4fnLK9DQk4SX4mgVBiTA9h64kjUYPvGQ0F/9xwJ5U5UfTbl6BEjaQdBQ==
 
-"@rollup/rollup-freebsd-arm64@4.52.5":
-  version "4.52.5"
-  resolved "https://registry.npmmirror.com/@rollup/rollup-freebsd-arm64/-/rollup-freebsd-arm64-4.52.5.tgz#0e7027054493f3409b1f219a3eac5efd128ef899"
-  integrity sha512-QofO7i7JycsYOWxe0GFqhLmF6l1TqBswJMvICnRUjqCx8b47MTo46W8AoeQwiokAx3zVryVnxtBMcGcnX12LvA==
+"@rollup/rollup-linux-arm-gnueabihf@4.24.0":
+  version "4.24.0"
+  resolved "https://registry.yarnpkg.com/@rollup/rollup-linux-arm-gnueabihf/-/rollup-linux-arm-gnueabihf-4.24.0.tgz#62dfd196d4b10c0c2db833897164d2d319ee0cbb"
+  integrity sha512-0KXvIJQMOImLCVCz9uvvdPgfyWo93aHHp8ui3FrtOP57svqrF/roSSR5pjqL2hcMp0ljeGlU4q9o/rQaAQ3AYA==
 
-"@rollup/rollup-freebsd-x64@4.52.5":
-  version "4.52.5"
-  resolved "https://registry.npmmirror.com/@rollup/rollup-freebsd-x64/-/rollup-freebsd-x64-4.52.5.tgz#72b204a920139e9ec3d331bd9cfd9a0c248ccb10"
-  integrity sha512-jr21b/99ew8ujZubPo9skbrItHEIE50WdV86cdSoRkKtmWa+DDr6fu2c/xyRT0F/WazZpam6kk7IHBerSL7LDQ==
+"@rollup/rollup-linux-arm-musleabihf@4.24.0":
+  version "4.24.0"
+  resolved "https://registry.yarnpkg.com/@rollup/rollup-linux-arm-musleabihf/-/rollup-linux-arm-musleabihf-4.24.0.tgz#53ce72aeb982f1f34b58b380baafaf6a240fddb3"
+  integrity sha512-it2BW6kKFVh8xk/BnHfakEeoLPv8STIISekpoF+nBgWM4d55CZKc7T4Dx1pEbTnYm/xEKMgy1MNtYuoA8RFIWw==
 
-"@rollup/rollup-linux-arm-gnueabihf@4.52.5":
-  version "4.52.5"
-  resolved "https://registry.npmmirror.com/@rollup/rollup-linux-arm-gnueabihf/-/rollup-linux-arm-gnueabihf-4.52.5.tgz#ab1b522ebe5b7e06c99504cc38f6cd8b808ba41c"
-  integrity sha512-PsNAbcyv9CcecAUagQefwX8fQn9LQ4nZkpDboBOttmyffnInRy8R8dSg6hxxl2Re5QhHBf6FYIDhIj5v982ATQ==
+"@rollup/rollup-linux-arm64-gnu@4.24.0":
+  version "4.24.0"
+  resolved "https://registry.yarnpkg.com/@rollup/rollup-linux-arm64-gnu/-/rollup-linux-arm64-gnu-4.24.0.tgz#1632990f62a75c74f43e4b14ab3597d7ed416496"
+  integrity sha512-i0xTLXjqap2eRfulFVlSnM5dEbTVque/3Pi4g2y7cxrs7+a9De42z4XxKLYJ7+OhE3IgxvfQM7vQc43bwTgPwA==
 
-"@rollup/rollup-linux-arm-musleabihf@4.52.5":
-  version "4.52.5"
-  resolved "https://registry.npmmirror.com/@rollup/rollup-linux-arm-musleabihf/-/rollup-linux-arm-musleabihf-4.52.5.tgz#f8cc30b638f1ee7e3d18eac24af47ea29d9beb00"
-  integrity sha512-Fw4tysRutyQc/wwkmcyoqFtJhh0u31K+Q6jYjeicsGJJ7bbEq8LwPWV/w0cnzOqR2m694/Af6hpFayLJZkG2VQ==
+"@rollup/rollup-linux-arm64-musl@4.24.0":
+  version "4.24.0"
+  resolved "https://registry.yarnpkg.com/@rollup/rollup-linux-arm64-musl/-/rollup-linux-arm64-musl-4.24.0.tgz#8c03a996efb41e257b414b2e0560b7a21f2d9065"
+  integrity sha512-9E6MKUJhDuDh604Qco5yP/3qn3y7SLXYuiC0Rpr89aMScS2UAmK1wHP2b7KAa1nSjWJc/f/Lc0Wl1L47qjiyQw==
 
-"@rollup/rollup-linux-arm64-gnu@4.52.5":
-  version "4.52.5"
-  resolved "https://registry.npmmirror.com/@rollup/rollup-linux-arm64-gnu/-/rollup-linux-arm64-gnu-4.52.5.tgz#7af37a9e85f25db59dc8214172907b7e146c12cc"
-  integrity sha512-a+3wVnAYdQClOTlyapKmyI6BLPAFYs0JM8HRpgYZQO02rMR09ZcV9LbQB+NL6sljzG38869YqThrRnfPMCDtZg==
+"@rollup/rollup-linux-powerpc64le-gnu@4.24.0":
+  version "4.24.0"
+  resolved "https://registry.yarnpkg.com/@rollup/rollup-linux-powerpc64le-gnu/-/rollup-linux-powerpc64le-gnu-4.24.0.tgz#5b98729628d5bcc8f7f37b58b04d6845f85c7b5d"
+  integrity sha512-2XFFPJ2XMEiF5Zi2EBf4h73oR1V/lycirxZxHZNc93SqDN/IWhYYSYj8I9381ikUFXZrz2v7r2tOVk2NBwxrWw==
 
-"@rollup/rollup-linux-arm64-musl@4.52.5":
-  version "4.52.5"
-  resolved "https://registry.npmmirror.com/@rollup/rollup-linux-arm64-musl/-/rollup-linux-arm64-musl-4.52.5.tgz#a623eb0d3617c03b7a73716eb85c6e37b776f7e0"
-  integrity sha512-AvttBOMwO9Pcuuf7m9PkC1PUIKsfaAJ4AYhy944qeTJgQOqJYJ9oVl2nYgY7Rk0mkbsuOpCAYSs6wLYB2Xiw0Q==
+"@rollup/rollup-linux-riscv64-gnu@4.24.0":
+  version "4.24.0"
+  resolved "https://registry.yarnpkg.com/@rollup/rollup-linux-riscv64-gnu/-/rollup-linux-riscv64-gnu-4.24.0.tgz#48e42e41f4cabf3573cfefcb448599c512e22983"
+  integrity sha512-M3Dg4hlwuntUCdzU7KjYqbbd+BLq3JMAOhCKdBE3TcMGMZbKkDdJ5ivNdehOssMCIokNHFOsv7DO4rlEOfyKpg==
 
-"@rollup/rollup-linux-loong64-gnu@4.52.5":
-  version "4.52.5"
-  resolved "https://registry.npmmirror.com/@rollup/rollup-linux-loong64-gnu/-/rollup-linux-loong64-gnu-4.52.5.tgz#76ea038b549c5c6c5f0d062942627c4066642ee2"
-  integrity sha512-DkDk8pmXQV2wVrF6oq5tONK6UHLz/XcEVow4JTTerdeV1uqPeHxwcg7aFsfnSm9L+OO8WJsWotKM2JJPMWrQtA==
+"@rollup/rollup-linux-s390x-gnu@4.24.0":
+  version "4.24.0"
+  resolved "https://registry.yarnpkg.com/@rollup/rollup-linux-s390x-gnu/-/rollup-linux-s390x-gnu-4.24.0.tgz#e0b4f9a966872cb7d3e21b9e412a4b7efd7f0b58"
+  integrity sha512-mjBaoo4ocxJppTorZVKWFpy1bfFj9FeCMJqzlMQGjpNPY9JwQi7OuS1axzNIk0nMX6jSgy6ZURDZ2w0QW6D56g==
 
-"@rollup/rollup-linux-ppc64-gnu@4.52.5":
-  version "4.52.5"
-  resolved "https://registry.npmmirror.com/@rollup/rollup-linux-ppc64-gnu/-/rollup-linux-ppc64-gnu-4.52.5.tgz#d9a4c3f0a3492bc78f6fdfe8131ac61c7359ccd5"
-  integrity sha512-W/b9ZN/U9+hPQVvlGwjzi+Wy4xdoH2I8EjaCkMvzpI7wJUs8sWJ03Rq96jRnHkSrcHTpQe8h5Tg3ZzUPGauvAw==
+"@rollup/rollup-linux-x64-gnu@4.24.0":
+  version "4.24.0"
+  resolved "https://registry.yarnpkg.com/@rollup/rollup-linux-x64-gnu/-/rollup-linux-x64-gnu-4.24.0.tgz#78144741993100f47bd3da72fce215e077ae036b"
+  integrity sha512-ZXFk7M72R0YYFN5q13niV0B7G8/5dcQ9JDp8keJSfr3GoZeXEoMHP/HlvqROA3OMbMdfr19IjCeNAnPUG93b6A==
 
-"@rollup/rollup-linux-riscv64-gnu@4.52.5":
-  version "4.52.5"
-  resolved "https://registry.npmmirror.com/@rollup/rollup-linux-riscv64-gnu/-/rollup-linux-riscv64-gnu-4.52.5.tgz#87ab033eebd1a9a1dd7b60509f6333ec1f82d994"
-  integrity sha512-sjQLr9BW7R/ZiXnQiWPkErNfLMkkWIoCz7YMn27HldKsADEKa5WYdobaa1hmN6slu9oWQbB6/jFpJ+P2IkVrmw==
+"@rollup/rollup-linux-x64-musl@4.24.0":
+  version "4.24.0"
+  resolved "https://registry.yarnpkg.com/@rollup/rollup-linux-x64-musl/-/rollup-linux-x64-musl-4.24.0.tgz#d9fe32971883cd1bd858336bd33a1c3ca6146127"
+  integrity sha512-w1i+L7kAXZNdYl+vFvzSZy8Y1arS7vMgIy8wusXJzRrPyof5LAb02KGr1PD2EkRcl73kHulIID0M501lN+vobQ==
 
-"@rollup/rollup-linux-riscv64-musl@4.52.5":
-  version "4.52.5"
-  resolved "https://registry.npmmirror.com/@rollup/rollup-linux-riscv64-musl/-/rollup-linux-riscv64-musl-4.52.5.tgz#bda3eb67e1c993c1ba12bc9c2f694e7703958d9f"
-  integrity sha512-hq3jU/kGyjXWTvAh2awn8oHroCbrPm8JqM7RUpKjalIRWWXE01CQOf/tUNWNHjmbMHg/hmNCwc/Pz3k1T/j/Lg==
+"@rollup/rollup-win32-arm64-msvc@4.24.0":
+  version "4.24.0"
+  resolved "https://registry.yarnpkg.com/@rollup/rollup-win32-arm64-msvc/-/rollup-win32-arm64-msvc-4.24.0.tgz#71fa3ea369316db703a909c790743972e98afae5"
+  integrity sha512-VXBrnPWgBpVDCVY6XF3LEW0pOU51KbaHhccHw6AS6vBWIC60eqsH19DAeeObl+g8nKAz04QFdl/Cefta0xQtUQ==
 
-"@rollup/rollup-linux-s390x-gnu@4.52.5":
-  version "4.52.5"
-  resolved "https://registry.npmmirror.com/@rollup/rollup-linux-s390x-gnu/-/rollup-linux-s390x-gnu-4.52.5.tgz#f7bc10fbe096ab44694233dc42a2291ed5453d4b"
-  integrity sha512-gn8kHOrku8D4NGHMK1Y7NA7INQTRdVOntt1OCYypZPRt6skGbddska44K8iocdpxHTMMNui5oH4elPH4QOLrFQ==
+"@rollup/rollup-win32-ia32-msvc@4.24.0":
+  version "4.24.0"
+  resolved "https://registry.yarnpkg.com/@rollup/rollup-win32-ia32-msvc/-/rollup-win32-ia32-msvc-4.24.0.tgz#653f5989a60658e17d7576a3996deb3902e342e2"
+  integrity sha512-xrNcGDU0OxVcPTH/8n/ShH4UevZxKIO6HJFK0e15XItZP2UcaiLFd5kiX7hJnqCbSztUF8Qot+JWBC/QXRPYWQ==
 
-"@rollup/rollup-linux-x64-gnu@4.52.5":
-  version "4.52.5"
-  resolved "https://registry.npmmirror.com/@rollup/rollup-linux-x64-gnu/-/rollup-linux-x64-gnu-4.52.5.tgz#a151cb1234cc9b2cf5e8cfc02aa91436b8f9e278"
-  integrity sha512-hXGLYpdhiNElzN770+H2nlx+jRog8TyynpTVzdlc6bndktjKWyZyiCsuDAlpd+j+W+WNqfcyAWz9HxxIGfZm1Q==
-
-"@rollup/rollup-linux-x64-musl@4.52.5":
-  version "4.52.5"
-  resolved "https://registry.npmmirror.com/@rollup/rollup-linux-x64-musl/-/rollup-linux-x64-musl-4.52.5.tgz#7859e196501cc3b3062d45d2776cfb4d2f3a9350"
-  integrity sha512-arCGIcuNKjBoKAXD+y7XomR9gY6Mw7HnFBv5Rw7wQRvwYLR7gBAgV7Mb2QTyjXfTveBNFAtPt46/36vV9STLNg==
-
-"@rollup/rollup-openharmony-arm64@4.52.5":
-  version "4.52.5"
-  resolved "https://registry.npmmirror.com/@rollup/rollup-openharmony-arm64/-/rollup-openharmony-arm64-4.52.5.tgz#85d0df7233734df31e547c1e647d2a5300b3bf30"
-  integrity sha512-QoFqB6+/9Rly/RiPjaomPLmR/13cgkIGfA40LHly9zcH1S0bN2HVFYk3a1eAyHQyjs3ZJYlXvIGtcCs5tko9Cw==
-
-"@rollup/rollup-win32-arm64-msvc@4.52.5":
-  version "4.52.5"
-  resolved "https://registry.npmmirror.com/@rollup/rollup-win32-arm64-msvc/-/rollup-win32-arm64-msvc-4.52.5.tgz#e62357d00458db17277b88adbf690bb855cac937"
-  integrity sha512-w0cDWVR6MlTstla1cIfOGyl8+qb93FlAVutcor14Gf5Md5ap5ySfQ7R9S/NjNaMLSFdUnKGEasmVnu3lCMqB7w==
-
-"@rollup/rollup-win32-ia32-msvc@4.52.5":
-  version "4.52.5"
-  resolved "https://registry.npmmirror.com/@rollup/rollup-win32-ia32-msvc/-/rollup-win32-ia32-msvc-4.52.5.tgz#fc7cd40f44834a703c1f1c3fe8bcc27ce476cd50"
-  integrity sha512-Aufdpzp7DpOTULJCuvzqcItSGDH73pF3ko/f+ckJhxQyHtp67rHw3HMNxoIdDMUITJESNE6a8uh4Lo4SLouOUg==
-
-"@rollup/rollup-win32-x64-gnu@4.52.5":
-  version "4.52.5"
-  resolved "https://registry.npmmirror.com/@rollup/rollup-win32-x64-gnu/-/rollup-win32-x64-gnu-4.52.5.tgz#1a22acfc93c64a64a48c42672e857ee51774d0d3"
-  integrity sha512-UGBUGPFp1vkj6p8wCRraqNhqwX/4kNQPS57BCFc8wYh0g94iVIW33wJtQAx3G7vrjjNtRaxiMUylM0ktp/TRSQ==
-
-"@rollup/rollup-win32-x64-msvc@4.52.5":
-  version "4.52.5"
-  resolved "https://registry.npmmirror.com/@rollup/rollup-win32-x64-msvc/-/rollup-win32-x64-msvc-4.52.5.tgz#1657f56326bbe0ac80eedc9f9c18fc1ddd24e107"
-  integrity sha512-TAcgQh2sSkykPRWLrdyy2AiceMckNf5loITqXxFI5VuQjS5tSuw3WlwdN8qv8vzjLAUTvYaH/mVjSFpbkFbpTg==
+"@rollup/rollup-win32-x64-msvc@4.24.0":
+  version "4.24.0"
+  resolved "https://registry.yarnpkg.com/@rollup/rollup-win32-x64-msvc/-/rollup-win32-x64-msvc-4.24.0.tgz#0574d7e87b44ee8511d08cc7f914bcb802b70818"
+  integrity sha512-fbMkAF7fufku0N2dE5TBXcNlg0pt0cJue4xBRE2Qc5Vqikxr4VCgKj/ht6SMdFcOacVA9rqF70APJ8RN/4vMJw==
 
 "@rsbuild/plugin-babel@^1.0.3":
   version "1.0.6"
@@ -6336,7 +6399,12 @@
   resolved "https://registry.npmmirror.com/@types/estree/-/estree-1.0.5.tgz#a6ce3e556e00fd9895dd872dd172ad0d4bd687f4"
   integrity sha512-/kYRxGDLWzHOB7q+wtSUQlFrtcdUccpfy+X+9iMBpHK8QLLhx2wIPYuS5DYtR9Wa/YlZAbIovy7qVdB1Aq6Lyw==
 
-"@types/estree@1.0.8", "@types/estree@^1.0.0":
+"@types/estree@1.0.6":
+  version "1.0.6"
+  resolved "https://registry.yarnpkg.com/@types/estree/-/estree-1.0.6.tgz#628effeeae2064a1b4e79f78e81d87b7e5fc7b50"
+  integrity sha512-AYnb1nQyY49te+VRAVgmzfcgjYS91mY5P0TKUDCLEM+gNnA+3T6rWITXRLYCpahpqSQbN5cE+gHpnPyXjHWxcw==
+
+"@types/estree@^1.0.0":
   version "1.0.8"
   resolved "https://registry.npmmirror.com/@types/estree/-/estree-1.0.8.tgz#958b91c991b1867ced318bedea0e215ee050726e"
   integrity sha512-dWHzHa2WqEXI/O1E9OjrocMTKJl2mSrEolh1Iomrv6U+JuNwaHXsXx9bLu5gG7BUWFIN0skIQJQ/L1rIex4X6w==
@@ -6693,10 +6761,10 @@
     hoist-non-react-statics "^3.3.0"
     redux "^4.0.0"
 
-"@types/react@*", "@types/react@^18.0.0":
-  version "18.3.26"
-  resolved "https://registry.npmmirror.com/@types/react/-/react-18.3.26.tgz#4c5970878d30db3d2a0bca1e4eb5f258e391bbeb"
-  integrity sha512-RFA/bURkcKzx/X9oumPG9Vp3D3JUgus/d0b67KB0t5S/raciymilkOa66olh78MUI92QLbEJevO7rvqU/kjwKA==
+"@types/react@*", "@types/react@18.3.18", "@types/react@^18.0.0":
+  version "18.3.18"
+  resolved "https://registry.yarnpkg.com/@types/react/-/react-18.3.18.tgz#9b382c4cd32e13e463f97df07c2ee3bbcd26904b"
+  integrity sha512-t4yC+vtgnkYjNSKlFx1jkAhH8LgTo2N/7Qvi83kdEaUtMDiwpbLAktKDaAMlRcJ5eSxZkH74eEGt1ky31d7kfQ==
   dependencies:
     "@types/prop-types" "*"
     csstype "^3.0.2"
@@ -7495,6 +7563,18 @@
   resolved "https://registry.npmmirror.com/@ungap/structured-clone/-/structured-clone-1.3.0.tgz#d06bbb384ebcf6c505fde1c3d0ed4ddffe0aaff8"
   integrity sha512-WmoN8qaIAo7WTYWbAZuG8PYEhn5fkz7dZrqTBZ7dtt//lL2Gwms1IcnQ5yHqjDfX8Ft5j4YzDM23f87zBfDe9g==
 
+"@use-gesture/core@10.3.0":
+  version "10.3.0"
+  resolved "https://registry.yarnpkg.com/@use-gesture/core/-/core-10.3.0.tgz#9afd3777a45b2a08990a5dcfcf8d9ddd55b00db9"
+  integrity sha512-rh+6MND31zfHcy9VU3dOZCqGY511lvGcfyJenN4cWZe0u1BH6brBpBddLVXhF2r4BMqWbvxfsbL7D287thJU2A==
+
+"@use-gesture/react@10.3.0":
+  version "10.3.0"
+  resolved "https://registry.yarnpkg.com/@use-gesture/react/-/react-10.3.0.tgz#180534c821fd635c2853cbcfa813f92c94f27e3f"
+  integrity sha512-3zc+Ve99z4usVP6l9knYVbVnZgfqhKah7sIG+PS2w+vpig2v2OLct05vs+ZXMzwxdNCMka8B+8WlOo0z6Pn6DA==
+  dependencies:
+    "@use-gesture/core" "10.3.0"
+
 "@vercel/ncc@0.36.1":
   version "0.36.1"
   resolved "https://registry.npmmirror.com/@vercel/ncc/-/ncc-0.36.1.tgz#d4c01fdbbe909d128d1bf11c7f8b5431654c5b95"
@@ -7685,7 +7765,7 @@ aggregate-error@^3.0.0:
     clean-stack "^2.0.0"
     indent-string "^4.0.0"
 
-ahooks@^3.4.1, ahooks@^3.7.2:
+ahooks@^3.4.1, ahooks@^3.7.2, ahooks@^3.7.6:
   version "3.9.6"
   resolved "https://registry.npmmirror.com/ahooks/-/ahooks-3.9.6.tgz#c93b8f826266d07cada40439be8865d55733fb19"
   integrity sha512-Mr7f05swd5SmKlR9SZo5U6M0LsL4ErweLzpdgXjA1JPmnZ78Vr6wzx0jUtvoxrcqGKYnX0Yjc02iEASVxHFPjQ==
@@ -7781,11 +7861,6 @@ align-text@^0.1.1, align-text@^0.1.3:
     longest "^1.0.1"
     repeat-string "^1.5.2"
 
-amdefine@>=0.0.4:
-  version "1.0.1"
-  resolved "https://registry.npmmirror.com/amdefine/-/amdefine-1.0.1.tgz#4a5282ac164729e93619bcfd3ad151f817ce91f5"
-  integrity sha512-S2Hw0TtNkMJhIabBwIojKL9YHO5T0n5eNqWJ7Lrlel/zDbftQpxpapi8tZs3X1HWa+u+QeydGmzzNU0m09+Rcg==
-
 amp-message@~0.1.1:
   version "0.1.2"
   resolved "https://registry.npmmirror.com/amp-message/-/amp-message-0.1.2.tgz#a78f1c98995087ad36192a41298e4db49e3dfc45"
@@ -7861,11 +7936,6 @@ ansi-regex@^6.0.1:
   resolved "https://registry.npmmirror.com/ansi-regex/-/ansi-regex-6.2.2.tgz#60216eea464d864597ce2832000738a0589650c1"
   integrity sha512-Bq3SmSpyFHaWjPk8If9yc6svM8c56dB5BAtW4Qbw5jHTwwXXcTLoRMkpDJp6VL0XzlWaCHTXrkFURMYmD0sLqg==
 
-ansi-styles@^2.2.1:
-  version "2.2.1"
-  resolved "https://registry.npmmirror.com/ansi-styles/-/ansi-styles-2.2.1.tgz#b432dd3358b634cf75e1e4664368240533c1ddbe"
-  integrity sha512-kmCevFghRiWM7HB5zTPULl4r9bVFSWjz62MhqizDGUrq2NWuNMQyuv4tHHoKJHs69M/MF64lEcHdYIocrdWQYA==
-
 ansi-styles@^3.2.0, ansi-styles@^3.2.1:
   version "3.2.1"
   resolved "https://registry.npmmirror.com/ansi-styles/-/ansi-styles-3.2.1.tgz#41fbb20243e50b12be0f04b8dedbf07520ce841d"
@@ -7900,6 +7970,42 @@ ansis@4.0.0-node10:
   resolved "https://registry.npmmirror.com/ansis/-/ansis-4.0.0-node10.tgz#bbddd48b549d3fe2a4caa5ba33602ef240b492aa"
   integrity sha512-BRrU0Bo1X9dFGw6KgGz6hWrqQuOlVEDOzkb0QSLZY9sXHqA7pNj7yHPVJRz7y/rj4EOJ3d/D5uxH+ee9leYgsg==
 
+antd-mobile-icons@^0.3.0:
+  version "0.3.0"
+  resolved "https://registry.yarnpkg.com/antd-mobile-icons/-/antd-mobile-icons-0.3.0.tgz#9b29e4588a62370909061f10ff0579aabb0b32a9"
+  integrity sha512-rqINQpJWZWrva9moCd1Ye695MZYWmqLPE+bY8d2xLRy7iSQwPsinCdZYjpUPp2zL/LnKYSyXxP2ut2A+DC+whQ==
+
+antd-mobile-v5-count@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/antd-mobile-v5-count/-/antd-mobile-v5-count-1.0.1.tgz#85f20c46d1635c24e856bcf5ad55e8c98e44a523"
+  integrity sha512-YGsiEDCPUDz3SzfXi6gLZn/HpeSMW+jgPc4qiYUr1fSopg3hkUie2TnooJdExgfiETHefH3Ggs58He0OVfegLA==
+
+antd-mobile@^5.41.1:
+  version "5.42.1"
+  resolved "https://registry.yarnpkg.com/antd-mobile/-/antd-mobile-5.42.1.tgz#4df8680ca582f765a8c901bc73863c4a7571d4a8"
+  integrity sha512-KuiTFwrsfXO606YnO6LwDmGkQtahmDu/bNrABxjN5E2FJcmIGKD0ZieGzeQYVKkIigagLNZL1+gHXMHriAZEEQ==
+  dependencies:
+    "@floating-ui/dom" "^1.4.2"
+    "@rc-component/mini-decimal" "^1.1.0"
+    "@react-spring/web" "~9.6.1"
+    "@use-gesture/react" "10.3.0"
+    ahooks "^3.7.6"
+    antd-mobile-icons "^0.3.0"
+    antd-mobile-v5-count "^1.0.1"
+    classnames "^2.3.2"
+    dayjs "^1.11.7"
+    deepmerge "^4.3.1"
+    nano-memoize "^3.0.16"
+    rc-field-form "^1.34.2"
+    rc-segmented "~2.4.1"
+    rc-util "^5.44.4"
+    react-fast-compare "^3.2.2"
+    react-is "^18.2.0"
+    runes2 "^1.1.2"
+    staged-components "^1.1.3"
+    tslib "^2.5.0"
+    use-sync-external-store "^1.2.0"
+
 antd-style@3.7.1:
   version "3.7.1"
   resolved "https://registry.npmmirror.com/antd-style/-/antd-style-3.7.1.tgz#59f35e04c6b4b0082774f9de748d3e946188ba87"
@@ -7914,60 +8020,58 @@ antd-style@3.7.1:
     "@emotion/utils" "^1.2.1"
     use-merge-value "^1.2.0"
 
-antd@5.24.2:
-  version "5.24.2"
-  resolved "https://registry.npmmirror.com/antd/-/antd-5.24.2.tgz#df28583b68279821096234920584dadea6f9b283"
-  integrity sha512-7Z9HsE3ZIK3sE/WuUqii3w7Gl1IJuRL21sDUTtkN95JS5KhRYP8ISv7m/HxsJ3Mn/yxgojBCgLPJ212+Dn+aPw==
+antd@5.12.8, antd@5.24.2:
+  version "5.12.8"
+  resolved "https://registry.yarnpkg.com/antd/-/antd-5.12.8.tgz#94fea825e9bae535af7adf70417fa1f0dadc4c98"
+  integrity sha512-R2CRcB+aaVZurb3J0IKpBRWq5kW4CLcSqDF58/QBsqYdzK7XjSvM8+eF3rWVRUDbSJfGmyW7I80ywNRYpW1+vA==
   dependencies:
-    "@ant-design/colors" "^7.2.0"
-    "@ant-design/cssinjs" "^1.23.0"
-    "@ant-design/cssinjs-utils" "^1.1.3"
-    "@ant-design/fast-color" "^2.0.6"
-    "@ant-design/icons" "^5.6.1"
-    "@ant-design/react-slick" "~1.1.2"
-    "@babel/runtime" "^7.26.0"
-    "@rc-component/color-picker" "~2.0.1"
+    "@ant-design/colors" "^7.0.2"
+    "@ant-design/cssinjs" "^1.18.2"
+    "@ant-design/icons" "^5.2.6"
+    "@ant-design/react-slick" "~1.0.2"
+    "@ctrl/tinycolor" "^3.6.1"
+    "@rc-component/color-picker" "~1.5.1"
     "@rc-component/mutate-observer" "^1.1.0"
-    "@rc-component/qrcode" "~1.0.0"
-    "@rc-component/tour" "~1.15.1"
-    "@rc-component/trigger" "^2.2.6"
+    "@rc-component/tour" "~1.11.1"
+    "@rc-component/trigger" "^1.18.2"
     classnames "^2.5.1"
     copy-to-clipboard "^3.3.3"
-    dayjs "^1.11.11"
-    rc-cascader "~3.33.0"
-    rc-checkbox "~3.5.0"
-    rc-collapse "~3.9.0"
-    rc-dialog "~9.6.0"
-    rc-drawer "~7.2.0"
-    rc-dropdown "~4.2.1"
-    rc-field-form "~2.7.0"
-    rc-image "~7.11.0"
-    rc-input "~1.7.2"
-    rc-input-number "~9.4.0"
-    rc-mentions "~2.19.1"
-    rc-menu "~9.16.1"
-    rc-motion "^2.9.5"
-    rc-notification "~5.6.3"
-    rc-pagination "~5.1.0"
-    rc-picker "~4.11.2"
-    rc-progress "~4.0.0"
-    rc-rate "~2.13.1"
-    rc-resize-observer "^1.4.3"
-    rc-segmented "~2.7.0"
-    rc-select "~14.16.6"
-    rc-slider "~11.1.8"
+    dayjs "^1.11.10"
+    qrcode.react "^3.1.0"
+    rc-cascader "~3.20.0"
+    rc-checkbox "~3.1.0"
+    rc-collapse "~3.7.2"
+    rc-dialog "~9.3.4"
+    rc-drawer "~6.5.2"
+    rc-dropdown "~4.1.0"
+    rc-field-form "~1.41.0"
+    rc-image "~7.5.1"
+    rc-input "~1.3.11"
+    rc-input-number "~8.4.0"
+    rc-mentions "~2.9.1"
+    rc-menu "~9.12.4"
+    rc-motion "^2.9.0"
+    rc-notification "~5.3.0"
+    rc-pagination "~4.0.4"
+    rc-picker "~3.14.6"
+    rc-progress "~3.5.1"
+    rc-rate "~2.12.0"
+    rc-resize-observer "^1.4.0"
+    rc-segmented "~2.2.2"
+    rc-select "~14.10.0"
+    rc-slider "~10.5.0"
     rc-steps "~6.0.1"
     rc-switch "~4.1.0"
-    rc-table "~7.50.3"
-    rc-tabs "~15.5.1"
-    rc-textarea "~1.9.0"
-    rc-tooltip "~6.4.0"
-    rc-tree "~5.13.0"
-    rc-tree-select "~5.27.0"
-    rc-upload "~4.8.1"
-    rc-util "^5.44.4"
+    rc-table "~7.36.1"
+    rc-tabs "~12.14.1"
+    rc-textarea "~1.5.3"
+    rc-tooltip "~6.1.3"
+    rc-tree "~5.8.2"
+    rc-tree-select "~5.15.0"
+    rc-upload "~4.5.2"
+    rc-util "^5.38.1"
     scroll-into-view-if-needed "^3.1.0"
-    throttle-debounce "^5.0.2"
+    throttle-debounce "^5.0.0"
 
 any-promise@^1.0.0:
   version "1.3.0"
@@ -8178,6 +8282,11 @@ array-sort@^1.0.0:
     default-compare "^1.0.0"
     get-value "^2.0.6"
     kind-of "^5.0.2"
+
+array-tree-filter@^2.1.0:
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/array-tree-filter/-/array-tree-filter-2.1.0.tgz#873ac00fec83749f255ac8dd083814b4f6329190"
+  integrity sha512-4ROwICNlNw/Hqa9v+rk5h22KjmzB1JGTMVKP2AKJBOCgb0yL0ASf0+YvCcLNNwquOHNX48jkeZIJ3a+oOQqKcw==
 
 array-union@^2.1.0:
   version "2.1.0"
@@ -8392,17 +8501,15 @@ async-settle@^1.0.0:
   dependencies:
     async-done "^1.2.2"
 
-async@3.2.6, async@^3.2.0, async@^3.2.3, async@^3.2.6, async@~3.2.0:
+async-validator@^4.1.0:
+  version "4.2.5"
+  resolved "https://registry.yarnpkg.com/async-validator/-/async-validator-4.2.5.tgz#c96ea3332a521699d0afaaceed510a54656c6339"
+  integrity sha512-7HhHjtERjqlNbZtqNqy2rckN/SpOOlmDliet+lP7k+eKZEjPk3DgyeU9lIXLdeLz0uBbbVp+9Qdow9wJWgwwfg==
+
+async@3.2.6, async@^2.6.3, async@^3.2.0, async@^3.2.3, async@^3.2.6, async@~2.6.1, async@~3.2.0:
   version "3.2.6"
   resolved "https://registry.npmmirror.com/async/-/async-3.2.6.tgz#1b0728e14929d51b85b449b7f06e27c1145e38ce"
   integrity sha512-htCUDlxyyCLMgaM3xXg0C0LW2xqfuQ6p05pCEIsXuyQ+a1koYKTuBMzRNwmybfLgvJDMd0r1LTn4+E0Ti6C2AA==
-
-async@^2.6.3, async@~2.6.1:
-  version "2.6.4"
-  resolved "https://registry.npmmirror.com/async/-/async-2.6.4.tgz#706b7ff6084664cd7eae713f6f965433b5504221"
-  integrity sha512-mzo5dfJYwAn29PeiJ0zvwTo04zj8HDJj0Mn8TD7sno7q12prdbnasKJHhkm2c1LgrhlJ0teaea8860oxi51mGA==
-  dependencies:
-    lodash "^4.17.14"
 
 asynckit@^0.4.0:
   version "0.4.0"
@@ -9304,17 +9411,6 @@ chalk@5.0.1:
   version "5.0.1"
   resolved "https://registry.npmmirror.com/chalk/-/chalk-5.0.1.tgz#ca57d71e82bb534a296df63bbacc4a1c22b2a4b6"
   integrity sha512-Fo07WOYGqMfCWHOzSXOt2CxDbC6skS/jO9ynEcmpANMoPrD+W1r1K6Vx7iNm+AQmETU1Xr2t+n8nzkV9t6xh3w==
-
-chalk@^1.1.1:
-  version "1.1.3"
-  resolved "https://registry.npmmirror.com/chalk/-/chalk-1.1.3.tgz#a8115c55e4a702fe4d150abd3872822a7e09fc98"
-  integrity sha512-U3lRVLMSlsCfjqYPbLyVv11M9CPW4I728d6TCKMAOJueEeB9/8o+eSsMnxPJD+Q+K909sdESg7C+tIkoH6on1A==
-  dependencies:
-    ansi-styles "^2.2.1"
-    escape-string-regexp "^1.0.2"
-    has-ansi "^2.0.0"
-    strip-ansi "^3.0.0"
-    supports-color "^2.0.0"
 
 chalk@^5.0.1, chalk@^5.3.0:
   version "5.6.2"
@@ -10929,7 +11025,7 @@ dayjs@1.11.15:
   resolved "https://registry.npmmirror.com/dayjs/-/dayjs-1.11.15.tgz#fd7fd2db6fc92f08ffe4adc306756d45db00ada3"
   integrity sha512-MC+DfnSWiM9APs7fpiurHGCoeIx0Gdl6QZBy+5lu8MbYKN5FZEXqOgrundfibdfhGZ15o9hzmZ2xJjZnbvgKXQ==
 
-dayjs@^1.11.10, dayjs@^1.11.11, dayjs@^1.11.7, dayjs@^1.11.8, dayjs@^1.11.9, dayjs@^1.9.1:
+dayjs@^1.11.10, dayjs@^1.11.7, dayjs@^1.11.8, dayjs@^1.11.9, dayjs@^1.9.1:
   version "1.11.19"
   resolved "https://registry.npmmirror.com/dayjs/-/dayjs-1.11.19.tgz#15dc98e854bb43917f12021806af897c58ae2938"
   integrity sha512-t5EcLVS6QPBNqM2z8fakk/NKel+Xzshgt8FFKAn+qwlD1pzZWxh0nVCrvFK7ZDb6XucZeF9z8C7CBWTRIVApAw==
@@ -12171,7 +12267,7 @@ escape-latex@^1.2.0:
   resolved "https://registry.npmmirror.com/escape-latex/-/escape-latex-1.2.0.tgz#07c03818cf7dac250cce517f4fda1b001ef2bca1"
   integrity sha512-nV5aVWW1K0wEiUIEdZ4erkGGH8mDxGyxSeqPzRNtWP7ataw+/olFObw7hujFWlVjNsaDFw5VZ5NzVSIqRgfTiw==
 
-escape-string-regexp@^1.0.2, escape-string-regexp@^1.0.5:
+escape-string-regexp@^1.0.5:
   version "1.0.5"
   resolved "https://registry.npmmirror.com/escape-string-regexp/-/escape-string-regexp-1.0.5.tgz#1b61c0562190a8dff6ae3bb2cf0200ca130b86d4"
   integrity sha512-vbRorB5FUQWvla16U8R/qgaFIya2qGzwDrNmCZuYKrbdSUMG6I1ZCGQRefkRVhuOkIGVne7BQ35DSfo1qvJqFg==
@@ -13966,13 +14062,6 @@ harmony-reflect@^1.4.6:
   resolved "https://registry.npmmirror.com/harmony-reflect/-/harmony-reflect-1.6.2.tgz#31ecbd32e648a34d030d86adb67d4d47547fe710"
   integrity sha512-HIp/n38R9kQjDEziXyDTuW3vvoxxyxjxFzXLrBr18uB47GnSt+G9D29fqrpM5ZkspMcPICud3XsBJQ4Y2URg8g==
 
-has-ansi@^2.0.0:
-  version "2.0.0"
-  resolved "https://registry.npmmirror.com/has-ansi/-/has-ansi-2.0.0.tgz#34f5049ce1ecdf2b0649af3ef24e45ed35416d91"
-  integrity sha512-C8vBJ8DwUCx19vhm7urhTuUsr4/IyP6l4VzNQDv+ryHQObW3TTTp9yB68WpYgRe2bbaGuZ/se74IqFeVnMnLZg==
-  dependencies:
-    ansi-regex "^2.0.0"
-
 has-bigints@^1.0.2:
   version "1.1.0"
   resolved "https://registry.npmmirror.com/has-bigints/-/has-bigints-1.1.0.tgz#28607e965ac967e03cd2a2c70a2636a1edad49fe"
@@ -14123,7 +14212,7 @@ highlight.js@^10.2.0:
   resolved "https://registry.npmmirror.com/highlight.js/-/highlight.js-10.7.3.tgz#697272e3991356e40c3cac566a74eef681756531"
   integrity sha512-tzcUFauisWKNHaRkN4Wjl/ZA07gENAjFl3J/c480dprkGTg5EQstgaNFqBfUqCq54kZRIEcreTsAgF/m2quD7A==
 
-history@5.3.0, history@^5.2.0:
+history@5.3.0:
   version "5.3.0"
   resolved "https://registry.npmmirror.com/history/-/history-5.3.0.tgz#1548abaa245ba47992f063a0783db91ef201c73b"
   integrity sha512-ZqaKwjjrAYUYfLG+htGaIIZ4nioX2L70ZUMIFysS3xvBsSG4x/n1V6TXV3N8ZYNuFGlDirFg32T7B6WOUPDYcQ==
@@ -16367,7 +16456,7 @@ lodash.unionby@^4.8.0:
   resolved "https://registry.npmmirror.com/lodash.unionby/-/lodash.unionby-4.8.0.tgz#883f098ff78f564a727b7508e09cdd539734bb83"
   integrity sha512-e60kn4GJIunNkw6v9MxRnUuLYI/Tyuanch7ozoCtk/1irJTYBj+qNTxr5B3qVflmJhwStJBv387Cb+9VOfABMg==
 
-lodash@4.17.21, lodash@^4.17.10, lodash@^4.17.14, lodash@^4.17.15, lodash@^4.17.19, lodash@^4.17.20, lodash@^4.17.21, lodash@^4.17.4, lodash@^4.7.0:
+lodash@4.17.21, lodash@^4.17.10, lodash@^4.17.15, lodash@^4.17.19, lodash@^4.17.20, lodash@^4.17.21, lodash@^4.17.4, lodash@^4.7.0:
   version "4.17.21"
   resolved "https://registry.npmmirror.com/lodash/-/lodash-4.17.21.tgz#679591c564c3bffaae8454cf0b3df370c3d6911c"
   integrity sha512-v2kDEe57lecTulaDIuNTPy3Ry4gLGJ6Z1O3vE1krgXZNrsQ+LFTGHVxVjcXPs17LhbZVGedAJv8XZ1tvj5FvSg==
@@ -17226,9 +17315,9 @@ mute-stream@0.0.8, mute-stream@~0.0.4:
   resolved "https://registry.npmmirror.com/mute-stream/-/mute-stream-0.0.8.tgz#1630c42b2251ff81e2a283de96a5497ea92e5e0d"
   integrity sha512-nnbWWOkoWyUsTjKrhgD0dcz22mdkSnpYqbEjIm2nhwhuxlSkpywJmBo8h0ZqJdkp73mb90SssHkN4rsRaBAfAA==
 
-mysql2@^3.11.0:
+mysql2@^3.11.0, mysql2@^3.14.0:
   version "3.15.3"
-  resolved "https://registry.npmmirror.com/mysql2/-/mysql2-3.15.3.tgz#f0348d9c7401bb98cb1f45ffc5a773b109f70808"
+  resolved "https://registry.yarnpkg.com/mysql2/-/mysql2-3.15.3.tgz#f0348d9c7401bb98cb1f45ffc5a773b109f70808"
   integrity sha512-FBrGau0IXmuqg4haEZRBfHNWB5mUARw6hNwPDXXGg0XzVJ50mr/9hb267lvpVMnhZ1FON3qNd4Xfcez1rbFwSg==
   dependencies:
     aws-ssl-profiles "^1.1.1"
@@ -17261,6 +17350,11 @@ nan@^2.12.1:
   version "2.23.0"
   resolved "https://registry.npmmirror.com/nan/-/nan-2.23.0.tgz#24aa4ddffcc37613a2d2935b97683c1ec96093c6"
   integrity sha512-1UxuyYGdoQHcGg87Lkqm3FzefucTa0NAiOcuRsDmysep3c1LVCRK2krrUDafMWtjSG04htvAmvg96+SDknOmgQ==
+
+nano-memoize@^3.0.16:
+  version "3.0.16"
+  resolved "https://registry.yarnpkg.com/nano-memoize/-/nano-memoize-3.0.16.tgz#454100602713973ac8639bde301e255dd54920ea"
+  integrity sha512-JyK96AKVGAwVeMj3MoMhaSXaUNqgMbCRSQB3trUV8tYZfWEzqUBKdK1qJpfuNXgKeHOx1jv/IEYTM659ly7zUA==
 
 nanoid@^3.3.11:
   version "3.3.11"
@@ -18636,9 +18730,9 @@ pg-types@2.2.0:
     postgres-date "~1.0.4"
     postgres-interval "^1.1.0"
 
-pg@^8.7.3:
+pg@^8.14.1, pg@^8.7.3:
   version "8.16.3"
-  resolved "https://registry.npmmirror.com/pg/-/pg-8.16.3.tgz#160741d0b44fdf64680e45374b06d632e86c99fd"
+  resolved "https://registry.yarnpkg.com/pg/-/pg-8.16.3.tgz#160741d0b44fdf64680e45374b06d632e86c99fd"
   integrity sha512-enxc1h0jA/aq5oSDMvqyW3q89ra6XIIDZgCX9vkMrnz5DFTw/Ny3Li2lFQ+pt3L6MCgm/5o2o8HW9hiJji+xvw==
   dependencies:
     pg-connection-string "^2.9.1"
@@ -19809,6 +19903,11 @@ q@^1.5.1:
   resolved "https://registry.npmmirror.com/q/-/q-1.5.1.tgz#7e32f75b41381291d04611f1bf14109ac00651d7"
   integrity sha512-kV/CThkXo6xyFEZUugw/+pIOywXcDbFYgSct5cT3gqlbkBE1SJdwy6UQoZvodiWF/ckQLZyDE/Bu1M6gVu5lVw==
 
+qrcode.react@^3.1.0:
+  version "3.2.0"
+  resolved "https://registry.yarnpkg.com/qrcode.react/-/qrcode.react-3.2.0.tgz#97daabd4ff641a3f3c678f87be106ebc55f9cd07"
+  integrity sha512-YietHHltOHA4+l5na1srdaMx4sVSOjV9tamHs+mwiLWAMr6QVACRUw1Neax5CptFILcNoITctJY0Ipyn5enQ8g==
+
 qs@6.13.0:
   version "6.13.0"
   resolved "https://registry.npmmirror.com/qs/-/qs-6.13.0.tgz#6ca3bd58439f7e245655798997787b0d88a51906"
@@ -19919,40 +20018,41 @@ raw-body@2.5.2, raw-body@^2.3.0, raw-body@^2.3.3:
     iconv-lite "0.4.24"
     unpipe "1.0.0"
 
-rc-cascader@~3.33.0:
-  version "3.33.1"
-  resolved "https://registry.npmmirror.com/rc-cascader/-/rc-cascader-3.33.1.tgz#19e01462ef5ef51b723c1f562c7b9cde4691e7ee"
-  integrity sha512-Kyl4EJ7ZfCBuidmZVieegcbFw0RcU5bHHSbtEdmuLYd0fYHCAiYKZ6zon7fWAVyC6rWWOOib0XKdTSf7ElC9rg==
+rc-cascader@~3.20.0:
+  version "3.20.0"
+  resolved "https://registry.yarnpkg.com/rc-cascader/-/rc-cascader-3.20.0.tgz#b270f9d84ed83417ee7309ef5e56e415f1586076"
+  integrity sha512-lkT9EEwOcYdjZ/jvhLoXGzprK1sijT3/Tp4BLxQQcHDZkkOzzwYQC9HgmKoJz0K7CukMfgvO9KqHeBdgE+pELw==
   dependencies:
-    "@babel/runtime" "^7.25.7"
+    "@babel/runtime" "^7.12.5"
+    array-tree-filter "^2.1.0"
     classnames "^2.3.1"
-    rc-select "~14.16.2"
-    rc-tree "~5.13.0"
-    rc-util "^5.43.0"
+    rc-select "~14.10.0"
+    rc-tree "~5.8.1"
+    rc-util "^5.37.0"
 
-rc-checkbox@~3.5.0:
-  version "3.5.0"
-  resolved "https://registry.npmmirror.com/rc-checkbox/-/rc-checkbox-3.5.0.tgz#3ae2441e3a321774d390f76539e706864fcf5ff0"
-  integrity sha512-aOAQc3E98HteIIsSqm6Xk2FPKIER6+5vyEFMZfo73TqM+VVAIqOkHoPjgKLqSNtVLWScoaM7vY2ZrGEheI79yg==
+rc-checkbox@~3.1.0:
+  version "3.1.0"
+  resolved "https://registry.yarnpkg.com/rc-checkbox/-/rc-checkbox-3.1.0.tgz#6be0d9d8de2cc96fb5e37f9036a1c3e360d0a42d"
+  integrity sha512-PAwpJFnBa3Ei+5pyqMMXdcKYKNBMS+TvSDiLdDnARnMJHC8ESxwPfm4Ao1gJiKtWLdmGfigascnCpwrHFgoOBQ==
   dependencies:
     "@babel/runtime" "^7.10.1"
     classnames "^2.3.2"
     rc-util "^5.25.2"
 
-rc-collapse@~3.9.0:
-  version "3.9.0"
-  resolved "https://registry.npmmirror.com/rc-collapse/-/rc-collapse-3.9.0.tgz#972404ce7724e1c9d1d2476543e1175404a36806"
-  integrity sha512-swDdz4QZ4dFTo4RAUMLL50qP0EY62N2kvmk2We5xYdRwcRn8WcYtuetCJpwpaCbUfUt5+huLpVxhvmnK+PHrkA==
+rc-collapse@~3.7.2:
+  version "3.7.3"
+  resolved "https://registry.yarnpkg.com/rc-collapse/-/rc-collapse-3.7.3.tgz#68161683d8fd1004bef4eb281fc106f3c8dc16eb"
+  integrity sha512-60FJcdTRn0X5sELF18TANwtVi7FtModq649H11mYF1jh83DniMoM4MqY627sEKRCTm4+WXfGDcB7hY5oW6xhyw==
   dependencies:
     "@babel/runtime" "^7.10.1"
     classnames "2.x"
     rc-motion "^2.3.4"
     rc-util "^5.27.0"
 
-rc-dialog@~9.6.0:
-  version "9.6.0"
-  resolved "https://registry.npmmirror.com/rc-dialog/-/rc-dialog-9.6.0.tgz#dc7a255c6ad1cb56021c3a61c7de86ee88c7c371"
-  integrity sha512-ApoVi9Z8PaCQg6FsUzS8yvBEQy0ZL2PkuvAgrmohPkN3okps5WZ5WQWPc1RNuiOKaAYv8B97ACdsFU5LizzCqg==
+rc-dialog@~9.3.4:
+  version "9.3.4"
+  resolved "https://registry.yarnpkg.com/rc-dialog/-/rc-dialog-9.3.4.tgz#e0decb3d4a0dbe36524a67ed2f8fe2daa4b7b73c"
+  integrity sha512-975X3018GhR+EjZFbxA2Z57SX5rnu0G0/OxFgMMvZK4/hQWEm3MHaNvP4wXpxYDoJsp+xUvVW+GB9CMMCm81jA==
   dependencies:
     "@babel/runtime" "^7.10.1"
     "@rc-component/portal" "^1.0.0-8"
@@ -19960,94 +20060,103 @@ rc-dialog@~9.6.0:
     rc-motion "^2.3.0"
     rc-util "^5.21.0"
 
-rc-drawer@~7.2.0:
-  version "7.2.0"
-  resolved "https://registry.npmmirror.com/rc-drawer/-/rc-drawer-7.2.0.tgz#8d7de2f1fd52f3ac5a25f54afbb8ac14c62e5663"
-  integrity sha512-9lOQ7kBekEJRdEpScHvtmEtXnAsy+NGDXiRWc2ZVC7QXAazNVbeT4EraQKYwCME8BJLa8Bxqxvs5swwyOepRwg==
+rc-drawer@~6.5.2:
+  version "6.5.2"
+  resolved "https://registry.yarnpkg.com/rc-drawer/-/rc-drawer-6.5.2.tgz#49c1f279261992f6d4653d32a03b14acd436d610"
+  integrity sha512-QckxAnQNdhh4vtmKN0ZwDf3iakO83W9eZcSKWYYTDv4qcD2fHhRAZJJ/OE6v2ZlQ2kSqCJX5gYssF4HJFvsEPQ==
   dependencies:
-    "@babel/runtime" "^7.23.9"
+    "@babel/runtime" "^7.10.1"
     "@rc-component/portal" "^1.1.1"
     classnames "^2.2.6"
     rc-motion "^2.6.1"
-    rc-util "^5.38.1"
+    rc-util "^5.36.0"
 
-rc-dropdown@~4.2.0, rc-dropdown@~4.2.1:
-  version "4.2.1"
-  resolved "https://registry.npmmirror.com/rc-dropdown/-/rc-dropdown-4.2.1.tgz#44729eb2a4272e0353d31ac060da21e606accb1c"
-  integrity sha512-YDAlXsPv3I1n42dv1JpdM7wJ+gSUBfeyPK59ZpBD9jQhK9jVuxpjj3NmWQHOBceA1zEPVX84T2wbdb2SD0UjmA==
+rc-dropdown@~4.1.0:
+  version "4.1.0"
+  resolved "https://registry.yarnpkg.com/rc-dropdown/-/rc-dropdown-4.1.0.tgz#418a68939631520de80d0865d02b440eeeb4168e"
+  integrity sha512-VZjMunpBdlVzYpEdJSaV7WM7O0jf8uyDjirxXLZRNZ+tAC+NzD3PXPEtliFwGzVwBBdCmGuSqiS9DWcOLxQ9tw==
   dependencies:
     "@babel/runtime" "^7.18.3"
-    "@rc-component/trigger" "^2.0.0"
+    "@rc-component/trigger" "^1.7.0"
     classnames "^2.2.6"
-    rc-util "^5.44.1"
+    rc-util "^5.17.0"
 
-rc-field-form@~2.7.0:
-  version "2.7.1"
-  resolved "https://registry.npmmirror.com/rc-field-form/-/rc-field-form-2.7.1.tgz#8bb1d7c6bf40e2b99b494816972252c327d9b5a0"
-  integrity sha512-vKeSifSJ6HoLaAB+B8aq/Qgm8a3dyxROzCtKNCsBQgiverpc4kWDQihoUwzUj+zNWJOykwSY4dNX3QrGwtVb9A==
+rc-field-form@^1.34.2:
+  version "1.44.0"
+  resolved "https://registry.yarnpkg.com/rc-field-form/-/rc-field-form-1.44.0.tgz#a66548790fbcee8c5432e9f2efcd1b46b090984b"
+  integrity sha512-el7w87fyDUsca63Y/s8qJcq9kNkf/J5h+iTdqG5WsSHLH0e6Usl7QuYSmSVzJMgtp40mOVZIY/W/QP9zwrp1FA==
   dependencies:
     "@babel/runtime" "^7.18.0"
-    "@rc-component/async-validator" "^5.0.3"
+    async-validator "^4.1.0"
     rc-util "^5.32.2"
 
-rc-image@~7.11.0:
-  version "7.11.1"
-  resolved "https://registry.npmmirror.com/rc-image/-/rc-image-7.11.1.tgz#3ab290708dc053d3681de94186522e4e594f6772"
-  integrity sha512-XuoWx4KUXg7hNy5mRTy1i8c8p3K8boWg6UajbHpDXS5AlRVucNfTi5YxTtPBTBzegxAZpvuLfh3emXFt6ybUdA==
+rc-field-form@~1.41.0:
+  version "1.41.0"
+  resolved "https://registry.yarnpkg.com/rc-field-form/-/rc-field-form-1.41.0.tgz#660ed8691fdabbc1e5b1ee6b5e0e4f534b295cf0"
+  integrity sha512-k9AS0wmxfJfusWDP/YXWTpteDNaQ4isJx9UKxx4/e8Dub4spFeZ54/EuN2sYrMRID/+hUznPgVZeg+Gf7XSYCw==
+  dependencies:
+    "@babel/runtime" "^7.18.0"
+    async-validator "^4.1.0"
+    rc-util "^5.32.2"
+
+rc-image@~7.5.1:
+  version "7.5.1"
+  resolved "https://registry.yarnpkg.com/rc-image/-/rc-image-7.5.1.tgz#39a93354e14fe3e5eaafd9c9464e8fe3c6c171a0"
+  integrity sha512-Z9loECh92SQp0nSipc0MBuf5+yVC05H/pzC+Nf8xw1BKDFUJzUeehYBjaWlxly8VGBZJcTHYri61Fz9ng1G3Ag==
   dependencies:
     "@babel/runtime" "^7.11.2"
     "@rc-component/portal" "^1.0.2"
     classnames "^2.2.6"
-    rc-dialog "~9.6.0"
+    rc-dialog "~9.3.4"
     rc-motion "^2.6.2"
     rc-util "^5.34.1"
 
-rc-input-number@~9.4.0:
-  version "9.4.0"
-  resolved "https://registry.npmmirror.com/rc-input-number/-/rc-input-number-9.4.0.tgz#65caf04f1b6d05f47e141b1f5f484724c1f7fd5a"
-  integrity sha512-Tiy4DcXcFXAf9wDhN8aUAyMeCLHJUHA/VA/t7Hj8ZEx5ETvxG7MArDOSE6psbiSCo+vJPm4E3fGN710ITVn6GA==
+rc-input-number@~8.4.0:
+  version "8.4.0"
+  resolved "https://registry.yarnpkg.com/rc-input-number/-/rc-input-number-8.4.0.tgz#f0d0caa2ce3a4e37f062556f9cb4c08c8c23322d"
+  integrity sha512-B6rziPOLRmeP7kcS5qbdC5hXvvDHYKV4vUxmahevYx2E6crS2bRi0xLDjhJ0E1HtOWo8rTmaE2EBJAkTCZOLdA==
   dependencies:
     "@babel/runtime" "^7.10.1"
     "@rc-component/mini-decimal" "^1.0.1"
     classnames "^2.2.5"
-    rc-input "~1.7.1"
-    rc-util "^5.40.1"
+    rc-input "~1.3.5"
+    rc-util "^5.28.0"
 
-rc-input@~1.7.1, rc-input@~1.7.2:
-  version "1.7.3"
-  resolved "https://registry.npmmirror.com/rc-input/-/rc-input-1.7.3.tgz#cb334a17b93ce985bceb243b4c111a5ed641e0e3"
-  integrity sha512-A5w4egJq8+4JzlQ55FfQjDnPvOaAbzwC3VLOAdOytyek3TboSOP9qxN+Gifup+shVXfvecBLBbWBpWxmk02SWQ==
+rc-input@~1.3.11, rc-input@~1.3.5:
+  version "1.3.11"
+  resolved "https://registry.yarnpkg.com/rc-input/-/rc-input-1.3.11.tgz#08f25d6d65b418dc9001e8f36432fe323bde37fa"
+  integrity sha512-jhH7QP5rILanSHCGSUkdoFE5DEtpv8FIseYhuYkOZzUBeiVAiwM3q26YqZ6xBB0QFEZ/yUAgms4xW4iuub3xFQ==
   dependencies:
     "@babel/runtime" "^7.11.1"
     classnames "^2.2.1"
     rc-util "^5.18.1"
 
-rc-mentions@~2.19.1:
-  version "2.19.1"
-  resolved "https://registry.npmmirror.com/rc-mentions/-/rc-mentions-2.19.1.tgz#3fd0dd0bf3dd63afdb6a21750cbae81f3824b9c4"
-  integrity sha512-KK3bAc/bPFI993J3necmaMXD2reZTzytZdlTvkeBbp50IGH1BDPDvxLdHDUrpQx2b2TGaVJsn+86BvYa03kGqA==
+rc-mentions@~2.9.1:
+  version "2.9.1"
+  resolved "https://registry.yarnpkg.com/rc-mentions/-/rc-mentions-2.9.1.tgz#cfe55913fd5bc156ef9814f38c1a2ceefee032ce"
+  integrity sha512-cZuElWr/5Ws0PXx1uxobxfYh4mqUw2FitfabR62YnWgm+WAfDyXZXqZg5DxXW+M1cgVvntrQgDDd9LrihrXzew==
   dependencies:
     "@babel/runtime" "^7.22.5"
-    "@rc-component/trigger" "^2.0.0"
+    "@rc-component/trigger" "^1.5.0"
     classnames "^2.2.6"
-    rc-input "~1.7.1"
-    rc-menu "~9.16.0"
-    rc-textarea "~1.9.0"
+    rc-input "~1.3.5"
+    rc-menu "~9.12.0"
+    rc-textarea "~1.5.0"
     rc-util "^5.34.1"
 
-rc-menu@~9.16.0, rc-menu@~9.16.1:
-  version "9.16.1"
-  resolved "https://registry.npmmirror.com/rc-menu/-/rc-menu-9.16.1.tgz#9df1168e41d87dc7164c582173e1a1d32011899f"
-  integrity sha512-ghHx6/6Dvp+fw8CJhDUHFHDJ84hJE3BXNCzSgLdmNiFErWSOaZNsihDAsKq9ByTALo/xkNIwtDFGIl6r+RPXBg==
+rc-menu@~9.12.0, rc-menu@~9.12.4:
+  version "9.12.4"
+  resolved "https://registry.yarnpkg.com/rc-menu/-/rc-menu-9.12.4.tgz#4959b5eeb780be7ff52aac31952b35efca46b9a3"
+  integrity sha512-t2NcvPLV1mFJzw4F21ojOoRVofK2rWhpKPx69q2raUsiHPDP6DDevsBILEYdsIegqBeSXoWs2bf6CueBKg3BFg==
   dependencies:
     "@babel/runtime" "^7.10.1"
-    "@rc-component/trigger" "^2.0.0"
+    "@rc-component/trigger" "^1.17.0"
     classnames "2.x"
     rc-motion "^2.4.3"
     rc-overflow "^1.3.1"
     rc-util "^5.27.0"
 
-rc-motion@^2.0.0, rc-motion@^2.0.1, rc-motion@^2.3.0, rc-motion@^2.3.4, rc-motion@^2.4.3, rc-motion@^2.4.4, rc-motion@^2.6.1, rc-motion@^2.6.2, rc-motion@^2.9.0, rc-motion@^2.9.5:
+rc-motion@^2.0.0, rc-motion@^2.0.1, rc-motion@^2.3.0, rc-motion@^2.3.4, rc-motion@^2.4.3, rc-motion@^2.4.4, rc-motion@^2.6.1, rc-motion@^2.6.2, rc-motion@^2.9.0:
   version "2.9.5"
   resolved "https://registry.npmmirror.com/rc-motion/-/rc-motion-2.9.5.tgz#12c6ead4fd355f94f00de9bb4f15df576d677e0c"
   integrity sha512-w+XTUrfh7ArbYEd2582uDrEhmBHwK1ZENJiSJVb7uRxdE7qJSYjbO2eksRXmndqyKqKoYPc9ClpPh5242mV1vA==
@@ -20056,17 +20165,17 @@ rc-motion@^2.0.0, rc-motion@^2.0.1, rc-motion@^2.3.0, rc-motion@^2.3.4, rc-motio
     classnames "^2.2.1"
     rc-util "^5.44.0"
 
-rc-notification@~5.6.3:
-  version "5.6.4"
-  resolved "https://registry.npmmirror.com/rc-notification/-/rc-notification-5.6.4.tgz#ea89c39c13cd517fdfd97fe63f03376fabb78544"
-  integrity sha512-KcS4O6B4qzM3KH7lkwOB7ooLPZ4b6J+VMmQgT51VZCeEcmghdeR4IrMcFq0LG+RPdnbe/ArT086tGM8Snimgiw==
+rc-notification@~5.3.0:
+  version "5.3.0"
+  resolved "https://registry.yarnpkg.com/rc-notification/-/rc-notification-5.3.0.tgz#e31c86fe2350598ade8cff383babd1befa7a94fe"
+  integrity sha512-WCf0uCOkZ3HGfF0p1H4Sgt7aWfipxORWTPp7o6prA3vxwtWhtug3GfpYls1pnBp4WA+j8vGIi5c2/hQRpGzPcQ==
   dependencies:
     "@babel/runtime" "^7.10.1"
     classnames "2.x"
     rc-motion "^2.9.0"
     rc-util "^5.20.1"
 
-rc-overflow@^1.3.1, rc-overflow@^1.3.2:
+rc-overflow@^1.3.1:
   version "1.5.0"
   resolved "https://registry.npmmirror.com/rc-overflow/-/rc-overflow-1.5.0.tgz#02e58a15199e392adfcc87e0d6e9e7c8e57f2771"
   integrity sha512-Lm/v9h0LymeUYJf0x39OveU52InkdRXqnn2aYXfWmo8WdOonIKB2kfau+GF0fWq6jPgtdO9yMqveGcK6aIhJmg==
@@ -20076,46 +20185,44 @@ rc-overflow@^1.3.1, rc-overflow@^1.3.2:
     rc-resize-observer "^1.0.0"
     rc-util "^5.37.0"
 
-rc-pagination@~5.1.0:
-  version "5.1.0"
-  resolved "https://registry.npmmirror.com/rc-pagination/-/rc-pagination-5.1.0.tgz#a6e63a2c5db29e62f991282eb18a2d3ee725ba8b"
-  integrity sha512-8416Yip/+eclTFdHXLKTxZvn70duYVGTvUUWbckCCZoIl3jagqke3GLsFrMs0bsQBikiYpZLD9206Ej4SOdOXQ==
+rc-pagination@~4.0.4:
+  version "4.0.4"
+  resolved "https://registry.yarnpkg.com/rc-pagination/-/rc-pagination-4.0.4.tgz#ea401388ae86eac17ed5b41212d487f12b65b773"
+  integrity sha512-GGrLT4NgG6wgJpT/hHIpL9nELv27A1XbSZzECIuQBQTVSf4xGKxWr6I/jhpRPauYEWEbWVw22ObG6tJQqwJqWQ==
   dependencies:
     "@babel/runtime" "^7.10.1"
     classnames "^2.3.2"
     rc-util "^5.38.0"
 
-rc-picker@~4.11.2:
-  version "4.11.3"
-  resolved "https://registry.npmmirror.com/rc-picker/-/rc-picker-4.11.3.tgz#7e7e3ad83aa461c284b8391c697492d1c34d2cb8"
-  integrity sha512-MJ5teb7FlNE0NFHTncxXQ62Y5lytq6sh5nUw0iH8OkHL/TjARSEvSHpr940pWgjGANpjCwyMdvsEV55l5tYNSg==
+rc-picker@~3.14.6:
+  version "3.14.7"
+  resolved "https://registry.yarnpkg.com/rc-picker/-/rc-picker-3.14.7.tgz#112f270ee933a1be3a59b32af1ea96c139bb9bac"
+  integrity sha512-+craFcClAOwu4R7lSlaiTAZRY4cWPgtE0+yji9stQkQR28C7WGTrZcyiq5AD7xfhXNV+82QmoJ8Aqg3duDYF6A==
   dependencies:
-    "@babel/runtime" "^7.24.7"
-    "@rc-component/trigger" "^2.0.0"
+    "@babel/runtime" "^7.10.1"
+    "@rc-component/trigger" "^1.5.0"
     classnames "^2.2.1"
-    rc-overflow "^1.3.2"
-    rc-resize-observer "^1.4.0"
-    rc-util "^5.43.0"
+    rc-util "^5.30.0"
 
-rc-progress@~4.0.0:
-  version "4.0.0"
-  resolved "https://registry.npmmirror.com/rc-progress/-/rc-progress-4.0.0.tgz#5382147d9add33d3a5fbd264001373df6440e126"
-  integrity sha512-oofVMMafOCokIUIBnZLNcOZFsABaUw8PPrf1/y0ZBvKZNpOiu5h4AO9vv11Sw0p4Hb3D0yGWuEattcQGtNJ/aw==
+rc-progress@~3.5.1:
+  version "3.5.1"
+  resolved "https://registry.yarnpkg.com/rc-progress/-/rc-progress-3.5.1.tgz#a3cdfd2fe04eb5c3d43fa1c69e7dd70c73b102ae"
+  integrity sha512-V6Amx6SbLRwPin/oD+k1vbPrO8+9Qf8zW1T8A7o83HdNafEVvAxPV5YsgtKFP+Ud5HghLj33zKOcEHrcrUGkfw==
   dependencies:
     "@babel/runtime" "^7.10.1"
     classnames "^2.2.6"
     rc-util "^5.16.1"
 
-rc-rate@~2.13.1:
-  version "2.13.1"
-  resolved "https://registry.npmmirror.com/rc-rate/-/rc-rate-2.13.1.tgz#29af7a3d4768362e9d4388f955a8b6389526b7fd"
-  integrity sha512-QUhQ9ivQ8Gy7mtMZPAjLbxBt5y9GRp65VcUyGUMF3N3fhiftivPHdpuDIaWIMOTEprAjZPC08bls1dQB+I1F2Q==
+rc-rate@~2.12.0:
+  version "2.12.0"
+  resolved "https://registry.yarnpkg.com/rc-rate/-/rc-rate-2.12.0.tgz#0182deffed3b009cdcc61660da8746c39ed91ed5"
+  integrity sha512-g092v5iZCdVzbjdn28FzvWebK2IutoVoiTeqoLTj9WM7SjA/gOJIw5/JFZMRyJYYVe1jLAU2UhAfstIpCNRozg==
   dependencies:
     "@babel/runtime" "^7.10.1"
     classnames "^2.2.5"
     rc-util "^5.0.1"
 
-rc-resize-observer@^1.0.0, rc-resize-observer@^1.1.0, rc-resize-observer@^1.3.1, rc-resize-observer@^1.4.0, rc-resize-observer@^1.4.3:
+rc-resize-observer@^1.0.0, rc-resize-observer@^1.1.0, rc-resize-observer@^1.3.1, rc-resize-observer@^1.4.0:
   version "1.4.3"
   resolved "https://registry.npmmirror.com/rc-resize-observer/-/rc-resize-observer-1.4.3.tgz#4fd41fa561ba51362b5155a07c35d7c89a1ea569"
   integrity sha512-YZLjUbyIWox8E9i9C3Tm7ia+W7euPItNWSPX5sCcQTYbnwDb5uNpnLHQCG1f22oZWUhLw4Mv2tFmeWe68CDQRQ==
@@ -20125,37 +20232,47 @@ rc-resize-observer@^1.0.0, rc-resize-observer@^1.1.0, rc-resize-observer@^1.3.1,
     rc-util "^5.44.1"
     resize-observer-polyfill "^1.5.1"
 
-rc-segmented@~2.7.0:
-  version "2.7.0"
-  resolved "https://registry.npmmirror.com/rc-segmented/-/rc-segmented-2.7.0.tgz#f56c2044abf8f03958b3a9a9d32987f10dcc4fc4"
-  integrity sha512-liijAjXz+KnTRVnxxXG2sYDGd6iLL7VpGGdR8gwoxAXy2KglviKCxLWZdjKYJzYzGSUwKDSTdYk8brj54Bn5BA==
+rc-segmented@~2.2.2:
+  version "2.2.2"
+  resolved "https://registry.yarnpkg.com/rc-segmented/-/rc-segmented-2.2.2.tgz#a34f12ce6c0975fc3042ae7656bcd18e1744798e"
+  integrity sha512-Mq52M96QdHMsNdE/042ibT5vkcGcD5jxKp7HgPC2SRofpia99P5fkfHy1pEaajLMF/kj0+2Lkq1UZRvqzo9mSA==
   dependencies:
     "@babel/runtime" "^7.11.1"
     classnames "^2.2.1"
     rc-motion "^2.4.4"
     rc-util "^5.17.0"
 
-rc-select@~14.16.2, rc-select@~14.16.6:
-  version "14.16.8"
-  resolved "https://registry.npmmirror.com/rc-select/-/rc-select-14.16.8.tgz#78e6782f1ccc1f03d9003bc3effa4ed609d29a97"
-  integrity sha512-NOV5BZa1wZrsdkKaiK7LHRuo5ZjZYMDxPP6/1+09+FB4KoNi8jcG1ZqLE3AVCxEsYMBe65OBx71wFoHRTP3LRg==
+rc-segmented@~2.4.1:
+  version "2.4.1"
+  resolved "https://registry.yarnpkg.com/rc-segmented/-/rc-segmented-2.4.1.tgz#b6bbdd6acf529c1e2ef30fb26fb3851d5966aa00"
+  integrity sha512-KUi+JJFdKnumV9iXlm+BJ00O4NdVBp2TEexLCk6bK1x/RH83TvYKQMzIz/7m3UTRPD08RM/8VG/JNjWgWbd4cw==
+  dependencies:
+    "@babel/runtime" "^7.11.1"
+    classnames "^2.2.1"
+    rc-motion "^2.4.4"
+    rc-util "^5.17.0"
+
+rc-select@~14.10.0:
+  version "14.10.0"
+  resolved "https://registry.yarnpkg.com/rc-select/-/rc-select-14.10.0.tgz#5f60e61ed7c9a83c8591616b1174a1c4ab2de0cd"
+  integrity sha512-TsIJTYafTTapCA32LLNpx/AD6ntepR1TG8jEVx35NiAAWCPymhUfuca8kRcUNd3WIGVMDcMKn9kkphoxEz+6Ag==
   dependencies:
     "@babel/runtime" "^7.10.1"
-    "@rc-component/trigger" "^2.1.1"
+    "@rc-component/trigger" "^1.5.0"
     classnames "2.x"
     rc-motion "^2.0.1"
     rc-overflow "^1.3.1"
     rc-util "^5.16.1"
     rc-virtual-list "^3.5.2"
 
-rc-slider@~11.1.8:
-  version "11.1.9"
-  resolved "https://registry.npmmirror.com/rc-slider/-/rc-slider-11.1.9.tgz#d872130fbf4ec51f28543d62e90451091d6f5208"
-  integrity sha512-h8IknhzSh3FEM9u8ivkskh+Ef4Yo4JRIY2nj7MrH6GQmrwV6mcpJf5/4KgH5JaVI1H3E52yCdpOlVyGZIeph5A==
+rc-slider@~10.5.0:
+  version "10.5.0"
+  resolved "https://registry.yarnpkg.com/rc-slider/-/rc-slider-10.5.0.tgz#1bd4853d114cb3403b67c485125887adb6a2a117"
+  integrity sha512-xiYght50cvoODZYI43v3Ylsqiw14+D7ELsgzR40boDZaya1HFa1Etnv9MDkQE8X/UrXAffwv2AcNAhslgYuDTw==
   dependencies:
     "@babel/runtime" "^7.10.1"
     classnames "^2.2.5"
-    rc-util "^5.36.0"
+    rc-util "^5.27.0"
 
 rc-steps@~6.0.1:
   version "6.0.1"
@@ -20175,67 +20292,66 @@ rc-switch@~4.1.0:
     classnames "^2.2.1"
     rc-util "^5.30.0"
 
-rc-table@~7.50.3:
-  version "7.50.5"
-  resolved "https://registry.npmmirror.com/rc-table/-/rc-table-7.50.5.tgz#d0649d2fd902ca90dc20924c27a2e38523ce3625"
-  integrity sha512-FDZu8aolhSYd3v9KOc3lZOVAU77wmRRu44R0Wfb8Oj1dXRUsloFaXMSl6f7yuWZUxArJTli7k8TEOX2mvhDl4A==
+rc-table@~7.36.1:
+  version "7.36.1"
+  resolved "https://registry.yarnpkg.com/rc-table/-/rc-table-7.36.1.tgz#4a1a6d7e9797d553845bfa62571720cc613ecc94"
+  integrity sha512-9qMxEm/3Y8ukdW8I8ZvmhX0QImfNKzH0JEUlSbyaUlsYTB+/tQEbfaB8YkG4sHVZ1io4pxqK/BXoZYqebi/TIQ==
   dependencies:
     "@babel/runtime" "^7.10.1"
     "@rc-component/context" "^1.4.0"
     classnames "^2.2.5"
     rc-resize-observer "^1.1.0"
-    rc-util "^5.44.3"
-    rc-virtual-list "^3.14.2"
+    rc-util "^5.37.0"
+    rc-virtual-list "^3.11.1"
 
-rc-tabs@~15.5.1:
-  version "15.5.2"
-  resolved "https://registry.npmmirror.com/rc-tabs/-/rc-tabs-15.5.2.tgz#bca1d2f2ee1e609fa4d7527b3c1639319f035b0c"
-  integrity sha512-Hbqf2IV6k/jPgfMjPtIDmPV0D0C9c/fN4B/fYcoh9qqaUzUZQoK0PYzsV3UaV+3UsmyoYt48p74m/HkLhGTw+w==
+rc-tabs@~12.14.1:
+  version "12.14.1"
+  resolved "https://registry.yarnpkg.com/rc-tabs/-/rc-tabs-12.14.1.tgz#1fe4c0bd54550c216f9612b76eff7fbe750f4d2b"
+  integrity sha512-1xlE7JQNYxD5RwBsM7jf2xSdUrkmTSDFLFEm2gqAgnsRlOGydEzXXNAVTOT6QcgM1G/gCm+AgG+FYPUGb4Hs4g==
   dependencies:
     "@babel/runtime" "^7.11.2"
     classnames "2.x"
-    rc-dropdown "~4.2.0"
-    rc-menu "~9.16.0"
+    rc-dropdown "~4.1.0"
+    rc-menu "~9.12.0"
     rc-motion "^2.6.2"
     rc-resize-observer "^1.0.0"
     rc-util "^5.34.1"
 
-rc-textarea@~1.9.0:
-  version "1.9.0"
-  resolved "https://registry.npmmirror.com/rc-textarea/-/rc-textarea-1.9.0.tgz#d807194ebef90f25f0b9501cddf5e8f2968d598a"
-  integrity sha512-dQW/Bc/MriPBTugj2Kx9PMS5eXCCGn2cxoIaichjbNvOiARlaHdI99j4DTxLl/V8+PIfW06uFy7kjfUIDDKyxQ==
+rc-textarea@~1.5.0, rc-textarea@~1.5.3:
+  version "1.5.3"
+  resolved "https://registry.yarnpkg.com/rc-textarea/-/rc-textarea-1.5.3.tgz#513e837d308584996c05f540f4f58645a3a8c89a"
+  integrity sha512-oH682ghHx++stFNYrosPRBfwsypywrTXpaD0/5Z8MPkUOnyOQUaY9ueL9tMu6BP1LfsuYQ1VLpg5OtshViLNgA==
   dependencies:
     "@babel/runtime" "^7.10.1"
     classnames "^2.2.1"
-    rc-input "~1.7.1"
+    rc-input "~1.3.5"
     rc-resize-observer "^1.0.0"
     rc-util "^5.27.0"
 
-rc-tooltip@~6.4.0:
-  version "6.4.0"
-  resolved "https://registry.npmmirror.com/rc-tooltip/-/rc-tooltip-6.4.0.tgz#e832ed0392872025e59928cfc1ad9045656467fd"
-  integrity sha512-kqyivim5cp8I5RkHmpsp1Nn/Wk+1oeloMv9c7LXNgDxUpGm+RbXJGL+OPvDlcRnx9DBeOe4wyOIl4OKUERyH1g==
+rc-tooltip@~6.1.3:
+  version "6.1.3"
+  resolved "https://registry.yarnpkg.com/rc-tooltip/-/rc-tooltip-6.1.3.tgz#83b97004a1ab918ed4936bbf089bc754254efd1b"
+  integrity sha512-HMSbSs5oieZ7XddtINUddBLSVgsnlaSb3bZrzzGWjXa7/B7nNedmsuz72s7EWFEro9mNa7RyF3gOXKYqvJiTcQ==
   dependencies:
     "@babel/runtime" "^7.11.2"
-    "@rc-component/trigger" "^2.0.0"
+    "@rc-component/trigger" "^1.18.0"
     classnames "^2.3.1"
-    rc-util "^5.44.3"
 
-rc-tree-select@~5.27.0:
-  version "5.27.0"
-  resolved "https://registry.npmmirror.com/rc-tree-select/-/rc-tree-select-5.27.0.tgz#3daa62972ae80846dac96bf4776d1a9dc9c7c4c6"
-  integrity sha512-2qTBTzwIT7LRI1o7zLyrCzmo5tQanmyGbSaGTIf7sYimCklAToVVfpMC6OAldSKolcnjorBYPNSKQqJmN3TCww==
+rc-tree-select@~5.15.0:
+  version "5.15.0"
+  resolved "https://registry.yarnpkg.com/rc-tree-select/-/rc-tree-select-5.15.0.tgz#8591f1dd28b043dde6fa1ca30c7acb198b160a42"
+  integrity sha512-YJHfdO6azFnR0/JuNBZLDptGE4/RGfVeHAafUIYcm2T3RBkL1O8aVqiHvwIyLzdK59ry0NLrByd+3TkfpRM+9Q==
   dependencies:
-    "@babel/runtime" "^7.25.7"
+    "@babel/runtime" "^7.10.1"
     classnames "2.x"
-    rc-select "~14.16.2"
-    rc-tree "~5.13.0"
-    rc-util "^5.43.0"
+    rc-select "~14.10.0"
+    rc-tree "~5.8.1"
+    rc-util "^5.16.1"
 
-rc-tree@~5.13.0:
-  version "5.13.1"
-  resolved "https://registry.npmmirror.com/rc-tree/-/rc-tree-5.13.1.tgz#f36a33a94a1282f4b09685216c01487089748910"
-  integrity sha512-FNhIefhftobCdUJshO7M8uZTA9F4OPGVXqGfZkkD/5soDeOhwO06T/aKTrg0WD8gRg/pyfq+ql3aMymLHCTC4A==
+rc-tree@~5.8.1, rc-tree@~5.8.2:
+  version "5.8.8"
+  resolved "https://registry.yarnpkg.com/rc-tree/-/rc-tree-5.8.8.tgz#650a13ec825a5a4feec6bbaf6a380465986ee0db"
+  integrity sha512-S+mCMWo91m5AJqjz3PdzKilGgbFm7fFJRFiTDOcoRbD7UfMOPnerXwMworiga0O2XIo383UoWuEfeHs1WOltag==
   dependencies:
     "@babel/runtime" "^7.10.1"
     classnames "2.x"
@@ -20243,16 +20359,16 @@ rc-tree@~5.13.0:
     rc-util "^5.16.1"
     rc-virtual-list "^3.5.1"
 
-rc-upload@~4.8.1:
-  version "4.8.1"
-  resolved "https://registry.npmmirror.com/rc-upload/-/rc-upload-4.8.1.tgz#ac55f2bc101b95b52a6e47f3c18f0f55b54e16d2"
-  integrity sha512-toEAhwl4hjLAI1u8/CgKWt30BR06ulPa4iGQSMvSXoHzO88gPCslxqV/mnn4gJU7PDoltGIC9Eh+wkeudqgHyw==
+rc-upload@~4.5.2:
+  version "4.5.2"
+  resolved "https://registry.yarnpkg.com/rc-upload/-/rc-upload-4.5.2.tgz#ea493fbaaf57d9369ee954b20e1d8bc35c818a1a"
+  integrity sha512-QO3ne77DwnAPKFn0bA5qJM81QBjQi0e0NHdkvpFyY73Bea2NfITiotqJqVjHgeYPOJu5lLVR32TNGP084aSoXA==
   dependencies:
     "@babel/runtime" "^7.18.3"
     classnames "^2.2.5"
     rc-util "^5.2.0"
 
-rc-util@^5.0.1, rc-util@^5.0.6, rc-util@^5.16.1, rc-util@^5.17.0, rc-util@^5.18.1, rc-util@^5.2.0, rc-util@^5.20.1, rc-util@^5.21.0, rc-util@^5.24.4, rc-util@^5.25.2, rc-util@^5.27.0, rc-util@^5.30.0, rc-util@^5.31.1, rc-util@^5.32.2, rc-util@^5.34.1, rc-util@^5.35.0, rc-util@^5.36.0, rc-util@^5.37.0, rc-util@^5.38.0, rc-util@^5.38.1, rc-util@^5.40.1, rc-util@^5.43.0, rc-util@^5.44.0, rc-util@^5.44.1, rc-util@^5.44.3, rc-util@^5.44.4:
+rc-util@^5.0.1, rc-util@^5.0.6, rc-util@^5.16.1, rc-util@^5.17.0, rc-util@^5.18.1, rc-util@^5.2.0, rc-util@^5.20.1, rc-util@^5.21.0, rc-util@^5.24.4, rc-util@^5.25.2, rc-util@^5.27.0, rc-util@^5.28.0, rc-util@^5.30.0, rc-util@^5.31.1, rc-util@^5.32.2, rc-util@^5.34.1, rc-util@^5.35.0, rc-util@^5.36.0, rc-util@^5.37.0, rc-util@^5.38.0, rc-util@^5.38.1, rc-util@^5.44.0, rc-util@^5.44.1, rc-util@^5.44.4:
   version "5.44.4"
   resolved "https://registry.npmmirror.com/rc-util/-/rc-util-5.44.4.tgz#89ee9037683cca01cd60f1a6bbda761457dd6ba5"
   integrity sha512-resueRJzmHG9Q6rI/DfK6Kdv9/Lfls05vzMs1Sk3M2P+3cJa+MakaZyWY8IPfehVuhPJFKrIY1IK4GqbiaiY5w==
@@ -20260,7 +20376,7 @@ rc-util@^5.0.1, rc-util@^5.0.6, rc-util@^5.16.1, rc-util@^5.17.0, rc-util@^5.18.
     "@babel/runtime" "^7.18.3"
     react-is "^18.2.0"
 
-rc-virtual-list@^3.14.2, rc-virtual-list@^3.5.1, rc-virtual-list@^3.5.2:
+rc-virtual-list@^3.11.1, rc-virtual-list@^3.5.1, rc-virtual-list@^3.5.2:
   version "3.19.2"
   resolved "https://registry.npmmirror.com/rc-virtual-list/-/rc-virtual-list-3.19.2.tgz#1dd2d782c9a3ccbe537bb873447d73f83af8de0f"
   integrity sha512-Ys6NcjwGkuwkeaWBDqfI3xWuZ7rDiQXlH1o2zLfFzATfEgXcqpk8CkgMfbJD81McqjcJVez25a3kPxCR807evA==
@@ -20483,35 +20599,20 @@ react-refresh@^0.17.0:
   resolved "https://registry.npmmirror.com/react-refresh/-/react-refresh-0.17.0.tgz#b7e579c3657f23d04eccbe4ad2e58a8ed51e7e53"
   integrity sha512-z6F7K9bV85EfseRCp2bzrpyQ0Gkw1uLoCel9XBVWPg/TjRj94SkJzUTGfOa4bs7iJvBWtQG0Wq7wnI0syw3EBQ==
 
-react-router-dom@6.3.0:
-  version "6.3.0"
-  resolved "https://registry.npmmirror.com/react-router-dom/-/react-router-dom-6.3.0.tgz#a0216da813454e521905b5fa55e0e5176123f43d"
-  integrity sha512-uaJj7LKytRxZNQV8+RbzJWnJ8K2nPsOOEuX7aQstlMZKQT0164C+X2w6bnkqU3sjtLvpd5ojrezAyfZ1+0sStw==
+react-router-dom@6.28.1, react-router-dom@6.3.0, react-router-dom@^6.11.2:
+  version "6.28.1"
+  resolved "https://registry.yarnpkg.com/react-router-dom/-/react-router-dom-6.28.1.tgz#b78fe452d2cd31919b80e57047a896bfa1509f8c"
+  integrity sha512-YraE27C/RdjcZwl5UCqF/ffXnZDxpJdk9Q6jw38SZHjXs7NNdpViq2l2c7fO7+4uWaEfcwfGCv3RSg4e1By/fQ==
   dependencies:
-    history "^5.2.0"
-    react-router "6.3.0"
+    "@remix-run/router" "1.21.0"
+    react-router "6.28.1"
 
-react-router-dom@^6.11.2:
-  version "6.30.1"
-  resolved "https://registry.npmmirror.com/react-router-dom/-/react-router-dom-6.30.1.tgz#da2580c272ddb61325e435478566be9563a4a237"
-  integrity sha512-llKsgOkZdbPU1Eg3zK8lCn+sjD9wMRZZPuzmdWWX5SUs8OFkN5HnFVC0u5KMeMaC9aoancFI/KoLuKPqN+hxHw==
+react-router@6.28.1, react-router@6.3.0:
+  version "6.28.1"
+  resolved "https://registry.yarnpkg.com/react-router/-/react-router-6.28.1.tgz#f82317ab24eee67d7beb7b304c0378b2b48fa178"
+  integrity sha512-2omQTA3rkMljmrvvo6WtewGdVh45SpL9hGiCI9uUrwGGfNFDIvGK4gYJsKlJoNVi6AQZcopSCballL+QGOm7fA==
   dependencies:
-    "@remix-run/router" "1.23.0"
-    react-router "6.30.1"
-
-react-router@6.3.0:
-  version "6.3.0"
-  resolved "https://registry.npmmirror.com/react-router/-/react-router-6.3.0.tgz#3970cc64b4cb4eae0c1ea5203a80334fdd175557"
-  integrity sha512-7Wh1DzVQ+tlFjkeo+ujvjSqSJmkt1+8JO+T5xklPlgrh70y7ogx75ODRW0ThWhY7S+6yEDks8TYrtQe/aoboBQ==
-  dependencies:
-    history "^5.2.0"
-
-react-router@6.30.1:
-  version "6.30.1"
-  resolved "https://registry.npmmirror.com/react-router/-/react-router-6.30.1.tgz#ecb3b883c9ba6dbf5d319ddbc996747f4ab9f4c3"
-  integrity sha512-X1m21aEmxGXqENEPG3T6u0Th7g0aS4ZmoNynhbs+Cn+q+QGTLt+d5IQ2bHAXKzKcxGJjxACpVbnYQSCRcfxHlQ==
-  dependencies:
-    "@remix-run/router" "1.23.0"
+    "@remix-run/router" "1.21.0"
 
 react-side-effect@^2.1.0:
   version "2.1.2"
@@ -21191,51 +21292,29 @@ rollup-plugin-visualizer@5.9.0:
     source-map "^0.7.4"
     yargs "^17.5.1"
 
-rollup@^0.25.8:
-  version "0.25.8"
-  resolved "https://registry.npmmirror.com/rollup/-/rollup-0.25.8.tgz#bf6ce83b87510d163446eeaa577ed6a6fc5835e0"
-  integrity sha512-a2S4Bh3bgrdO4BhKr2E4nZkjTvrJ2m2bWjMTzVYtoqSCn0HnuxosXnaJUHrMEziOWr3CzL9GjilQQKcyCQpJoA==
+rollup@4.24.0, rollup@^0.25.8, rollup@^3.27.1, rollup@^4.19.0, rollup@^4.20.0:
+  version "4.24.0"
+  resolved "https://registry.yarnpkg.com/rollup/-/rollup-4.24.0.tgz#c14a3576f20622ea6a5c9cad7caca5e6e9555d05"
+  integrity sha512-DOmrlGSXNk1DM0ljiQA+i+o0rSLhtii1je5wgk60j49d1jHT5YYttBv1iWOnYSTG+fZZESUOSNiAl89SIet+Cg==
   dependencies:
-    chalk "^1.1.1"
-    minimist "^1.2.0"
-    source-map-support "^0.3.2"
-
-rollup@^3.27.1:
-  version "3.29.5"
-  resolved "https://registry.npmmirror.com/rollup/-/rollup-3.29.5.tgz#8a2e477a758b520fb78daf04bca4c522c1da8a54"
-  integrity sha512-GVsDdsbJzzy4S/v3dqWPJ7EfvZJfCHiDqe80IyrF59LYuP+e6U1LJoUqeuqRbwAWoMNoXivMNeNAOf5E22VA1w==
+    "@types/estree" "1.0.6"
   optionalDependencies:
-    fsevents "~2.3.2"
-
-rollup@^4.19.0, rollup@^4.20.0:
-  version "4.52.5"
-  resolved "https://registry.npmmirror.com/rollup/-/rollup-4.52.5.tgz#96982cdcaedcdd51b12359981f240f94304ec235"
-  integrity sha512-3GuObel8h7Kqdjt0gxkEzaifHTqLVW56Y/bjN7PSQtkKr0w3V/QYSdt6QWYtd7A1xUtYQigtdUfgj1RvWVtorw==
-  dependencies:
-    "@types/estree" "1.0.8"
-  optionalDependencies:
-    "@rollup/rollup-android-arm-eabi" "4.52.5"
-    "@rollup/rollup-android-arm64" "4.52.5"
-    "@rollup/rollup-darwin-arm64" "4.52.5"
-    "@rollup/rollup-darwin-x64" "4.52.5"
-    "@rollup/rollup-freebsd-arm64" "4.52.5"
-    "@rollup/rollup-freebsd-x64" "4.52.5"
-    "@rollup/rollup-linux-arm-gnueabihf" "4.52.5"
-    "@rollup/rollup-linux-arm-musleabihf" "4.52.5"
-    "@rollup/rollup-linux-arm64-gnu" "4.52.5"
-    "@rollup/rollup-linux-arm64-musl" "4.52.5"
-    "@rollup/rollup-linux-loong64-gnu" "4.52.5"
-    "@rollup/rollup-linux-ppc64-gnu" "4.52.5"
-    "@rollup/rollup-linux-riscv64-gnu" "4.52.5"
-    "@rollup/rollup-linux-riscv64-musl" "4.52.5"
-    "@rollup/rollup-linux-s390x-gnu" "4.52.5"
-    "@rollup/rollup-linux-x64-gnu" "4.52.5"
-    "@rollup/rollup-linux-x64-musl" "4.52.5"
-    "@rollup/rollup-openharmony-arm64" "4.52.5"
-    "@rollup/rollup-win32-arm64-msvc" "4.52.5"
-    "@rollup/rollup-win32-ia32-msvc" "4.52.5"
-    "@rollup/rollup-win32-x64-gnu" "4.52.5"
-    "@rollup/rollup-win32-x64-msvc" "4.52.5"
+    "@rollup/rollup-android-arm-eabi" "4.24.0"
+    "@rollup/rollup-android-arm64" "4.24.0"
+    "@rollup/rollup-darwin-arm64" "4.24.0"
+    "@rollup/rollup-darwin-x64" "4.24.0"
+    "@rollup/rollup-linux-arm-gnueabihf" "4.24.0"
+    "@rollup/rollup-linux-arm-musleabihf" "4.24.0"
+    "@rollup/rollup-linux-arm64-gnu" "4.24.0"
+    "@rollup/rollup-linux-arm64-musl" "4.24.0"
+    "@rollup/rollup-linux-powerpc64le-gnu" "4.24.0"
+    "@rollup/rollup-linux-riscv64-gnu" "4.24.0"
+    "@rollup/rollup-linux-s390x-gnu" "4.24.0"
+    "@rollup/rollup-linux-x64-gnu" "4.24.0"
+    "@rollup/rollup-linux-x64-musl" "4.24.0"
+    "@rollup/rollup-win32-arm64-msvc" "4.24.0"
+    "@rollup/rollup-win32-ia32-msvc" "4.24.0"
+    "@rollup/rollup-win32-x64-msvc" "4.24.0"
     fsevents "~2.3.2"
 
 rrweb-cssom@^0.7.1:
@@ -21276,6 +21355,11 @@ run-series@^1.1.8:
   version "1.1.9"
   resolved "https://registry.npmmirror.com/run-series/-/run-series-1.1.9.tgz#15ba9cb90e6a6c054e67c98e1dc063df0ecc113a"
   integrity sha512-Arc4hUN896vjkqCYrUXquBFtRZdv1PfLbTYP71efP6butxyQ0kWpiNJyAgsxscmQg1cqvHY32/UCBzXedTpU2g==
+
+runes2@^1.1.2:
+  version "1.1.4"
+  resolved "https://registry.yarnpkg.com/runes2/-/runes2-1.1.4.tgz#aa38d3d7946e147ac4718ed0fb19b22340ae5c66"
+  integrity sha512-LNPnEDPOOU4ehF71m5JoQyzT2yxwD6ZreFJ7MxZUAoMKNMY1XrAo60H1CUoX5ncSm0rIuKlqn9JZNRrRkNou2g==
 
 rw@1, rw@^1.3.2:
   version "1.3.3"
@@ -21471,32 +21555,10 @@ semver-greatest-satisfied-range@^1.1.0:
   dependencies:
     sver-compat "^1.5.0"
 
-"semver@2 || 3 || 4 || 5", semver@^5.0.3, semver@^5.5.0, semver@^5.6.0, semver@^5.7.1:
-  version "5.7.2"
-  resolved "https://registry.npmmirror.com/semver/-/semver-5.7.2.tgz#48d55db737c3287cd4835e17fa13feace1c41ef8"
-  integrity sha512-cBznnQ9KjJqU67B52RMC65CMarK2600WFnbkcaiwWq3xy/5haFJlshgnpjovMVJ+Hff49d8GEn0b87C5pDQ10g==
-
-semver@7.7.2:
-  version "7.7.2"
-  resolved "https://registry.npmmirror.com/semver/-/semver-7.7.2.tgz#67d99fdcd35cec21e6f8b87a7fd515a33f982b58"
-  integrity sha512-RF0Fw+rO5AMf9MAyaRXI4AV0Ulj5lMHqVxxdSgiVbixSCXoEmmX/jk0CuJw4+3SqroYO9VoUh+HcuJivvtJemA==
-
-semver@^6.0.0, semver@^6.1.0, semver@^6.2.0, semver@^6.3.0, semver@^6.3.1:
-  version "6.3.1"
-  resolved "https://registry.npmmirror.com/semver/-/semver-6.3.1.tgz#556d2ef8689146e46dcea4bfdd095f3434dffcb4"
-  integrity sha512-BR7VvDCVHO+q2xBEWskxS6DJE1qRnb7DxzUrogb71CWoSficBxYsiAGd+Kl0mmq/MprG9yArRkyrQxTO6XjMzA==
-
-semver@^7.1.1, semver@^7.1.3, semver@^7.3.2, semver@^7.3.4, semver@^7.3.5, semver@^7.3.7, semver@^7.3.8, semver@^7.5.2, semver@^7.5.3, semver@^7.5.4, semver@^7.6.2, semver@^7.6.3, semver@^7.7.1:
+"semver@2 || 3 || 4 || 5", semver@7.7.2, semver@^5.0.3, semver@^5.5.0, semver@^5.6.0, semver@^5.7.1, semver@^6.0.0, semver@^6.1.0, semver@^6.2.0, semver@^6.3.0, semver@^6.3.1, semver@^7.1.1, semver@^7.1.3, semver@^7.3.2, semver@^7.3.4, semver@^7.3.5, semver@^7.3.7, semver@^7.3.8, semver@^7.5.2, semver@^7.5.3, semver@^7.5.4, semver@^7.6.2, semver@^7.6.3, semver@^7.7.1, semver@~7.5.0, semver@~7.5.4:
   version "7.7.3"
   resolved "https://registry.npmmirror.com/semver/-/semver-7.7.3.tgz#4b5f4143d007633a8dc671cd0a6ef9147b8bb946"
   integrity sha512-SdsKMrI9TdgjdweUSR9MweHA4EJ8YxHn8DFaDisvhVlUOe4BF1tLD7GAj0lIqWVl+dPb/rExr0Btby5loQm20Q==
-
-semver@~7.5.0, semver@~7.5.4:
-  version "7.5.4"
-  resolved "https://registry.npmmirror.com/semver/-/semver-7.5.4.tgz#483986ec4ed38e1c6c48c34894a9182dbff68a6e"
-  integrity sha512-1bCSESV6Pv+i21Hvpxp3Dx+pSD8lIPt8uVjRrxAUt/nbswYc+tK6Y2btiULjd4+fnq15PX+nqQDC7Oft7WkwcA==
-  dependencies:
-    lru-cache "^6.0.0"
 
 send@0.19.0:
   version "0.19.0"
@@ -21972,24 +22034,10 @@ source-map-support@0.5.21, source-map-support@^0.5.12, source-map-support@^0.5.1
     buffer-from "^1.0.0"
     source-map "^0.6.0"
 
-source-map-support@^0.3.2:
-  version "0.3.3"
-  resolved "https://registry.npmmirror.com/source-map-support/-/source-map-support-0.3.3.tgz#34900977d5ba3f07c7757ee72e73bb1a9b53754f"
-  integrity sha512-9O4+y9n64RewmFoKUZ/5Tx9IHIcXM6Q+RTSw6ehnqybUz4a7iwR3Eaw80uLtqqQ5D0C+5H03D4KKGo9PdP33Gg==
-  dependencies:
-    source-map "0.1.32"
-
 source-map-url@^0.4.0:
   version "0.4.1"
   resolved "https://registry.npmmirror.com/source-map-url/-/source-map-url-0.4.1.tgz#0af66605a745a5a2f91cf1bbf8a7afbc283dec56"
   integrity sha512-cPiFOTLUKvJFIg4SKVScy4ilPPW6rFgMgfuZJPNoDuMs3nC1HbMUycBoJw77xFIp6z1UJQJOfx6C9GMH80DiTw==
-
-source-map@0.1.32:
-  version "0.1.32"
-  resolved "https://registry.npmmirror.com/source-map/-/source-map-0.1.32.tgz#c8b6c167797ba4740a8ea33252162ff08591b266"
-  integrity sha512-htQyLrrRLkQ87Zfrir4/yN+vAUd6DNjVayEjTSHXu29AYQJw57I4/xEL/M6p6E/woPNJwvZt6rVlzc7gFEJccQ==
-  dependencies:
-    amdefine ">=0.0.4"
 
 source-map@0.8.0-beta.0:
   version "0.8.0-beta.0"
@@ -22171,6 +22219,11 @@ stackframe@^1.3.4:
   version "1.3.4"
   resolved "https://registry.npmmirror.com/stackframe/-/stackframe-1.3.4.tgz#b881a004c8c149a5e8efef37d51b16e412943310"
   integrity sha512-oeVtt7eWQS+Na6F//S4kJ2K2VbRlS9D43mAlMyVpVWovy9o+jfgH8O9agzANzaiLjclA0oYzUXEM4PurhSUChw==
+
+staged-components@^1.1.3:
+  version "1.1.3"
+  resolved "https://registry.yarnpkg.com/staged-components/-/staged-components-1.1.3.tgz#bb5a396df2d9b48fbc31841a59f53437ed8b8ac6"
+  integrity sha512-9EIswzDqjwlEu+ymkV09TTlJfzSbKgEnNteUnZSTxkpMgr5Wx2CzzA9WcMFWBNCldqVPsHVnRGGrApduq2Se5A==
 
 standard-as-callback@^2.1.0:
   version "2.1.0"
@@ -22597,11 +22650,6 @@ supertest@^6.1.6:
     methods "^1.1.2"
     superagent "^8.1.2"
 
-supports-color@^2.0.0:
-  version "2.0.0"
-  resolved "https://registry.npmmirror.com/supports-color/-/supports-color-2.0.0.tgz#535d045ce6b6363fa40117084629995e9df324c7"
-  integrity sha512-KKNVtd6pCYgPIKU4cp2733HWYCpplQhddZLBUryaAHou723x+FRzQ5Df824Fj+IyyuiQTRoub4SnIFfIcrp70g==
-
 supports-color@^5.3.0:
   version "5.5.0"
   resolved "https://registry.npmmirror.com/supports-color/-/supports-color-5.5.0.tgz#e2e69a44ac8772f78a1ec0b35b689df6530efc8f"
@@ -22897,7 +22945,7 @@ thread-stream@^0.15.1:
   dependencies:
     real-require "^0.1.0"
 
-throttle-debounce@^5.0.0, throttle-debounce@^5.0.2:
+throttle-debounce@^5.0.0:
   version "5.0.2"
   resolved "https://registry.npmmirror.com/throttle-debounce/-/throttle-debounce-5.0.2.tgz#ec5549d84e053f043c9fd0f2a6dd892ff84456b1"
   integrity sha512-B71/4oyj61iNH0KeCamLuE2rmKuTO5byTOSVwECM5FA7TiAiAW+UqTKZ9ERueC4qvgSttUhdmq1mXC3kJqGX7A==
@@ -23857,7 +23905,7 @@ use-merge-value@^1.2.0:
   resolved "https://registry.npmmirror.com/use-merge-value/-/use-merge-value-1.2.0.tgz#45410846c23e490f404c9cbd17d67db9c8c0efcd"
   integrity sha512-DXgG0kkgJN45TcyoXL49vJnn55LehnrmoHc7MbKi+QDBvr8dsesqws8UlyIWGHMR+JXgxc1nvY+jDGMlycsUcw==
 
-use-sync-external-store@^1.4.0:
+use-sync-external-store@^1.2.0, use-sync-external-store@^1.4.0:
   version "1.6.0"
   resolved "https://registry.npmmirror.com/use-sync-external-store/-/use-sync-external-store-1.6.0.tgz#b174bfa65cb2b526732d9f2ac0a408027876f32d"
   integrity sha512-Pp6GSwGP/NrPIrxVFAIkOQeyw8lFenOHijQWkUTrDvrF4ALqylP2C/KCkeS9dpUM3KvYRQhna5vt7IL95+ZQ9w==
