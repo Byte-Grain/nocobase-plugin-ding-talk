@@ -16,11 +16,6 @@
     "name": "不就订个外卖么",
     "email": "yeclimeric@gmail.com"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/Byte-Grain/nocobase-plugin-dingtalk.git",
-    "directory": "packages/plugins/nocobase-plugin-dingtalk"
-  },
   "main": "dist/server/index.js",
   "files": [
     "CHANGELOG.md",
