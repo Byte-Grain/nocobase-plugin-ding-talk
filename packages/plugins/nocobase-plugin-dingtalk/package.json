@@ -1,6 +1,6 @@
 {
   "name": "@yeclimeric/nocobase-plugin-dingtalk",
-  "version": "1.9.0",
+  "version": "1.9.1",
   "displayName": "DingTalk",
   "displayName.zh-CN": "钉钉登录",
   "description": "Integrated DingTalk login function",
