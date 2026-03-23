@@ -21,6 +21,15 @@
       ],
       "nocobase-plugin-ext": [
         "packages/plugins/nocobase-plugin-ext/src"
+      ],
+      "@yeclimeric/nocobase-plugin-wecom/client": [
+        "packages/plugins/nocobase-plugin-wecom/src/client"
+      ],
+      "@yeclimeric/nocobase-plugin-wecom/package.json": [
+        "packages/plugins/nocobase-plugin-wecom/package.json"
+      ],
+      "@yeclimeric/nocobase-plugin-wecom": [
+        "packages/plugins/nocobase-plugin-wecom/src"
       ]
     }
   }

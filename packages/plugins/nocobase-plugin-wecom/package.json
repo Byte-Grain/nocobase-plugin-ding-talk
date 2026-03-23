@@ -1,0 +1,30 @@
+{
+  "name": "@yeclimeric/nocobase-plugin-wecom",
+  "version": "1.9.1",
+  "displayName": "WeCom",
+  "displayName.zh-CN": "企业微信登录",
+  "description": "Integrated WeCom login function",
+  "description.zh-CN": "集成企业微信登录功能",
+  "keywords": [
+    "plugin",
+    "企业微信",
+    "wecom",
+    "wechat-work",
+    "nocobase"
+  ],
+  "author": {
+    "name": "不就订个外卖么",
+    "email": "yeclimeric@gmail.com"
+  },
+  "main": "dist/server/index.js",
+  "files": [
+    "CHANGELOG.md",
+    "dist/**"
+  ],
+  "dependencies": {},
+  "peerDependencies": {
+    "@nocobase/client": "1.x",
+    "@nocobase/server": "1.x",
+    "@nocobase/test": "1.x"
+  }
+}
